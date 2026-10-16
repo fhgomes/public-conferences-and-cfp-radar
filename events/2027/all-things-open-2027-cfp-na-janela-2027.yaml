@@ -1,0 +1,48 @@
+id: "b4b50071-95f7-44f5-88f7-c5be2d3ed6f0"
+slug: "all-things-open-2027-cfp-na-janela-2027"
+name: "All Things Open 2027 (CFP na janela)"
+organizer:
+  en: "All Things Open"
+  pt-BR: "All Things Open"
+summary:
+  en: "Same All Things Open conference (Raleigh, NC), October 2027 edition; format and organization identical to the 2026 edition, with the CFP historically opened months before the event."
+  pt-BR: "Mesma conferência All Things Open (Raleigh, NC), edição de outubro/2027; formato e organização idênticos a edição 2026, com CFP historicamente aberto meses antes do evento."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-17"
+  end: "2027-10-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Raleigh, NC"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "35.77"
+  lng: "-78.64"
+  precision: "CITY"
+links:
+  website: "https://allthingsopen.org/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-02-16"
+  timezone: "America/Sao_Paulo"
+  url: "https://allthingsopen.org/call-for-papers"
+  platform: "allthingsopen.org"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

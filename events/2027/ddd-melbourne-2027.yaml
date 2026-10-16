@@ -1,0 +1,58 @@
+id: "9b026b11-3bd7-48f2-896e-6e1eec1b945b"
+slug: "ddd-melbourne-2027"
+name: "DDD Melbourne 2027"
+organizer:
+  en: "DDD Melbourne (community non-profit)"
+  pt-BR: "DDD Melbourne (non-profit comunitário)"
+summary:
+  en: "Community-run non-profit event ('by and for the software development community'), one day, at Melbourne Town Hall. The official website (dddmelbourne.com) confirms the date of February 20, 2027 for the next edition."
+  pt-BR: "Evento comunitário sem fins lucrativos ('por e para a comunidade de desenvolvimento de software'), um dia, em Melbourne Town Hall. O site oficial (dddmelbourne.com) confirma a data de 20 de fevereiro de 2027 para a próxima edição."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-02-20"
+  end: "2027-02-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Melbourne"
+  countryCode: "AU"
+  region: "OTHER"
+  modality: "IN_PERSON"
+geo:
+  lat: "-37.81"
+  lng: "144.96"
+  precision: "CITY"
+links:
+  website: "https://dddmelbourne.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-07-24"
+  closesOn: "2026-09-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://dddmelbourne.com/cfp"
+  platform: "dddmelbourne.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:35Z"

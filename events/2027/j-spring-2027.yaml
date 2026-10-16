@@ -1,0 +1,49 @@
+id: "1243b76e-4fd7-4df6-ae84-c80a5edc31a1"
+slug: "j-spring-2027"
+name: "J-Spring 2027"
+organizer:
+  en: "NLJUG"
+  pt-BR: "NLJUG"
+summary:
+  pt-BR: "J-Spring é o evento-irmão de J-Fall pela NLJUG, realizado em Utrecht (Jaarbeurs) em um único dia, com trilhas de Java, Data & IA, Arquitetura, tendências ('New & Cool') e Pessoas & Cultura. A NLJUG mantém um programa de mentoria para novos palestrantes."
+dates:
+  start: "2027-06-10"
+  end: "2027-06-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Utrecht (Jaarbeurs)"
+  countryCode: "NL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.09"
+  lng: "5.12"
+  precision: "CITY"
+links:
+  website: "https://jspring.nl/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-12-14"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

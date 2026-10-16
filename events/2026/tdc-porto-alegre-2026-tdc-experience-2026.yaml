@@ -1,0 +1,50 @@
+id: "cfffb6a2-af43-4f7a-ac4e-2fa5f4d2c441"
+slug: "tdc-porto-alegre-2026-tdc-experience-2026"
+name: "TDC Porto Alegre 2026 (TDC Experience)"
+edition: "2026"
+organizer:
+  en: "TDC X POA (independent event licensed by TDC)"
+  pt-BR: "TDC X POA (evento independente licenciado TDC)"
+summary:
+  en: "TDC (The Developers Conference, iMasters, since 2004) is the largest circuit of developer events in Brazil; this is one of the regional editions, a multi-track format of one to two days with an open CFP."
+  pt-BR: "TDC (The Developers Conference, iMasters, desde 2004) é o maior circuito de eventos de devs do Brasil; esta é uma das edições regionais, formato multi-trilha de um a dois dias com CFP aberto."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-12-09"
+  end: "2026-12-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Barra Shopping Sul, Porto Alegre"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+links:
+  website: "https://tdcxpoa.com.br/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-08-10"
+  closesOn: "2026-09-08"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp-poa.thedevconf.com.br/"
+  platform: "cfp-poa.thedevconf.com.br"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:55Z"

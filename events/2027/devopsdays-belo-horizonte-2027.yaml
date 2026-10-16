@@ -1,0 +1,47 @@
+id: "ed2b9377-0309-4396-884a-33c7f668d88e"
+slug: "devopsdays-belo-horizonte-2027"
+name: "DevOpsDays Belo Horizonte 2027"
+organizer:
+  en: "devopsdays Belo Horizonte Community"
+  pt-BR: "Comunidade devopsdays Belo Horizonte"
+summary:
+  en: "DevOpsDays Belo Horizonte is the local chapter of DevOpsDays, a global, non-profit community conference format about DevOps/culture/cloud/automation, born in 2009 (Ghent, Belgium) and replicated by volunteers in dozens of cities. 1-day format: short curated talks in the morning and open space sessions (unconference, topics proposed by the audience itself) in the afternoon. The 2027 edition takes place at UniBH Buritis; the page already invites talk proposals, with no published deadline as of the collection date."
+  pt-BR: "DevOpsDays Belo Horizonte é o capítulo local do DevOpsDays, formato global de conferência comunitária sobre DevOps/cultura/cloud/automação, sem fins lucrativos, nascido em 2009 (Ghent, Bélgica) e replicado por voluntários em dezenas de cidades. Formato de 1 dia: palestras curtas curadas pela manhã e sessões de open space (unconference, temas propostos pelo próprio público) à tarde. A edição 2027 acontece na UniBH Buritis; a página já convida propostas de palestra, sem prazo (deadline) publicado até a data de coleta."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-05-15"
+  end: "2027-05-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Belo Horizonte"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-19.92"
+  lng: "-43.94"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2027-belo-horizonte"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

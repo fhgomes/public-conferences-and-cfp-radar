@@ -1,0 +1,63 @@
+id: "ca4aba46-2e10-431a-b556-b151eb5eaff3"
+slug: "heapcon-2026"
+name: "Heapcon 2026"
+organizer:
+  en: "Heapspace"
+  pt-BR: "Heapspace"
+summary:
+  en: "Heapcon is a hybrid architecture and general development conference in Belgrado, organized by Heapspace, with a single theme per edition (2026: 'Intelligence', about software engineering in the age of automation/AI). About 27 speakers across 2 tracks, at the Madlenianum Opera & Theatre."
+  pt-BR: "Heapcon é uma conferência hibrida de arquitetura e desenvolvimento geral em Belgrado, organizada pela Heapspace, com tema único por edição (2026: 'Intelligence', sobre engenharia de software na era da automação/IA). Cerca de 27 palestrantes em 2 trilhas, no Madlenianum Opera & Theatre."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-05"
+  end: "2026-11-06"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Belgrado"
+  countryCode: "RS"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "44.8"
+  lng: "20.47"
+  precision: "CITY"
+links:
+  website: "https://heapcon.io/2026"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-06-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://forms.gle/QBM1aqkL8yS4c6YM8"
+  platform: "forms.gle"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

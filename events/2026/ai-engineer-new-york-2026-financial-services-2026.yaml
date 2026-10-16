@@ -1,0 +1,53 @@
+id: "a63afbaf-1725-45c9-861d-ff205c17b1b0"
+slug: "ai-engineer-new-york-2026-financial-services-2026"
+name: "AI Engineer New York 2026 (Financial Services)"
+organizer:
+  en: "Software 3.0 / AI Engineer"
+  pt-BR: "Software 3.0 / AI Engineer"
+summary:
+  en: "AI Engineer New York is the largest edition of the AI Engineer (Software 3.0) brand ever held in New York, with a declared focus on AI applied to financial services -- a main track with speakers from Morgan Stanley, BlackRock, Capital One, Bloomberg, Jane Street and Fidelity, bringing together more than 1,500 people in person and hundreds of thousands via streaming."
+  pt-BR: "AI Engineer New York é a maior edição da marca AI Engineer (Software 3.0) já realizada em Nova York, com foco declarado em IA aplicada a serviços financeiros -- trilha principal com palestrantes de Morgan Stanley, BlackRock, Capital One, Bloomberg, Jane Street e Fidelity, reunindo mais de 1.500 pessoas presenciais e centenas de milhares via streaming."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-12"
+  end: "2026-10-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "New York, NY"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "40.71"
+  lng: "-74.01"
+  precision: "CITY"
+links:
+  website: "https://ai.engineer/nyc/2026"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-07-17"
+  closesOn: "2026-09-12"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/aienyc2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:30Z"

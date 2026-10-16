@@ -1,0 +1,49 @@
+id: "a77a50fd-e795-4ef6-af07-24edacb437a7"
+slug: "conf42-cloud-native-2027"
+name: "Conf42 Cloud Native 2027"
+organizer:
+  en: "Conf42"
+  pt-BR: "Conf42"
+summary:
+  pt-BR: "Conf42 Cloud Native 2027 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical dedicada a Kubernetes e arquitetura cloud native, com espaço para Java em cloud."
+dates:
+  start: "2027-04-08"
+  end: "2027-04-08"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/cloudnative2027"
+topics:
+  - "cloud"
+  - "devops"
+  - "java"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-08-27"
+  closesOn: "2027-03-11"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-cloud-2027"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

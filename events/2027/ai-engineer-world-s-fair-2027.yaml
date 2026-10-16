@@ -1,0 +1,46 @@
+id: "83a8e8a8-5704-4ae7-9080-326c39fbebfa"
+slug: "ai-engineer-world-s-fair-2027"
+name: "AI Engineer World's Fair"
+edition: "2027"
+organizer:
+  en: "Software 3.0 / swyx (Latent Space)"
+  pt-BR: "Software 3.0 / swyx (Latent Space)"
+summary:
+  en: "Next edition of the AI Engineer World's Fair, the world's largest technical conference on applied AI (created in 2023 by Shawn 'swyx' Wang and Ben Dunphy), once again in San Francisco. It follows the same format of dozens of technical tracks (RAG, agents, evaluation, reliability) that took the 2026 edition to 6,000+ attendees."
+  pt-BR: "Próxima edição do AI Engineer World's Fair, a maior conferência técnica de IA aplicada do mundo (criada em 2023 por Shawn 'swyx' Wang e Ben Dunphy), novamente em São Francisco. Segue o mesmo formato de dezenas de trilhas técnicas (RAG, agentes, avaliação, confiabilidade) que levou a edição de 2026 a 6.000+ participantes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-29"
+  end: "2027-07-01"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "San Francisco, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.77"
+  lng: "-122.42"
+  precision: "CITY"
+links:
+  website: "https://ai.engineer/worldsfair/2027"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-05-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

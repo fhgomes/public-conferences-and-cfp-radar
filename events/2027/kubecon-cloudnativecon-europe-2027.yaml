@@ -1,0 +1,57 @@
+id: "11969403-b3c2-424e-a114-55c1c2aa34a4"
+slug: "kubecon-cloudnativecon-europe-2027"
+name: "KubeCon + CloudNativeCon Europe 2027"
+organizer:
+  en: "CNCF / Linux Foundation"
+  pt-BR: "CNCF / Linux Foundation"
+summary:
+  en: "KubeCon + CloudNativeCon Europe is the annual European event of the CNCF/Linux Foundation dedicated to the Kubernetes and cloud native ecosystem. In-person, multi-day format, hundreds of talks, keynotes from CNCF project maintainers and a large vendor showcase; 2027 edition in Barcelona."
+  pt-BR: "KubeCon + CloudNativeCon Europe é o evento anual europeu da CNCF/Linux Foundation dedicado ao ecossistema Kubernetes e cloud native. Formato presencial de vários dias, centenas de talks, keynotes de mantenedores de projetos CNCF e grande showcase de vendors; edição 2027 em Barcelona."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-15"
+  end: "2027-03-18"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Barcelona"
+  countryCode: "ES"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.39"
+  lng: "2.16"
+  precision: "CITY"
+links:
+  website: "https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-08-09"
+  closesOn: "2026-10-11"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/kubecon-cloudnativecon-europe-2027/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:49Z"

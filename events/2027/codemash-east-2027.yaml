@@ -1,0 +1,36 @@
+id: "ce3854a2-0c15-4ba2-b0e9-4d1a05b85d94"
+slug: "codemash-east-2027"
+name: "CodeMash East 2027"
+organizer:
+  en: "CodeMash (non-profit)"
+  pt-BR: "CodeMash (non-profit)"
+summary:
+  en: "CodeMash East is the extension of CodeMash on the US East Coast (Spotsylvania, VA), with the same multi-language format and the same non-profit organization, promising 150+ sessions; a recent edition still being consolidated compared to the original CodeMash."
+  pt-BR: "CodeMash East é a extensão da CodeMash na costa leste dos EUA (Spotsylvania, VA), com o mesmo formato multi-linguagem e mesma organização sem fins lucrativos, prometendo 150+ sessões; edição ainda recente/em consolidação frente a CodeMash original."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-17"
+  end: "2027-06-18"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Spotsylvania, VA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+links:
+  website: "https://codemash.org/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

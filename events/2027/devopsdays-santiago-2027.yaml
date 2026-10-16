@@ -1,0 +1,44 @@
+id: "4979222a-cbdc-499c-b5d7-9230b8ae8b19"
+slug: "devopsdays-santiago-2027"
+name: "DevOpsDays Santiago 2027"
+organizer:
+  en: "DevOpsDays Santiago"
+  pt-BR: "DevOpsDays Santiago"
+summary:
+  en: "Santiago edition of the DevOpsDays series -- same global community format (single track + Open Space). The confirmed 2026 edition took place on Sept 8-9 at Centro de Extension UC; the 2027 date is an estimate based on the historical pattern."
+  pt-BR: "Edição de Santiago da série DevOpsDays -- mesmo formato comunitário global (trilha única + Open Space). A edição 2026 confirmada foi em 8-9/set no Centro de Extension UC; a data de 2027 e estimativa pelo padrão histórico."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-07"
+  end: "2027-09-08"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Santiago"
+  countryCode: "CL"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-33.46"
+  lng: "-70.65"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-santiago/welcome/"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-02-25"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

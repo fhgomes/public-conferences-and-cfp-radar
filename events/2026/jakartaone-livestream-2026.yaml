@@ -1,0 +1,65 @@
+id: "c67127e5-4f70-40cb-916e-b2cda14403c2"
+slug: "jakartaone-livestream-2026"
+name: "JakartaOne Livestream"
+edition: "2026"
+organizer:
+  en: "Eclipse Foundation / Jakarta EE WG"
+  pt-BR: "Eclipse Foundation / Jakarta EE WG"
+summary:
+  pt-BR: "Livestream anual gratuito da Eclipse Foundation/Jakarta EE Working Group sobre Java enterprise e cloud native, com CFP via Sessionize; a edição 2026 ocorre em 1º de dezembro."
+dates:
+  start: "2026-12-01"
+  end: "2026-12-01"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://jakartaone.org/"
+topics:
+  - "architecture"
+  - "cloud"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-06-21"
+  closesOn: "2026-09-15"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jakartaone-livestream-2026"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-16T00:15:22Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-16T00:15:22Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

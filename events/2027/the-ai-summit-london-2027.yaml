@@ -1,0 +1,43 @@
+id: "5dc527c5-9fec-4479-9fda-ac972914a802"
+slug: "the-ai-summit-london-2027"
+name: "The AI Summit London 2027"
+organizer:
+  en: "Informa Tech"
+  pt-BR: "Informa Tech"
+summary:
+  en: "The AI Summit London is a corporate AI event organized by Informa Tech (part of the London Tech Week calendar), focused on enterprise AI adoption. In-person 2-day format, predominantly vendor talks and corporate case studies."
+  pt-BR: "The AI Summit London é um evento corporativo de IA organizado pela Informa Tech (parte do calendário London Tech Week), com foco em adoção empresarial de IA. Formato presencial de 2 dias, predominantemente palestras de vendors e cases corporativos."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-09"
+  end: "2027-06-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Londres (Tobacco Dock)"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.51"
+  lng: "-0.13"
+  precision: "CITY"
+links:
+  website: "https://london.theaisummit.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://london.theaisummit.com/conference-speakers/submit-speaker/"
+  platform: "london.theaisummit.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

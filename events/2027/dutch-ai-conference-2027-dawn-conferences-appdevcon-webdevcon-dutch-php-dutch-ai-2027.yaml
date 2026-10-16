@@ -1,0 +1,62 @@
+id: "e1a05ccc-5ce5-4e02-b6f0-bf64f0fd8d81"
+slug: "dutch-ai-conference-2027-dawn-conferences-appdevcon-webdevcon-dutch-php-dutch-ai-2027"
+name: "Dutch AI Conference 2027 (Dawn Conferences: Appdevcon + Webdevcon + Dutch PHP + Dutch AI)"
+organizer:
+  en: "Dawn Conferences (Appdevcon)"
+  pt-BR: "Dawn Conferences (Appdevcon)"
+summary:
+  en: "Dutch AI Conference is one of the four sister conferences under the 'Dawn Conferences' umbrella (with Appdevcon, Webdevcon and Dutch PHP Conference), running simultaneously in Amsterdã. Large-scale, with a full speaker package (flight + hotel + transfers + dinner)."
+  pt-BR: "Dutch AI Conference é uma das quatro conferências-irmãs do guarda-chuva 'Dawn Conferences' (com Appdevcon, Webdevcon e Dutch PHP Conference), rodando simultaneamente em Amsterdã. Grande porte, com pacote de speaker completo (voo + hotel + transfers + jantar)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-16"
+  end: "2027-03-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Amsterdã (Pathé Noord)"
+  countryCode: "NL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.37"
+  lng: "4.89"
+  precision: "CITY"
+links:
+  website: "https://aiconference.nl"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-09-01"
+  closesOn: "2026-12-18"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/dawn-conferences-2027/"
+  platform: "Sessionize"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:39Z"

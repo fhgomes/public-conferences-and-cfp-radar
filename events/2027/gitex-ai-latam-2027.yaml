@@ -1,0 +1,58 @@
+id: "ace03c51-5953-4cb8-894a-1953fc1cd1d2"
+slug: "gitex-ai-latam-2027"
+name: "GITEX AI LATAM 2027"
+organizer:
+  en: "GITEX / Dubai World Trade Centre"
+  pt-BR: "GITEX / Dubai World Trade Centre"
+summary:
+  en: "GITEX AI LATAM is the first Latin American edition of the global GITEX brand (one of the largest technology event series in the world, organized by Dubai World Trade Centre/KAOUN International), held in São Paulo on 16-17/03/2027 at Anhembi, in partnership with the city government (ADESAMPA). Executive trade show/congress format, with an expected 35 thousand executives and 700+ companies/startups from more than 100 countries."
+  pt-BR: "GITEX AI LATAM é a primeira edição latino-americana da marca global GITEX (uma das maiores séries de eventos de tecnologia do mundo, organizada pela Dubai World Trade Centre/KAOUN International), realizada em São Paulo em 16-17/03/2027 no Anhembi, em parceria com a prefeitura (ADESAMPA). Formato de feira/congresso executivo, com expectativa de 35 mil executivos e 700+ empresas/startups de mais de 100 países."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-16"
+  end: "2027-03-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.gitexlatam.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://event.gitexlatam.com/speaker-enquiry"
+  platform: "event.gitexlatam.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:41Z"

@@ -1,0 +1,58 @@
+id: "badcdc8e-ccba-45f7-a8d6-a1c393e79603"
+slug: "nerdearla-mexico-2026"
+name: "Nerdearla México 2026"
+organizer:
+  en: "Sysarmy / Nerdearla"
+  pt-BR: "Sysarmy / Nerdearla"
+summary:
+  pt-BR: "Edição mexicana do Nerdear.la (Sysarmy), na sua 2a edição, realizada na Expo Reforma na Cidade do México, com talks de 25min/workshops de 60min em espanhol e inglês, formato híbrido (presencial ou virtual) e registro que abre em outubro."
+dates:
+  start: "2026-11-18"
+  end: "2026-11-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade do México"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "HYBRID"
+geo:
+  lat: "19.43"
+  lng: "-99.13"
+  precision: "CITY"
+links:
+  website: "https://nerdearla.com/en/mexico/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2026-04-01"
+  closesOn: "2026-06-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/n26mx/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:51Z"

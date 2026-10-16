@@ -1,0 +1,51 @@
+id: "bf0497c2-a1f9-400a-a6da-aa11b18a06a0"
+slug: "jakarta-tech-talks-webinars-online-da-comunidade-jakarta-ee-2026"
+name: "Jakarta Tech Talks"
+nameNote:
+  en: "online webinars of the Jakarta EE community"
+  pt-BR: "webinars online da comunidade Jakarta EE"
+organizer:
+  en: "Jakarta EE community / Eclipse Foundation (Meetup)"
+  pt-BR: "Jakarta EE community / Eclipse Foundation (Meetup)"
+summary:
+  en: "Webinar series from the Jakarta EE community (Eclipse Foundation), organized via Meetup, with recurring technical sessions throughout the year (e.g., 06/10/2026 on exceptions, 08/10/2026 on agentic AI). CFP form open on the Meetup page itself."
+  pt-BR: "Série de webinars da comunidade Jakarta EE (Eclipse Foundation), organizada via Meetup, com sessões técnicas recorrentes ao longo do ano (ex.: 06/10/2026 sobre exceptions, 08/10/2026 sobre agentic AI). Formulário de CFP aberto na própria página do Meetup."
+machineTranslated:
+  - "nameNote.en"
+  - "summary.en"
+dates:
+  start: "2026-10-06"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.meetup.com/jakartatechtalks_/"
+topics:
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  timezone: "UTC"
+  url: "https://jakartaone.jakarta.ee/tech-talk/"
+  platform: "jakartaone.jakarta.ee"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

@@ -1,0 +1,49 @@
+id: "305a994b-b14b-4512-9521-757966bf72d0"
+slug: "devconverge-latam-sprint-sao-paulo-2027"
+name: "DevConverge LATAM — Sprint São Paulo 2027"
+organizer:
+  en: "DevConverge LATAM (tech communities)"
+  pt-BR: "DevConverge LATAM (comunidades tech)"
+summary:
+  en: "DevConverge LATAM is a series of developer meetups launched in December 2023 in Buenos Aires by tech communities, now with 'sprints' in several cities across Latin America. The 'Sprint São Paulo' is the São Paulo edition, with simultaneous tracks (Java, Go, Python, PHP, Clojure, Node.js), a mentoring hub and sponsorship from large local companies (e.g. Nubank)."
+  pt-BR: "DevConverge LATAM é uma série de encontros de desenvolvedores lançada em dezembro/2023 em Buenos Aires por comunidades tech, hoje com 'sprints' em várias cidades da América Latina. O 'Sprint São Paulo' é a edição paulistana, com trilhas simultâneas (Java, Go, Python, PHP, Clojure, Node.js), hub de mentorias e patrocínio de grandes empresas locais (ex. Nubank)."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-09-04"
+  end: "2027-09-04"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.devconvergelatam.com/home"
+topics:
+  - "ai-ml"
+  - "career"
+  - "java"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-05-01"
+  timezone: "America/Sao_Paulo"
+  url: "https://www.devconvergelatam.com/home"
+  platform: "devconvergelatam.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

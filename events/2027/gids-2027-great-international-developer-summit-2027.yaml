@@ -1,0 +1,62 @@
+id: "c2dbb800-1a07-415a-80bd-717858304ea4"
+slug: "gids-2027-great-international-developer-summit-2027"
+name: "GIDS 2027 — Great International Developer Summit"
+organizer:
+  en: "Saltmarch / developersummit.com"
+  pt-BR: "Saltmarch / developersummit.com"
+summary:
+  en: "Great International Developer Summit (GIDS), India's largest cross-platform technology conference (Saltmarch/developersummit.com), 20th edition, 4 days in Bengaluru with 150+ sessions covering AI, architecture, cloud and Java."
+  pt-BR: "Great International Developer Summit (GIDS), maior conferência de tecnologia multiplataforma da Índia (Saltmarch/developersummit.com), 20ª edição, 4 dias em Bengaluru com 150+ sessões cobrindo IA, arquitetura, cloud e Java."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-27"
+  end: "2027-04-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Bengaluru"
+  countryCode: "IN"
+  region: "OTHER"
+  modality: "IN_PERSON"
+geo:
+  lat: "12.97"
+  lng: "77.59"
+  precision: "CITY"
+links:
+  website: "https://developersummit.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "devops"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-09-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://form.jotform.com/261291786882875"
+  platform: "form.jotform.com"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:41Z"

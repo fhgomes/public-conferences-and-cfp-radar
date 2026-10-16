@@ -1,0 +1,46 @@
+id: "542ed8f2-83dd-415a-af41-b3cad53d7f3d"
+slug: "tdc-experience-sao-carlos-2027"
+name: "TDC Experience São Carlos 2027"
+organizer:
+  en: "Globalcode / TDC + São Carlos Experience"
+  pt-BR: "Globalcode / TDC + São Carlos Experience"
+summary:
+  en: "TDC Experience in São Carlos, a university city (USP/UFSCar), compact one-day format within the national TDC network."
+  pt-BR: "TDC Experience em São Carlos, cidade universitária (USP/UFSCar), formato compacto de um dia dentro da rede nacional TDC."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-25"
+  end: "2027-08-26"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Carlos"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.02"
+  lng: "-47.89"
+  precision: "CITY"
+links:
+  website: "https://thedevconf.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-05-11"
+  timezone: "America/Sao_Paulo"
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:55Z"

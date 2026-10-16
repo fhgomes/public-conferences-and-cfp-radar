@@ -1,0 +1,46 @@
+id: "deb82cb4-11da-411a-87e7-a8915f689ad1"
+slug: "devdays-europe-2027-devops-pro-cyberwisecon-2027"
+name: "DevDays Europe 2027 (+ DevOps Pro + CyberWiseCon)"
+organizer:
+  en: "Data Miner (DevDays)"
+  pt-BR: "Data Miner (DevDays)"
+summary:
+  en: "DevDays Europe (formerly Riga Dev Days) is an umbrella conference in Riga that brings DevDays, DevOps Pro and CyberWiseCon together in a single event, organized by Data Miner. It covers AI, architecture, DevOps, general development and security across multiple tracks."
+  pt-BR: "DevDays Europe (antigo Riga Dev Days) é uma conferência guarda-chuva em Riga que reúne DevDays, DevOps Pro e CyberWiseCon num mesmo evento, organizada pela Data Miner. Cobre IA, arquitetura, DevOps, desenvolvimento geral e segurança em múltiplas trilhas."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-25"
+  end: "2027-05-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Riga"
+  countryCode: "LV"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "56.95"
+  lng: "24.11"
+  precision: "CITY"
+links:
+  website: "https://devdayseurope.eu/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "devops"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://airtable.com/appHxAEL0xN1OErFQ/pag3NDDzoyeWtaF4H/form"
+  platform: "airtable.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

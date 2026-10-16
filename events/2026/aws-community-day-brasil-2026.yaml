@@ -1,0 +1,50 @@
+id: "f24ff7d3-4b22-4a05-9bae-fc7d49a19ff5"
+slug: "aws-community-day-brasil-2026"
+name: "AWS Community Day Brasil 2026"
+organizer:
+  en: "AWS User Groups Brasil (community)"
+  pt-BR: "AWS User Groups Brasil (comunidade)"
+summary:
+  en: "Community Day organized by AWS user groups in Brazil, a day focused on cloud, applied AI and DevOps, with part of the proceeds donated; the 2025 edition was held in Campinas. As of 09/27/2026, the website still had no confirmed date or city for 2026."
+  pt-BR: "Community Day organizado por grupos de usuários da AWS no Brasil, um dia focado em nuvem, IA aplicada e DevOps, com renda em parte doada; a edição 2025 foi em Campinas. Em 27/09/2026 o site ainda não trazia data nem cidade confirmadas para 2026."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-06-27"
+  end: "2026-10-31"
+  tba: false
+  status: "CONFIRMED"
+location:
+  cityStatus: "TBA"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+links:
+  website: "https://awscommunityday.com.br/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  closesOn: "2026-09-14"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://awscommunityday.com.br/"
+  platform: "awscommunityday.com.br"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

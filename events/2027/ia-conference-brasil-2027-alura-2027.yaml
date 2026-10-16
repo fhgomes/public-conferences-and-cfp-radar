@@ -1,0 +1,39 @@
+id: "2c404470-7409-4ae0-95e8-9ac171e341f1"
+slug: "ia-conference-brasil-2027-alura-2027"
+name: "IA Conference Brasil 2027 (Alura)"
+organizer:
+  en: "Alura (Grupo Alura)"
+  pt-BR: "Alura (Grupo Alura)"
+summary:
+  en: "IA Conference Brasil is the AI event by Alura (the largest tech education platform in Brazil), in its 3rd and largest edition in 2026 (09/24, Frei Caneca): 1,300+ people, 10+ hours of programming, 50+ pieces of content, industry speakers, called by the organization itself 'the largest AI event in Brazil'. The 2027 edition has no announced date yet (estimate: Sep/2027)."
+  pt-BR: "IA Conference Brasil é o evento de IA da Alura (maior plataforma de ensino de tecnologia do Brasil), em sua 3ª e maior edição em 2026 (24/09, Frei Caneca): 1.300+ pessoas, 10+ horas de programação, 50+ conteúdos, palestrantes de mercado, chamado pela própria organização de 'maior evento de IA do Brasil'. A de 2027 ainda não tem data anunciada (estimativa: set/2027)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-23"
+  end: "2027-09-23"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.iaconferencebrasil.com.br/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

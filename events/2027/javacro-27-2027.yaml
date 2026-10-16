@@ -1,0 +1,41 @@
+id: "0006aa3b-c282-45f4-b637-1e6379cbcdb4"
+slug: "javacro-27-2027"
+name: "JavaCro'27"
+organizer:
+  en: "HUJAK"
+  pt-BR: "HUJAK"
+summary:
+  en: "Same JavaCro conference (HUJAK, Rovinj); the 2027 edition falls outside the panel's window of interest (10-13/10/2027), but the CFP (~31/05/2027) falls within it. Free pass for the first author of each accepted submission."
+  pt-BR: "Mesma conferência JavaCro (HUJAK, Rovinj); edição 2027 fica fora da janela de interesse do painel (10-13/10/2027), mas o CFP (~31/05/2027) cai dentro dela. Passe gratis para o primeiro autor de cada submissão aceita."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-10"
+  end: "2027-10-13"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Rovinj"
+  countryCode: "HR"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "45.08"
+  lng: "13.63"
+  precision: "CITY"
+links:
+  website: "https://javacro.hr/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:42Z"

@@ -1,0 +1,47 @@
+id: "134cf479-19d2-4c4d-a7e9-5580d8279553"
+slug: "kcd-brasil-kcd-sao-paulo-2027"
+name: "KCD Brasil / KCD São Paulo 2027"
+organizer:
+  en: "CNCF KCD Brasil (comunidade)"
+  pt-BR: "CNCF KCD Brasil (comunidade)"
+summary:
+  en: "KCD (Kubernetes Community Day) is the label for regional events endorsed by the CNCF; the São Paulo edition is organized locally (Krolcloud + community) and described as the city's largest cloud native gathering, a one-day in-person event."
+  pt-BR: "KCD (Kubernetes Community Day) é o selo de eventos regionais endossados pela CNCF; a edição de São Paulo é organizada localmente (Krolcloud + comunidade) e descrita como o maior encontro cloud native da cidade, um dia presencial."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-25"
+  end: "2027-09-25"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://community2.cncf.io/kcd-brasil/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  opensOn: "2027-05-07"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

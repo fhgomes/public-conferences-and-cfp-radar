@@ -1,0 +1,44 @@
+id: "2aeb0094-52a3-4148-9e01-2bd1e00cd7d1"
+slug: "fintech-devcon-2027"
+name: "fintech_devcon"
+edition: "2027"
+organizer:
+  en: "Moov Financial"
+  pt-BR: "Moov Financial"
+summary:
+  en: "fintech_devcon is Moov Financial's technical conference focused on fintech engineering (payments, financial APIs, infrastructure), created with the stated aim of being educational and free of sales pitches. It started around 2022, grew fast (first edition with about 500 people) and the 2026 edition was held in Denver (August 3-5)."
+  pt-BR: "fintech_devcon é a conferência técnica da Moov Financial voltada à engenharia de fintech (pagamentos, APIs financeiras, infraestrutura), criada com a proposta declarada de ser educacional e sem pitch de vendas. Nasceu por volta de 2022, cresceu rápido (primeira edição com cerca de 500 pessoas) e a edição de 2026 foi em Denver (3-5 de agosto)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-02"
+  end: "2027-08-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+links:
+  website: "https://fintechdevcon.io/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2027-03-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://fintechdevcon.io/call-for-speakers/"
+  platform: "fintechdevcon.io"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:40Z"

@@ -1,0 +1,43 @@
+id: "450cab99-ad73-4670-b7c9-731dbfed9a82"
+slug: "porto-tech-hub-conference-2027"
+name: "Porto Tech Hub Conference 2027"
+organizer:
+  en: "Porto Tech Hub"
+  pt-BR: "Porto Tech Hub"
+summary:
+  en: "2027 edition of Porto's largest tech conference, organized by the Porto Tech Hub community - same 1-day format with dozens of talks in English, covering cloud, AI and security."
+  pt-BR: "Edição 2027 da maior conferência de tecnologia do Porto, organizada pela comunidade Porto Tech Hub - mesmo formato de 1 dia com dezenas de talks em inglês, cobrindo cloud, IA e segurança."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-11-09"
+  end: "2027-11-09"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Porto"
+  countryCode: "PT"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.15"
+  lng: "-8.61"
+  precision: "CITY"
+links:
+  website: "https://portotechhub.com/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-04-22"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:53Z"

@@ -1,0 +1,49 @@
+id: "2c155f5f-5c12-4363-acf3-605b530fe94b"
+slug: "ai-tinkerers-sao-paulo-meetup-mensal-demo-first-2026"
+name: "AI Tinkerers São Paulo (meetup mensal, demo-first)"
+organizer:
+  en: "AI Tinkerers SP (capítulo global)"
+  pt-BR: "AI Tinkerers SP (capítulo global)"
+summary:
+  en: "AI Tinkerers is a global community of generative AI/LLM 'builders', with local chapters in dozens of cities. The São Paulo chapter holds monthly 'demo-first' meetups (no slides/pitch, only live demos and code), with ~14 events in 12 months and 100-750 registrants per edition, including partnerships with Oracle, Semantix and a hackathon with Google DeepMind."
+  pt-BR: "AI Tinkerers é uma comunidade global de 'builders' de IA generativa/LLMs, com capítulos locais em dezenas de cidades. O capítulo de São Paulo promove encontros mensais 'demo-first' (sem slides/pitch, só demos ao vivo e código), com ~14 eventos em 12 meses e 100-750 inscritos por edição, incluindo parcerias com Oracle, Semantix e um hackathon com o Google DeepMind."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-21"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://saopaulo.aitinkerers.org/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://saopaulo.aitinkerers.org/p/ai-tinkerers-sp-e-claro"
+  platform: "saopaulo.aitinkerers.org"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

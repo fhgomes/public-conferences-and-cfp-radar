@@ -1,0 +1,53 @@
+id: "a6118371-2a0b-4f6b-b1a2-ddf282a348ba"
+slug: "devfest-callao-2026"
+name: "DevFest Callao 2026"
+organizer:
+  en: "GDG Callao"
+  pt-BR: "GDG Callao"
+summary:
+  en: "DevFest Callao 2026 is the flagship event of GDG Callao (Lima region), with talks on AI and the Google portfolio, over two days."
+  pt-BR: "DevFest Callao 2026 é o evento-bandeira do GDG Callao (região de Lima), com talks sobre IA e o portfólio Google, ao longo de dois dias."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-24"
+  end: "2026-10-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Callao (Lima)"
+  countryCode: "PE"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.05"
+  lng: "-77.13"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-callao/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "es"
+cfp:
+  closesOn: "2026-09-07"
+  timezone: "America/Lima"
+  closeTimeKnown: false
+  url: "https://app.advocu.com/events/6a4d2a2d73f355d579feeec6"
+  platform: "app.advocu.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:35Z"

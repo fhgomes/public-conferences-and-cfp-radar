@@ -1,0 +1,49 @@
+id: "ca9271d3-2e99-4ad9-88a9-91108891437a"
+slug: "voxxed-days-luxembourg-2027"
+name: "Voxxed Days Luxembourg"
+edition: "2027"
+organizer:
+  en: "YaJUG ASBL"
+  pt-BR: "YaJUG ASBL"
+summary:
+  en: "Voxxed Days Luxembourg is the annual one-day event of the Luxembourg Java community, organized by YaJUG (a non-profit association). Focus on Java/JVM, cloud, DevOps and AI, in a classic one-day conference format."
+  pt-BR: "Voxxed Days Luxembourg é o evento anual de um dia da comunidade Java luxemburguesa, organizado pela YaJUG (associação sem fins lucrativos). Foco em Java/JVM, cloud, DevOps e IA, formato clássico de conferência de um dia."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-21"
+  end: "2027-06-22"
+  tba: false
+  status: "CONFIRMED"
+location:
+  countryCode: "LU"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://luxembourg.voxxeddays.com/en/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+  - "devops"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-11-05"
+  timezone: "America/Sao_Paulo"
+  url: "https://voxxedlu2027.cfp.dev"
+  platform: "voxxedlu2027.cfp.dev"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "dev-events"
+    name: "dev.events"
+    url: "https://dev.events"
+    licence: "unknown"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

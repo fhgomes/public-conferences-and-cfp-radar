@@ -1,0 +1,46 @@
+id: "30d70447-3060-414e-9956-35a2ef3ad780"
+slug: "api-world-2027"
+name: "API World 2027"
+organizer:
+  en: "DevNetwork"
+  pt-BR: "DevNetwork"
+summary:
+  en: "API World is an annual DevNetwork event in Santa Clara focused on APIs, integration, architecture and, more recently, applied AI. It runs during the same period/umbrella as other DevNetwork sister conferences (DeveloperWeek, AI DevSummit). In-person 3-day format with parallel tracks and a large expo."
+  pt-BR: "API World é um evento anual da DevNetwork em Santa Clara focado em APIs, integração, arquitetura e, mais recentemente, IA aplicada. Roda no mesmo período/guarda-chuva de outras conferências-irmãs da DevNetwork (DeveloperWeek, AI DevSummit). Formato presencial de 3 dias com trilhas paralelas e expo grande."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-08"
+  end: "2027-09-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Santa Clara, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.35"
+  lng: "-121.96"
+  precision: "CITY"
+links:
+  website: "https://www.devnetwork.com/events/"
+topics:
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-03-24"
+  timezone: "America/Sao_Paulo"
+  url: "https://apiworld.co/speakers/apply-to-speak/"
+  platform: "apiworld.co"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

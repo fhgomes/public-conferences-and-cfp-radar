@@ -1,0 +1,41 @@
+id: "26278073-fc26-481a-a205-9c2d933ed7ef"
+slug: "soujava-rio-meetup-java-rio-2026"
+name: "SouJava Rio — Meetup Java@Rio"
+organizer:
+  en: "SouJava Rio (Daniel Dias)"
+  pt-BR: "SouJava Rio (Daniel Dias)"
+summary:
+  en: "SouJava Rio organizes the 'Java @ Rio' meetup (led by Daniel Dias), with recurring hybrid gatherings — the latest recorded editions include '#24 Serverless com Java' (with Ivar Grimstad, Jakarta EE specification lead) and '#25 DeltaSpike'. The actual cadence in 2026 was not verified (the website may be outdated)."
+  pt-BR: "SouJava Rio organiza o meetup 'Java @ Rio' (liderado por Daniel Dias), com encontros híbridos recorrentes — últimas edições registradas incluem '#24 Serverless com Java' (com Ivar Grimstad, líder da especificação Jakarta EE) e '#25 DeltaSpike'. A cadência real em 2026 não foi verificada (o site pode estar desatualizado)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "UNKNOWN"
+location:
+  city: "Rio de Janeiro"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+geo:
+  lat: "-22.91"
+  lng: "-43.18"
+  precision: "CITY"
+links:
+  website: "https://soujava-rio.github.io/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

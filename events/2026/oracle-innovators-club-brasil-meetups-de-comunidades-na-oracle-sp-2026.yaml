@@ -1,0 +1,45 @@
+id: "0991fa2c-e8c9-41a0-81a8-cd761e1081dd"
+slug: "oracle-innovators-club-brasil-meetups-de-comunidades-na-oracle-sp-2026"
+name: "Oracle Innovators Club Brasil"
+nameNote:
+  en: "community meetups at Oracle SP"
+  pt-BR: "meetups de comunidades na Oracle SP"
+organizer:
+  en: "Oracle LATAM / Oracle Brasil (DevRel)"
+  pt-BR: "Oracle LATAM / Oracle Brasil (DevRel)"
+summary:
+  en: "Oracle program launched in 2026 to connect devs and technical communities (including GUOB, active since 1997) to Oracle's AI ecosystem; it offers event invitations, certification vouchers and workshops. It is a hub/program, not a single event."
+  pt-BR: "Programa da Oracle lançado em 2026 para conectar devs e comunidades técnicas (incluindo a GUOB, ativa desde 1997) ao ecossistema de IA da Oracle; oferece convites para eventos, vouchers de certificação e workshops. É um hub/programa, não um evento único."
+machineTranslated:
+  - "nameNote.en"
+  - "summary.en"
+dates:
+  start: "2026-10-07"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://engage.oracle.com/innovatorsclubbrasil"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:52Z"

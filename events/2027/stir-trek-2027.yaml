@@ -1,0 +1,45 @@
+id: "cc9b3dfb-d6f3-4239-9b96-f594c8c39e51"
+slug: "stir-trek-2027"
+name: "Stir Trek 2027"
+organizer:
+  en: "Stir Trek Conference, Inc."
+  pt-BR: "Stir Trek Conference, Inc."
+summary:
+  en: "Stir Trek is a one-day conference in Columbus, Ohio, run by a nonprofit organization, with the distinctive feature of ending with a movie premiere screening at an AMC theater. It has existed since 2009, mixing general development technical tracks with the movie theater experience."
+  pt-BR: "Stir Trek é uma conferência de um dia em Columbus, Ohio, organizada por uma entidade sem fins lucrativos, com o diferencial de terminar com a exibição de um filme em pré-estreia num cinema AMC. Existe desde 2009, misturando trilhas técnicas de desenvolvimento geral com a experiência do cinema."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-30"
+  end: "2027-04-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Columbus, OH"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "39.96"
+  lng: "-83"
+  precision: "CITY"
+links:
+  website: "https://stirtrek.com/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-11"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

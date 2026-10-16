@@ -1,0 +1,50 @@
+id: "b9b4b4dd-48b2-44e7-b6ed-dd38a997c7fc"
+slug: "javazone-2027"
+name: "JavaZone"
+edition: "2027"
+organizer:
+  en: "javaBin (Norwegian JUG)"
+  pt-BR: "javaBin (Norwegian JUG)"
+summary:
+  en: "JavaZone is one of the largest Java conferences in Europe, organized by javaBin (Norwegian JUG) in Oslo, with huge scale (>3000) and a tradition of over 20 years -- a strong reference in the European Java calendar."
+  pt-BR: "JavaZone é uma das maiores conferências Java da Europa, organizada pela javaBin (JUG norueguesa) em Oslo, com porte enorme (>3000) e tradição de mais de 20 anos -- referência forte no calendário Java europeu."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-01"
+  end: "2027-09-09"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Oslo"
+  countryCode: "NO"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "59.91"
+  lng: "10.75"
+  precision: "CITY"
+links:
+  website: "https://javazone.no/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-03-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

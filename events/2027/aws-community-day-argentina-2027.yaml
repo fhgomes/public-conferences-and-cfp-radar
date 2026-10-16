@@ -1,0 +1,48 @@
+id: "92b4f92a-a35f-4a29-b2e7-5be6158b5927"
+slug: "aws-community-day-argentina-2027"
+name: "AWS Community Day Argentina 2027"
+organizer:
+  en: "AWS User Group Argentina (awsarg.org)"
+  pt-BR: "AWS User Group Argentina (awsarg.org)"
+summary:
+  en: "AWS Community Day Argentina is the free annual event of the Argentine AWS community, organized by volunteers of the AWS User Group Argentina (not by AWS directly), with a day of talks about cloud and, increasingly, generative AI. The 2026 edition took place at UAI Anexo Cisneros (Buenos Aires); 2027 follows the same community pattern, with an estimated date."
+  pt-BR: "AWS Community Day Argentina é o evento anual gratuito da comunidade AWS argentina, organizado por voluntários do AWS User Group Argentina (não pela AWS diretamente), com um dia de talks sobre nuvem e, cada vez mais, IA generativa. A edição 2026 foi na UAI Anexo Cisneros (Buenos Aires); 2027 segue o mesmo padrão comunitário, com data estimada."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-11"
+  end: "2027-09-11"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Buenos Aires"
+  countryCode: "AR"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-34.61"
+  lng: "-58.38"
+  precision: "CITY"
+links:
+  website: "https://www.awsarg.org/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-07-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

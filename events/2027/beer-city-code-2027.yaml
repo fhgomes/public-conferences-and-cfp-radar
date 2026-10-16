@@ -1,0 +1,42 @@
+id: "8fc27533-f094-4d20-a40c-10e61f94ba34"
+slug: "beer-city-code-2027"
+name: "Beer City Code 2027"
+organizer:
+  en: "Beer City Code (community)"
+  pt-BR: "Beer City Code (community)"
+summary:
+  pt-BR: "Beer City Code é a maior conferência de tecnologia do oeste de Michigan, realizada em Grand Rapids desde 2017 (sucessora do Grand Rapids DevDay). Formato de 2 dias: um dia de workshops práticos seguido de um dia de trilhas paralelas cobrindo .NET, JavaScript, cloud, DevOps, IA, segurança e arquitetura."
+dates:
+  start: "2027-08-13"
+  end: "2027-08-14"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Grand Rapids, MI"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "42.96"
+  lng: "-85.67"
+  precision: "CITY"
+links:
+  website: "https://www.beercitycode.com/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-15"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

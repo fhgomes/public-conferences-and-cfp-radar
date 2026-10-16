@@ -1,0 +1,42 @@
+id: "8af14601-885b-4425-8dd9-ca4c8ce190a1"
+slug: "kubecon-cloudnativecon-japan-2027"
+name: "KubeCon + CloudNativeCon Japan 2027"
+organizer:
+  en: "CNCF / Linux Foundation"
+  pt-BR: "CNCF / Linux Foundation"
+summary:
+  en: "Japanese edition of the KubeCon + CloudNativeCon franchise; 2026 was held on July 28-30 in Yokohama (CFP closed in March 2026); the 2027 edition has not been announced yet."
+  pt-BR: "Edição japonesa da franquia KubeCon + CloudNativeCon; 2026 foi em 28-30 de julho em Yokohama (CFP fechou em março/2026); a edição 2027 ainda não foi anunciada."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-27"
+  end: "2027-07-29"
+  tba: false
+  status: "ESTIMATED"
+location:
+  countryCode: "JP"
+  region: "OTHER"
+  modality: "IN_PERSON"
+links:
+  website: "https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-japan/program/cfp/"
+  platform: "events.linuxfoundation.org"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

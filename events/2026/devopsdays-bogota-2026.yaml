@@ -1,0 +1,57 @@
+id: "3a9289b7-fff6-49fb-992b-2aa85d1fc295"
+slug: "devopsdays-bogota-2026"
+name: "DevOpsDays Bogotá 2026"
+organizer:
+  en: "DevOpsDays Bogotá"
+  pt-BR: "DevOpsDays Bogotá"
+summary:
+  en: "DevOpsDays is a global series of community-run, non-profit conferences about DevOps, culture and operations/development practice, organized locally by volunteers in each city. The Bogotá edition takes place at the Centro de Convenciones Compensar, with the classic format of a single track in the morning and Open Space in the afternoon."
+  pt-BR: "DevOpsDays é uma série global de conferências comunitárias e sem fins lucrativos sobre DevOps, cultura e prática de operações/desenvolvimento, organizada localmente por voluntários em cada cidade. A edição de Bogotá acontece no Centro de Convenciones Compensar, com o formato clássico de trilha única pela manhã e Open Space a tarde."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-23"
+  end: "2026-10-23"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Bogotá"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "4.61"
+  lng: "-74.08"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-bogota/welcome/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  closesOn: "2026-08-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://talks.devopsdays.org/devopsdays-bogota-2026/cfp"
+  platform: "talks.devopsdays.org"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T17:15:32Z"
+    by: "official-page-check"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

@@ -1,0 +1,50 @@
+id: "459196ee-c28d-40e2-b6ee-edd2180cf9d5"
+slug: "devbcn-2027"
+name: "DevBcn"
+edition: "2027"
+organizer:
+  en: "Barcelona JUG / DevBcn"
+  pt-BR: "Barcelona JUG / DevBcn"
+summary:
+  en: "DevBcn is the multi-track conference (Java, Cloud, AI) in Barcelona, organized by Barcelona JUG, with a strong tradition in the Iberian Java community. Medium-sized in-person format, usually close in dates to Spring I/O."
+  pt-BR: "DevBcn é a conferência multi-trilha (Java, Cloud, IA) de Barcelona, organizada pela Barcelona JUG, com forte tradição na comunidade Java ibérica. Formato presencial de porte médio, geralmente próximo em datas ao Spring I/O."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-01"
+  end: "2027-06-16"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Barcelona"
+  countryCode: "ES"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.39"
+  lng: "2.16"
+  precision: "CITY"
+links:
+  website: "https://www.devbcn.com/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2026-12-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

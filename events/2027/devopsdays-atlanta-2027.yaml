@@ -1,0 +1,52 @@
+id: "57feb633-b44e-4bdd-aeb4-f909b39cc277"
+slug: "devopsdays-atlanta-2027"
+name: "DevOpsDays Atlanta 2027"
+organizer:
+  en: "devopsdays (community)"
+  pt-BR: "devopsdays (community)"
+summary:
+  en: "DevOpsDays is a global series of conferences organized by each city's local community, a 2-day format with curated talks plus open spaces/ignite talks, without strong corporate hierarchy. The Atlanta edition is one of the dozens of annual editions in the network. Can be combined with Devnexus, which takes place in the same city a few weeks earlier."
+  pt-BR: "DevOpsDays é uma série global de conferências organizadas pela comunidade local de cada cidade, formato de 2 dias com talks curados mais open spaces/ignite talks, sem hierarquia corporativa forte. A edição de Atlanta é uma das dezenas de edições anuais da rede. Combinável com Devnexus, que acontece na mesma cidade poucas semanas antes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-20"
+  end: "2027-04-21"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Atlanta, GA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.75"
+  lng: "-84.39"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2027-atlanta/welcome/"
+topics:
+  - "ai-ml"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-09-15"
+  timezone: "America/Sao_Paulo"
+  url: "https://talks.devopsdays.org/devopsdays-atlanta-2027/cfp"
+  platform: "talks.devopsdays.org"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

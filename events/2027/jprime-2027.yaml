@@ -1,0 +1,52 @@
+id: "4225360c-ed28-4cce-ad25-4c658ab6beb6"
+slug: "jprime-2027"
+name: "jPrime 2027"
+organizer:
+  en: "Bulgarian JUG"
+  pt-BR: "Bulgarian JUG"
+summary:
+  pt-BR: "jPrime é a conferência anual do Java User Group da Bulgária, realizada em Sofia. Formato presencial de 2 dias, conhecida pela política 'no speaker room' - os palestrantes ficam soltos com o público, sem sala reservada."
+dates:
+  start: "2027-05-19"
+  end: "2027-05-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Sófia (Sofia Tech Park)"
+  countryCode: "BG"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "42.7"
+  lng: "23.32"
+  precision: "CITY"
+links:
+  website: "https://jprime.io/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2027-02-15"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://jprime.io/cfp"
+  platform: "jprime.io"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

@@ -1,0 +1,41 @@
+id: "9e8c001b-ddad-4eee-8349-dcf4f955995e"
+slug: "devfest-sul-2026-gdg-floripa-2026"
+name: "DevFest Sul 2026 (GDG Floripa)"
+organizer:
+  en: "GDG Floripa"
+  pt-BR: "GDG Floripa"
+summary:
+  en: "DevFest Sul is the regional edition of DevFest organized by GDG Florianópolis, representing the South region; same multi-track format as DevFest."
+  pt-BR: "DevFest Sul é a edição regional do DevFest organizada pelo GDG Florianópolis, representando a região Sul; mesmo formato multi-trilha do DevFest."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-14"
+  end: "2026-11-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Florianópolis"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-27.6"
+  lng: "-48.55"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-floripa/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

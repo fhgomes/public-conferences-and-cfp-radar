@@ -1,0 +1,48 @@
+id: "f9b1f712-4eb9-4c7d-97d6-d5f442b06629"
+slug: "aws-community-day-colombia-2027"
+name: "AWS Community Day Colombia 2027"
+organizer:
+  en: "AWS User Groups Colombia"
+  pt-BR: "AWS User Groups Colombia"
+summary:
+  en: "AWS Community Day Colombia is the free annual event of the Colombian AWS User Groups: a day of technical talks on cloud and applied AI, organized by volunteers. The 2026 edition was held at Universidad Nacional (UNAL, Bogotá), with the CFP open from Mar 23 to Apr 15; 2027 is expected to follow the same community format."
+  pt-BR: "AWS Community Day Colômbia é o evento anual gratuito dos AWS User Groups colombianos: um dia de talks técnicas sobre nuvem e IA aplicada, organizado por voluntários. A edição 2026 foi na Universidad Nacional (UNAL, Bogotá), com CFP aberto de 23/mar a 15/abr; 2027 deve seguir o mesmo formato comunitário."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-22"
+  end: "2027-05-22"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Bogotá"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "4.61"
+  lng: "-74.08"
+  precision: "CITY"
+links:
+  website: "https://sessionize.com/aws-community-day-colombia-2026/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "cloud"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2027-03-23"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

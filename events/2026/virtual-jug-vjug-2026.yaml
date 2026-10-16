@@ -1,0 +1,53 @@
+id: "bddbf20a-9e4d-4798-bd6f-b1d85b524b3f"
+slug: "virtual-jug-vjug-2026"
+name: "Virtual JUG (vJUG)"
+organizer:
+  en: "Sam Hepburn (ex-RebelLabs)"
+  pt-BR: "Sam Hepburn (ex-RebelLabs)"
+summary:
+  en: "Virtual JUG (vJUG) is the world's first 100% online Java User Group, created in September 2013 by Simon Maple (then a technologist at RebelLabs/ZeroTurnaround). It recently moved from Meetup to Luma; it holds sessions with one guest speaker at a time."
+  pt-BR: "Virtual JUG (vJUG) é o primeiro Java User Group 100% online do mundo, criado em setembro de 2013 por Simon Maple (então tecnologista da RebelLabs/ZeroTurnaround). Migrou recentemente do Meetup para o Luma; realiza sessões com um palestrante convidado por vez."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://luma.com/vjug"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-02-01"
+  closesOn: "2026-12-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/virtual-java-user-group/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

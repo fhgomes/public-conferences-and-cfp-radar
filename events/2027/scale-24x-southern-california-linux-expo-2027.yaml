@@ -1,0 +1,58 @@
+id: "0b91dd18-3407-40a0-be28-9c1e1c8f2037"
+slug: "scale-24x-southern-california-linux-expo-2027"
+name: "SCaLE 24x (Southern California Linux Expo)"
+organizer:
+  en: "SCaLE (community-run)"
+  pt-BR: "SCaLE (organizado pela comunidade)"
+summary:
+  en: "SCaLE (Southern California Linux Expo) is one of the largest community-run open source/Linux technology conferences in North America, held in Pasadena since 2002 (24th edition in 2027), with a strong tradition of affordability and community participation."
+  pt-BR: "SCaLE (Southern California Linux Expo) é uma das maiores conferências de tecnologia open source/Linux administradas pela comunidade na América do Norte, realizada em Pasadena desde 2002 (24a edição em 2027), com forte tradição de acessibilidade de preço e participação comunitária."
+machineTranslated:
+  - "organizer.pt-BR"
+  - "summary.en"
+dates:
+  start: "2027-04-01"
+  end: "2027-04-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Pasadena, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "34.15"
+  lng: "-118.14"
+  precision: "CITY"
+links:
+  website: "https://www.socallinuxexpo.org/scale/24x"
+topics:
+  - "ai-ml"
+  - "devops"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-08-01"
+  closesOn: "2026-11-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://www.socallinuxexpo.org/scale/24x/cfp"
+  platform: "socallinuxexpo.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:54Z"

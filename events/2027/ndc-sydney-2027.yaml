@@ -1,0 +1,41 @@
+id: "81f17c22-e97a-460c-85d8-8f1ffbe77885"
+slug: "ndc-sydney-2027"
+name: "NDC Sydney 2027"
+organizer:
+  en: "NDC Conferences"
+  pt-BR: "NDC Conferences"
+summary:
+  en: "Cross-platform NDC conference (.NET roots, but with general content on architecture, cloud and AI) in Sydney; 2026 was April 20-24 at the Hilton Sydney; the 2027 edition had not yet been announced on the official website at the time of this research — the date shown is an estimate."
+  pt-BR: "Conferência multiplataforma NDC (raiz .NET, mas com conteúdo geral de arquitetura, cloud e IA) em Sydney; 2026 foi 20-24 de abril no Hilton Sydney; a edição 2027 ainda não foi anunciada no site oficial no momento desta pesquisa — a data indicada é uma estimativa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-19"
+  end: "2027-04-23"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Sydney"
+  countryCode: "AU"
+  region: "OTHER"
+  modality: "IN_PERSON"
+geo:
+  lat: "-33.87"
+  lng: "151.21"
+  precision: "CITY"
+links:
+  website: "https://ndcsydney.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

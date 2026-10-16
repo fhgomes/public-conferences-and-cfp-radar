@@ -1,0 +1,42 @@
+id: "040457cd-b183-4c23-815b-b55c1d2bf057"
+slug: "java-forum-nord-2027"
+name: "Java Forum Nord 2027"
+organizer:
+  en: "JUGs of northern Germany"
+  pt-BR: "JUGs do norte da Alemanha"
+summary:
+  en: "Java Forum Nord is an affordable community event organized by the JUGs of northern Germany, in Hannover -- a traditional regional forum format, with a CFP that usually fills up quickly."
+  pt-BR: "Java Forum Nord é um evento comunitário barato organizado pelos JUGs do norte da Alemanha, em Hannover -- formato de forum regional tradicional, com CFP que costuma lotar rápido."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-09-21"
+  end: "2027-09-21"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Hannover"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.37"
+  lng: "9.73"
+  precision: "CITY"
+links:
+  website: "https://javaforumnord.de/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

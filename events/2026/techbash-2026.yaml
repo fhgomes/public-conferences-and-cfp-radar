@@ -1,0 +1,53 @@
+id: "d1e588f7-b130-4348-999f-79f322d82501"
+slug: "techbash-2026"
+name: "TechBash 2026"
+organizer:
+  en: "TechBash Foundation"
+  pt-BR: "TechBash Foundation"
+summary:
+  pt-BR: "TechBash é uma conferência de tecnologia de vários dias realizada no resort Kalahari em Pocono Manor, Pensilvânia, organizada por uma fundação comunitária sem fins lucrativos. Mistura trilhas de desenvolvimento geral, nuvem e ecossistema Microsoft, com sessões de 50 minutos."
+dates:
+  start: "2026-10-13"
+  end: "2026-10-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Pocono Manor, PA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+links:
+  website: "https://techbash.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-02-23"
+  closesOn: "2026-03-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/techbash-2026/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

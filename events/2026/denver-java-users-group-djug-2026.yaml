@@ -1,0 +1,50 @@
+id: "dfa9e0ed-5079-4107-99af-556b69211394"
+slug: "denver-java-users-group-djug-2026"
+name: "Denver Java Users Group (DJUG)"
+organizer:
+  en: "DJUG"
+  pt-BR: "DJUG"
+summary:
+  en: "DJUG (Denver Java Users Group) is an active JUG in Lone Tree (Denver), with ~3.328 members on Meetup, which recently (Sep/2026) hosted Bruno Souza (founder of SouJava) as a speaker -- a sign of good ties with the global Java community."
+  pt-BR: "DJUG (Denver Java Users Group) é um JUG ativo em Lone Tree (Denver), com ~3.328 membros no Meetup, que recentemente (set/2026) recebeu Bruno Souza (fundador da SouJava) como palestrante -- sinal de bom transito com a comunidade Java global."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-14"
+  end: "2026-10-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Denver (Lone Tree), CO"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "39.74"
+  lng: "-104.98"
+  precision: "CITY"
+links:
+  website: "https://www.denverjug.org/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://www.meetup.com/denverjavausersgroup/"
+  platform: "meetup.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:45Z"

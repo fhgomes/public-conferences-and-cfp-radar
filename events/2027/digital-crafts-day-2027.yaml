@@ -1,0 +1,56 @@
+id: "e07a086e-3b58-466b-af84-eaa11ccca214"
+slug: "digital-crafts-day-2027"
+name: "Digital Crafts Day 2027"
+organizer:
+  en: "Digital Craftsmanship Nordoberpfalz / JUG Oberpfalz"
+  pt-BR: "Digital Craftsmanship Nordoberpfalz / JUG Oberpfalz"
+summary:
+  pt-BR: "Digital Crafts Day é um evento comunitário de um dia em Weiden (Alto Palatinado, Alemanha), organizado pela rede Digital Craftsmanship Nordoberpfalz (DCN) no campus da OTH Weiden, com 10 sessões e 2 keynotes. Realizado anualmente, com edições em 2023, 2024 e 2026."
+dates:
+  start: "2027-04-16"
+  end: "2027-04-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Weiden in der Oberpfalz"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://dc-nordoberpfalz.de/DigitalCraftsDay/2027"
+topics:
+  - "java"
+talkLanguages:
+  - "de"
+cfp:
+  opensOn: "2026-09-15"
+  closesOn: "2026-10-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/digital-crafts-day-2027"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:39Z"

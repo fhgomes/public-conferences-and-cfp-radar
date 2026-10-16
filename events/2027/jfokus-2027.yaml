@@ -1,0 +1,61 @@
+id: "72bb9506-e9b5-4d51-a53c-6b154d7bc2dc"
+slug: "jfokus-2027"
+name: "Jfokus"
+edition: "2027"
+organizer:
+  en: "Jfokus / Javaforum Stockholm"
+  pt-BR: "Jfokus / Javaforum Stockholm"
+summary:
+  pt-BR: "Jfokus é a maior conferência Java/JVM da Escandinávia, realizada em Estocolmo desde 2009 pela comunidade sueca de Java (ligada a Javaforum Stockholm). Formato presencial de 3 dias, múltiplas trilhas (Java, arquitetura, IA, cloud) e workshops."
+dates:
+  start: "2027-02-08"
+  end: "2027-02-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Estocolmo"
+  countryCode: "SE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "59.33"
+  lng: "18.07"
+  precision: "CITY"
+links:
+  website: "https://www.jfokus.se/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-08-17"
+  closesOn: "2026-10-04"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jfokus-2027"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

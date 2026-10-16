@@ -1,0 +1,38 @@
+id: "bc4dcb4e-1991-4e62-90de-134af531cca7"
+slug: "pgday-sao-paulo-2026"
+name: "PGDay Sao Paulo"
+edition: "2026"
+organizer:
+  en: "Comunidade PostgreSQL BR"
+  pt-BR: "Comunidade PostgreSQL BR"
+summary:
+  en: "PGDay São Paulo is a one-day community event dedicated to PostgreSQL, supported by Timbira (a company that also organizes PGConf.Brasil, the largest national conference of the Brazilian PostgreSQL community, active since at least 2016-2019). The 2026 edition takes place on 17/10 (Saturday, 08:30-18:00) at Oracle Brasil, single-track format, free of charge, with registration closing 15/10 due to the room's capacity limit."
+  pt-BR: "PGDay São Paulo é um evento comunitário de um dia dedicado ao PostgreSQL, com apoio da Timbira (empresa que também organiza a PGConf.Brasil, a maior conferência nacional da comunidade PostgreSQL brasileira, ativa desde pelo menos 2016-2019). A edição de 2026 ocorre em 17/10 (sábado, 08:30-18:00) na Oracle Brasil, formato trilha única, gratuito, com inscrições fechando 15/10 por limite de capacidade da sala."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-17"
+  end: "2026-10-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Sao Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.sympla.com.br/evento/pgday-sao-paulo/3587161"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:52Z"

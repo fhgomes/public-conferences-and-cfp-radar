@@ -1,0 +1,50 @@
+id: "e20fc39a-da3f-477a-853b-8bef1e8dc42d"
+slug: "odsc-ai-east-2027"
+name: "ODSC AI East 2027"
+organizer:
+  en: "Open Data Science"
+  pt-BR: "Open Data Science"
+summary:
+  en: "ODSC (Open Data Science Conference) AI East is one of the largest data science and AI conferences in the US. Hybrid format, multiple tracks, strong presence of AI/ML vendors."
+  pt-BR: "ODSC (Open Data Science Conference) AI East é uma das maiores conferências de ciência de dados e IA dos EUA. Formato híbrido, múltiplas trilhas, forte presença de vendors de IA/ML."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-10"
+  end: "2027-05-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Boston, MA"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "42.36"
+  lng: "-71.06"
+  precision: "CITY"
+links:
+  website: "https://odsc.ai/east/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-11-02"
+  closesOn: "2027-01-08"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://odsc.ai/east/call-for-speakers/"
+  platform: "odsc.ai"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

@@ -1,0 +1,50 @@
+id: "c6ef1094-3c05-488a-877f-5ae1a2357b93"
+slug: "devopsdays-chicago-2027"
+name: "DevOpsDays Chicago 2027"
+organizer:
+  en: "devopsdays (community)"
+  pt-BR: "devopsdays (community)"
+summary:
+  en: "DevOpsDays is a global series of conferences organized by each city's local community, in a 2-day format with curated talks plus open spaces/ignite talks, without a strong corporate hierarchy. The Chicago edition is one of dozens of annual editions in the network."
+  pt-BR: "DevOpsDays é uma série global de conferências organizadas pela comunidade local de cada cidade, formato de 2 dias com talks curados mais open spaces/ignite talks, sem hierarquia corporativa forte. A edição de Chicago é uma das dezenas de edições anuais da rede."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-10"
+  end: "2027-08-11"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Chicago, IL"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.85"
+  lng: "-87.65"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2027-chicago/welcome/"
+topics:
+  - "ai-ml"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-09"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

@@ -1,0 +1,49 @@
+id: "395c8a02-c735-4b6c-82a9-98c1c45d7f44"
+slug: "nyjavasig-new-york-java-special-interest-group-2026"
+name: "NYJavaSIG (New York Java Special Interest Group)"
+organizer:
+  en: "NYJavaSIG (Frank Greco)"
+  pt-BR: "NYJavaSIG (Frank Greco)"
+summary:
+  en: "NYJavaSIG (New York Java Special Interest Group) is one of the oldest and most respected JUGs in the US, led by Frank Greco for decades, with regular in-person meetups in Nova York and recordings of the sessions on YouTube."
+  pt-BR: "NYJavaSIG (New York Java Special Interest Group) é um dos JUGs mais antigos e respeitados dos EUA, liderado por Frank Greco há décadas, com encontros presenciais regulares em Nova York e gravação das sessões no YouTube."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-07"
+  end: "2026-10-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "New York, NY"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.71"
+  lng: "-74.01"
+  precision: "CITY"
+links:
+  website: "https://www.javasig.com/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://www.meetup.com/javasig/"
+  platform: "meetup.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:47Z"

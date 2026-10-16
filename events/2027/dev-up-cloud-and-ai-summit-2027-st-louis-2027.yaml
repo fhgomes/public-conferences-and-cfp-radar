@@ -1,0 +1,45 @@
+id: "d4bdd35c-94d0-4d18-8fe0-ef5552d8bd0c"
+slug: "dev-up-cloud-and-ai-summit-2027-st-louis-2027"
+name: "dev up / Cloud and AI Summit 2027 (St. Louis)"
+organizer:
+  en: "dev up Conference"
+  pt-BR: "dev up Conference"
+summary:
+  en: "dev up (rebranded 'Cloud and AI Summit') is a technology conference in St. Louis/St. Charles, Missouri, with over 18 years of history (it started as 'St. Louis Days of .NET'). In-person, multi-day format, recently repositioned with a focus on cloud (Azure) and AI."
+  pt-BR: "dev up (rebatizado 'Cloud and AI Summit') é uma conferência de tecnologia de St. Louis/St. Charles, Missouri, com mais de 18 anos de história (nasceu como 'St. Louis Days of .NET'). Formato presencial de vários dias, recentemente reposicionado com foco em nuvem (Azure) e IA."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-29"
+  end: "2027-10-01"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "St. Charles (St. Louis), MO"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "38.61"
+  lng: "-76.92"
+  precision: "CITY"
+links:
+  website: "https://www.devupconf.org/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-12-15"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

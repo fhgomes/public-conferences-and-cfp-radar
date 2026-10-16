@@ -1,0 +1,37 @@
+id: "c652d5fc-eecb-4cf5-9209-e930a760a0dc"
+slug: "soujava-campinas-mensal-bosch-john-deere-2026"
+name: "SouJava Campinas (mensal, Bosch/John Deere)"
+organizer:
+  en: "SouJava Campinas (CampinasJUG + JavaCampinas)"
+  pt-BR: "SouJava Campinas (CampinasJUG + JavaCampinas)"
+summary:
+  pt-BR: "SouJava Campinas é o capítulo regional do SouJava (CampinasJUG + JavaCampinas), com encontros ~mensais às 19h, alternando entre Indaiatuba (John Deere) e Campinas (Bosch) — ex.: Welcome 2026 (21/01), edição John Deere (25/03), Junino Bosch (02/06)."
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "UNKNOWN"
+location:
+  city: "Campinas"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.91"
+  lng: "-47.06"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/soujavacampinas/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

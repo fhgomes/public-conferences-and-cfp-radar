@@ -1,0 +1,47 @@
+id: "b3e6a949-4491-4e39-a65e-21dbd2c913bf"
+slug: "conf42-devops-2027"
+name: "Conf42 DevOps 2027"
+organizer:
+  en: "Conf42"
+  pt-BR: "Conf42"
+summary:
+  pt-BR: "Conf42 DevOps 2027 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical generalista de DevOps."
+dates:
+  start: "2027-01-21"
+  end: "2027-01-21"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/devops2027"
+topics:
+  - "devops"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-08-26"
+  closesOn: "2026-12-24"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-devops-2027"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

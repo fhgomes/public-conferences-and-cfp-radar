@@ -1,0 +1,51 @@
+id: "908a17a0-2cd1-472a-a7bd-d7e1a34bc871"
+slug: "codemash-2027-great-lakes-2027"
+name: "CodeMash 2027 (Great Lakes)"
+organizer:
+  en: "CodeMash (non-profit)"
+  pt-BR: "CodeMash (non-profit)"
+summary:
+  en: "CodeMash is a non-profit, multi-language conference held in January at the Kalahari Resort in Sandusky (Ohio), one of the largest developer conferences in the US Midwest, with 150+ sessions covering practically every stack, including Java, and a family track (KidzMash)."
+  pt-BR: "CodeMash é uma conferência multi-linguagem sem fins lucrativos realizada em janeiro no Kalahari Resort em Sandusky (Ohio), uma das maiores conferências de desenvolvedores do meio-oeste dos EUA, com 150+ sessões cobrindo praticamente todas as stacks, incluindo Java, e trilha de família (KidzMash)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-01-12"
+  end: "2027-01-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Sandusky, OH"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.45"
+  lng: "-82.71"
+  precision: "CITY"
+links:
+  website: "https://codemash.org/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-08-15"
+  closesOn: "2026-08-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/codemash-2027/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

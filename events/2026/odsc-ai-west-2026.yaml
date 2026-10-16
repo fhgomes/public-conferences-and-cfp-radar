@@ -1,0 +1,50 @@
+id: "4fae8604-f023-4268-8e11-f8c175f987e7"
+slug: "odsc-ai-west-2026"
+name: "ODSC AI West 2026"
+organizer:
+  en: "Open Data Science"
+  pt-BR: "Open Data Science"
+summary:
+  en: "ODSC (Open Data Science Conference) AI West is one of the largest data science and AI conferences in the US. Hybrid format, multiple tracks, strong presence of AI/ML vendors."
+  pt-BR: "ODSC (Open Data Science Conference) AI West é uma das maiores conferências de ciência de dados e IA dos EUA. Formato híbrido, múltiplas trilhas, forte presença de vendors de IA/ML."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-27"
+  end: "2026-10-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Burlingame (SF), CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "37.58"
+  lng: "-122.37"
+  precision: "CITY"
+links:
+  website: "https://odsc.ai/west/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-02-11"
+  closesOn: "2026-08-07"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://odsc.ai/west/call-for-speakers-west/"
+  platform: "odsc.ai"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

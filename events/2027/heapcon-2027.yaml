@@ -1,0 +1,40 @@
+id: "1cc00e92-b3f3-4566-a2c2-bf9d4e1069b5"
+slug: "heapcon-2027"
+name: "Heapcon 2027"
+organizer:
+  en: "Heapspace"
+  pt-BR: "Heapspace"
+summary:
+  en: "Same Heapcon conference (Belgrado, Heapspace); 2027 edition with CFP estimated for mid-2027 (the event itself, in November 2027, falls outside the dashboard's window of interest)."
+  pt-BR: "Mesma conferência Heapcon (Belgrado, Heapspace); edição 2027 com CFP estimado para meados de 2027 (o evento em si, em novembro/2027, fica fora da janela de interesse do painel)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-11-04"
+  end: "2027-11-05"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Belgrado"
+  countryCode: "RS"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "44.8"
+  lng: "20.47"
+  precision: "CITY"
+links:
+  website: "https://heapcon.io/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

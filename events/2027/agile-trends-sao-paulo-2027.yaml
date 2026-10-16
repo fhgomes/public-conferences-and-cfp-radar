@@ -1,0 +1,46 @@
+id: "aaf40d2d-8e3f-4492-a9ee-7dc1bf0f515f"
+slug: "agile-trends-sao-paulo-2027"
+name: "Agile Trends São Paulo 2027"
+organizer:
+  en: "Agile Trends"
+  pt-BR: "Agile Trends"
+summary:
+  en: "Agile Trends is a series of Brazilian conferences on agility, management and innovation, organized by Agile Trends Brasil, with editions ('pockets') in several cities. The main São Paulo edition brings together more than 100 content sessions and gathered about 3,000 attendees and 150 cases from 600 institutions in the 2026 edition (31/08-01/09); for 2027 the organization estimates April, at Parque Ibirapuera/Bienal."
+  pt-BR: "Agile Trends é uma série de conferências brasileiras de agilidade, gestão e inovação, organizada pela Agile Trends Brasil, com edições ('pockets') em várias cidades. A edição principal de São Paulo reúne mais de 100 sessões de conteúdo e reuniu cerca de 3.000 participantes e 150 cases de 600 instituições na edição de 2026 (31/08-01/09); para 2027 a organização estima abril, no Parque Ibirapuera/Bienal."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-12"
+  end: "2027-04-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://agiletrendsbr.com/"
+topics:
+  - "architecture"
+  - "career"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://agiletrendsbr.com/envio-de-propostas-de-palestras/"
+  platform: "agiletrendsbr.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

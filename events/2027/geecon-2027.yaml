@@ -1,0 +1,49 @@
+id: "04a86aa3-ad99-4b8e-b862-fad98d80644d"
+slug: "geecon-2027"
+name: "GeeCON 2027"
+organizer:
+  en: "4GC Sp. z o.o."
+  pt-BR: "4GC Sp. z o.o."
+summary:
+  en: "GeeCON is one of the most traditional Java conferences in Central Europe, organized by 4GC in Cracóvia, with over a decade of history and a strong tradition of bringing in international names from the Java/JVM community. The CFP usually closes at the end of January."
+  pt-BR: "GeeCON é uma das conferências Java mais tradicionais da Europa Central, organizada pela 4GC em Cracóvia, com mais de uma década de história e forte tradição de trazer nomes internacionais da comunidade Java/JVM. CFP costuma fechar no fim de janeiro."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-13"
+  end: "2027-05-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cracóvia"
+  countryCode: "PL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "50.06"
+  lng: "19.94"
+  precision: "CITY"
+links:
+  website: "https://geecon.org/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-12-01"
+  timezone: "America/Sao_Paulo"
+  url: "https://cfp.geecon.org"
+  platform: "cfp.geecon.org"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:40Z"

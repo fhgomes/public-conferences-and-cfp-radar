@@ -1,0 +1,45 @@
+id: "fb074723-8407-49ac-9329-cb615817383f"
+slug: "ai4-2027"
+name: "Ai4 2027"
+organizer:
+  en: "Ai4 Conferences"
+  pt-BR: "Ai4 Conferences"
+summary:
+  en: "Ai4 is one of the largest conferences on AI applied to business in the US, held in Las Vegas, focused on enterprise use cases of AI/ML across all industries. It is not a programming or Java event. Large in-person format with an extensive trade show."
+  pt-BR: "Ai4 é uma das maiores conferências de IA aplicada aos negócios dos EUA, realizada em Las Vegas, focada em casos de uso empresariais de IA/ML em todos os setores. Não é um evento de programação ou Java. Formato presencial grande com feira comercial extensa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-02"
+  end: "2027-08-05"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Las Vegas, NV"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "36.17"
+  lng: "-115.14"
+  precision: "CITY"
+links:
+  website: "https://ai4.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://ai4.com/application-speaker/"
+  platform: "ai4.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

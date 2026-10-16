@@ -1,0 +1,54 @@
+id: "8112471e-b2c6-4bfb-8f14-c889601a6776"
+slug: "devfest-montreal-2026-gdg-2026"
+name: "DevFest Montréal 2026 (GDG)"
+organizer:
+  en: "GDG Montréal / GDG Cloud Montréal"
+  pt-BR: "GDG Montréal / GDG Cloud Montréal"
+summary:
+  en: "DevFest is the global brand of community conferences by the Google Developer Groups (GDG), with more than 800 events in 115+ countries between October and December. The Montreal edition is organized by GDG Montreal/GDG Cloud Montreal, a one-day event with tracks on Google products and technologies (cloud, AI, mobile, web)."
+  pt-BR: "DevFest é a marca global de conferências comunitárias dos Google Developer Groups (GDG), com mais de 800 eventos em 115+ países entre outubro e dezembro. A edição de Montreal é organizada pelo GDG Montreal/GDG Cloud Montreal, evento de um dia com trilhas sobre produtos e tecnologias Google (cloud, IA, mobile, web)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-06"
+  end: "2026-11-06"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Montreal, QC"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "45.51"
+  lng: "-73.59"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-montreal/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "en"
+  - "fr"
+cfp:
+  closesOn: "2026-10-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.gdgmontreal.com/c/devfest-mtl-2026"
+  platform: "cfp.gdgmontreal.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:37Z"

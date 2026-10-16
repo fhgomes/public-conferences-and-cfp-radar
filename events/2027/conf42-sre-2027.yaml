@@ -1,0 +1,51 @@
+id: "d58bd169-5238-4a36-9162-2397478badd9"
+slug: "conf42-sre-2027"
+name: "Conf42 SRE 2027"
+organizer:
+  en: "Conf42"
+  pt-BR: "Conf42"
+summary:
+  en: "Conf42 SRE 2027 is one of the themed verticals of the Conf42 series: a 100% online, free conference with pre-recorded talks that premiere on YouTube at a scheduled time (usually 17h GMT) and remain available on demand. A vertical dedicated to Site Reliability Engineering."
+  pt-BR: "Conf42 SRE 2027 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical dedicada a Site Reliability Engineering."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-04"
+  end: "2027-03-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/sre2027"
+topics:
+  - "architecture"
+  - "devops"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-08-26"
+  closesOn: "2027-02-04"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-sre-2027"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

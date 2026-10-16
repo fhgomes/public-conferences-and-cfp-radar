@@ -1,0 +1,61 @@
+id: "9c9ad69d-2ca0-4068-9f96-b464b32ba4e5"
+slug: "developerweek-2027"
+name: "DeveloperWeek 2027"
+organizer:
+  en: "DevNetwork"
+  pt-BR: "DevNetwork"
+summary:
+  en: "DeveloperWeek is one of the largest developer conferences in the US, organized by DevNetwork in Santa Clara, with 25 tracks running in parallel under different brands (AI DevWorld, ProductWorld, OpsWorld, DevExec World). Large trade-show format with a strong presence of vendors."
+  pt-BR: "DeveloperWeek é uma das maiores conferências de desenvolvedores dos EUA, organizada pela DevNetwork em Santa Clara, com 25 trilhas rodando em paralelo sob diferentes marcas (AI DevWorld, ProductWorld, OpsWorld, DevExec World). Formato de feira grande com forte presença de vendors."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-02-09"
+  end: "2027-02-11"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Santa Clara, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.35"
+  lng: "-121.96"
+  precision: "CITY"
+links:
+  website: "https://www.developerweek.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-06-19"
+  closesOn: "2026-09-18"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/developerweek-2027/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:35Z"

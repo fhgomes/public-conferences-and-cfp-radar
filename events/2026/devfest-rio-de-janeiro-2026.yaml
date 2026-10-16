@@ -1,0 +1,53 @@
+id: "da4c17d0-054d-4473-aa23-915b9017802f"
+slug: "devfest-rio-de-janeiro-2026"
+name: "DevFest Rio de Janeiro 2026"
+organizer:
+  en: "GDG Rio de Janeiro"
+  pt-BR: "GDG Rio de Janeiro"
+summary:
+  en: "DevFest is the annual flagship event of GDGs (Google Developer Groups) around the world; the local edition is organized by volunteers from the city's GDG chapter, a one-day format with multiple tracks (cloud, AI, web, mobile, Android)."
+  pt-BR: "DevFest é o evento anual-flagship dos GDGs (Google Developer Groups) ao redor do mundo; a edição local é organizada por voluntários do capítulo GDG da cidade, formato de um dia com múltiplas trilhas (cloud, IA, web, mobile, Android)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-14"
+  end: "2026-11-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Rio de Janeiro"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.91"
+  lng: "-43.18"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/events/details/google-gdg-rio-de-janeiro-presents-devfest-rio-de-janeiro-2026-inovacao-e-tecnologia/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  closesOn: "2026-10-16"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://app.advocu.com/public/gde/events/6a683241e39fcc0d96cfc076?cfpid=6a683296e39fcc0d96cfc079"
+  platform: "app.advocu.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:37Z"

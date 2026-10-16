@@ -1,0 +1,64 @@
+name: New event
+description: Suggest an event that is missing from the dataset
+title: "New event: "
+labels: ["new-event"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public facts only. Do not include personal contact data (e-mails, phone numbers).
+  - type: input
+    id: name
+    attributes:
+      label: Event name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: input
+    id: start
+    attributes:
+      label: Start date
+      description: YYYY-MM-DD, or leave empty if not announced
+  - type: input
+    id: end
+    attributes:
+      label: End date
+      description: YYYY-MM-DD
+  - type: input
+    id: city
+    attributes:
+      label: City
+  - type: input
+    id: country
+    attributes:
+      label: Country
+  - type: dropdown
+    id: online
+    attributes:
+      label: Online?
+      options:
+        - In person
+        - Online
+        - Hybrid
+        - Not announced
+  - type: input
+    id: cfp-url
+    attributes:
+      label: CFP URL
+      placeholder: https://
+  - type: input
+    id: cfp-opens
+    attributes:
+      label: CFP opens
+      description: YYYY-MM-DD
+  - type: input
+    id: cfp-closes
+    attributes:
+      label: CFP closes
+      description: YYYY-MM-DD

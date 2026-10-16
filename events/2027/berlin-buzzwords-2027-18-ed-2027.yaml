@@ -1,0 +1,39 @@
+id: "1ed25eba-dda6-4ca7-9eb0-32046c27dc00"
+slug: "berlin-buzzwords-2027-18-ed-2027"
+name: "Berlin Buzzwords 2027 (18ª ed.)"
+organizer:
+  en: "Plain Schwarz"
+  pt-BR: "Plain Schwarz"
+summary:
+  en: "Berlin Buzzwords is a conference on search, storage and processing of data at scale (search, data infra, streaming), organized by Plain Schwarz since 2008, reaching its 18th edition in 2027 at the Kulturbrauerei in Berlim. It is not Java-specific, but much of the ecosystem (Lucene/Solr/Elasticsearch, Kafka, Flink) runs on the JVM."
+  pt-BR: "Berlin Buzzwords é uma conferência sobre busca, armazenamento e processamento de dados em escala (search, data infra, streaming), organizada pela Plain Schwarz desde 2008, chegando a 18a edição em 2027 no Kulturbrauerei em Berlim. Não é Java-específica, mas boa parte do ecossistema (Lucene/Solr/Elasticsearch, Kafka, Flink) roda em JVM."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-13"
+  end: "2027-06-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Berlim (Kulturbrauerei)"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.52"
+  lng: "13.41"
+  precision: "CITY"
+links:
+  website: "https://2027.berlinbuzzwords.de/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

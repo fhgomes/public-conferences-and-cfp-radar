@@ -1,0 +1,56 @@
+id: "8e1abb8d-6b8a-4a72-9ff2-75cd984cdaca"
+slug: "momentum-developer-conference-2026"
+name: "Momentum Developer Conference 2026"
+organizer:
+  en: "Momentum Dev Con / The Circuit"
+  pt-BR: "Momentum Dev Con / The Circuit"
+summary:
+  en: "Momentum Developer Conference is a one-day conference in Cincinnati, organized by the community 'The Circuit' (Cincinnati's tech events network), with 45-minute sessions covering the broad spectrum of software development."
+  pt-BR: "Momentum Developer Conference é uma conferência de um dia em Cincinnati, organizada pela comunidade 'The Circuit' (rede de eventos de tecnologia de Cincinnati), com sessões de 45 minutos cobrindo o espectro amplo de desenvolvimento de software."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-15"
+  end: "2026-10-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cincinnati, OH"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "39.13"
+  lng: "-84.51"
+  precision: "CITY"
+links:
+  website: "https://momentumdevcon.com/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-05-01"
+  closesOn: "2026-06-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/momentum-2026"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:51Z"

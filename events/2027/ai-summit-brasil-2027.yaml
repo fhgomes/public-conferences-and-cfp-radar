@@ -1,0 +1,47 @@
+id: "f850862a-34ea-4b5e-9272-f0a6948b8615"
+slug: "ai-summit-brasil-2027"
+name: "AI Summit Brasil 2027"
+organizer:
+  en: "Instituto Valor + AINEWS"
+  pt-BR: "Instituto Valor + AINEWS"
+summary:
+  en: "AI Summit Brasil is positioned by Instituto Valor as the most technical and exclusive AI congress in Latin America, but focused on C-level executives, decision-makers and business leaders, not an open-CFP conference for devs."
+  pt-BR: "AI Summit Brasil e posicionado pelo Instituto Valor como o congresso de IA mais técnico e exclusivo da América Latina, mas com foco em C-level, decisores e líderes de negócio, não uma conferência de CFP aberto para devs."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-21"
+  end: "2027-07-22"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://aisummit.ia.br/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://aisummit.ia.br/"
+  platform: "aisummit.ia.br"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

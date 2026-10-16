@@ -1,0 +1,57 @@
+id: "1d9d8bb0-141b-4e4e-85d4-835bd8edbf15"
+slug: "jax-2027"
+name: "JAX 2027"
+organizer:
+  en: "S&S Media"
+  pt-BR: "S&S Media"
+summary:
+  en: "JAX is S&S Media's traditional enterprise Java conference, held in Mainz -- one of the oldest and best-known commercial Java conferences in Europe, with high prices (premium paid event) and a strong vendor presence."
+  pt-BR: "JAX é a conferência Java enterprise tradicional da S&S Media, realizada em Mainz -- uma das conferências Java comerciais mais antigas e conhecidas da Europa, com preços altos (evento pago premium) e forte presença de vendors."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-10"
+  end: "2027-05-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Mainz"
+  countryCode: "DE"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "49.98"
+  lng: "8.28"
+  precision: "CITY"
+links:
+  website: "https://jax.de/mainz-en/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://callforpapers.sandsmedia.com/"
+  platform: "callforpapers.sandsmedia.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

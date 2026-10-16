@@ -1,0 +1,40 @@
+id: "488fe0d1-7f65-406f-863a-0340874f7e74"
+slug: "global-azure-2027-comunitario-hibrido-2027"
+name: "Global Azure 2027 (comunitário, híbrido)"
+organizer:
+  en: "Global Azure community (organized by MVPs; local chapters)"
+  pt-BR: "Global Azure community (organizado por MVPs; capítulos locais)"
+summary:
+  pt-BR: "Global Azure é um evento comunitário híbrido e gratuito, organizado por MVPs Microsoft ao redor do mundo, com capítulos locais simultâneos dedicados a Azure/cloud. A edição 2026 ocorreu em 18/04; a 2027 é estimada para meados de abril."
+machineTranslated:
+  - "organizer.en"
+dates:
+  start: "2027-04-17"
+  end: "2027-04-17"
+  tba: false
+  status: "ESTIMATED"
+location:
+  region: "ONLINE"
+  modality: "HYBRID"
+links:
+  website: "https://globalazure.net/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-15"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

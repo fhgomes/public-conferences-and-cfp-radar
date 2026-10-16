@@ -1,0 +1,47 @@
+id: "bc8fa69b-55db-45ed-8ff8-15e0ecb30fc0"
+slug: "devoxx-poland-2027"
+name: "Devoxx Poland 2027"
+organizer:
+  en: "Devoxx Poland"
+  pt-BR: "Devoxx Poland"
+summary:
+  en: "Devoxx Poland is one of the largest editions of the Devoxx franchise, held in Cracóvia (ICE Krakow) since 2013. In-person multi-day format with dozens of simultaneous tracks, one of the most sought-after Java conferences in Central Europe."
+  pt-BR: "Devoxx Poland é uma das maiores edições da franquia Devoxx, realizada em Cracóvia (ICE Krakow) desde 2013. Formato presencial multi-dia com dezenas de trilhas simultâneas, uma das conferências Java mais concorridas da Europa Central."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-16"
+  end: "2027-06-18"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cracóvia (ICE Kraków)"
+  countryCode: "PL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "50.06"
+  lng: "19.94"
+  precision: "CITY"
+links:
+  website: "https://devoxx.pl/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-10"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

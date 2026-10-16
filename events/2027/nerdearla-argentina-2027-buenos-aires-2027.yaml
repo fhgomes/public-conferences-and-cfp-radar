@@ -1,0 +1,52 @@
+id: "37b52116-ef57-4339-a117-a02626c88aee"
+slug: "nerdearla-argentina-2027-buenos-aires-2027"
+name: "Nerdearla Argentina 2027 (Buenos Aires)"
+organizer:
+  en: "Sysarmy / Nerdearla"
+  pt-BR: "Sysarmy / Nerdearla"
+summary:
+  en: "Nerdear.la is the largest free technology event in the Spanish-speaking world, organized by the Sysarmy community since 2014 in Buenos Aires. It grew from ~50 attendees to over 10,000 in person and 25,000+ online, with a hybrid format (25min talks/60min workshops) at Ciudad Cultural Konex, live streaming and broad tracks (dev, cloud, security, career, AI)."
+  pt-BR: "Nerdear.la é o maior evento de tecnologia gratuito do mundo hispano-hablante, organizado pela comunidade Sysarmy desde 2014 em Buenos Aires. Cresceu de ~50 participantes para mais de 10.000 presenciais e 25.000+ online, com formato híbrido (talks de 25min/workshops de 60min) na Ciudad Cultural Konex, streaming ao vivo e trilhas amplas (dev, cloud, segurança, carreira, IA)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-21"
+  end: "2027-09-25"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Buenos Aires"
+  countryCode: "AR"
+  region: "LATAM"
+  modality: "HYBRID"
+geo:
+  lat: "-34.61"
+  lng: "-58.38"
+  precision: "CITY"
+links:
+  website: "https://nerdearla.com/en/argentina/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "cloud"
+  - "devops"
+  - "security"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2027-04-12"
+  timezone: "America/Sao_Paulo"
+  url: "https://nerdearla.com/en/cfp/"
+  platform: "nerdearla.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

@@ -1,0 +1,37 @@
+id: "61cc36df-2013-48fc-b7fd-6ce26608dc42"
+slug: "boston-java-users-acm-chapter-ex-nejug-2026"
+name: "Boston Java Users ACM Chapter (ex-NEJUG)"
+organizer:
+  en: "Boston Java Users ACM Chapter"
+  pt-BR: "Boston Java Users ACM Chapter"
+summary:
+  pt-BR: "Boston Java Users ACM Chapter (ex-NEJUG) é um JUG histórico da região de Boston, hoje com ~1.300 membros no Meetup, sem encontros em julho/dezembro. Está buscando um novo local em 2026."
+dates:
+  start: "2026-10-08"
+  end: "2026-10-08"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Burlington, MA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "42.5"
+  lng: "-71.2"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/nejug1/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:45Z"

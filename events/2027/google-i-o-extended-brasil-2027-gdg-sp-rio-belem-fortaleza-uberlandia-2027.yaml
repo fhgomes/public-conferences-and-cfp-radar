@@ -1,0 +1,40 @@
+id: "e824c479-8d0f-4004-b16b-c540a6bbf67c"
+slug: "google-i-o-extended-brasil-2027-gdg-sp-rio-belem-fortaleza-uberlandia-2027"
+name: "Google I/O Extended Brasil 2027 (GDG SP/Rio/Belém/Fortaleza/Uberlândia)"
+organizer:
+  en: "GDGs Brasil"
+  pt-BR: "GDGs Brasil"
+summary:
+  en: "Google I/O Extended is a recap event of the Google I/O keynote, organized jointly by several GDGs (SP, Rio, Belém, Fortaleza, Uberlândia); watch party format + local talks about the announced news."
+  pt-BR: "Google I/O Extended é um evento de recapitulação do keynote do Google I/O, organizado em conjunto por vários GDGs (SP, Rio, Belém, Fortaleza, Uberlândia); formato de watch party + palestras locais sobre as novidades anunciadas."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-12"
+  end: "2027-06-12"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/events/details/google-gdg-sao-paulo-presents-google-io-extended-brasil/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

@@ -1,0 +1,154 @@
+[
+  {
+    "slug": "agile-leadership",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Agile & leadership",
+      "pt-BR": "Agilidade e liderança"
+    }
+  },
+  {
+    "slug": "ai-ml",
+    "status": "ACTIVE",
+    "name": {
+      "en": "AI/ML",
+      "pt-BR": "IA/ML"
+    }
+  },
+  {
+    "slug": "architecture",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Architecture",
+      "pt-BR": "Arquitetura"
+    }
+  },
+  {
+    "slug": "career",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Career",
+      "pt-BR": "Carreira"
+    }
+  },
+  {
+    "slug": "cloud",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Cloud",
+      "pt-BR": "Cloud"
+    }
+  },
+  {
+    "slug": "community",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Community & open source",
+      "pt-BR": "Comunidade e open source"
+    }
+  },
+  {
+    "slug": "data",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Data",
+      "pt-BR": "Dados"
+    }
+  },
+  {
+    "slug": "devops",
+    "status": "ACTIVE",
+    "name": {
+      "en": "DevOps",
+      "pt-BR": "DevOps"
+    }
+  },
+  {
+    "slug": "frontend",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Frontend",
+      "pt-BR": "Frontend"
+    }
+  },
+  {
+    "slug": "jakarta-ee",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Jakarta EE",
+      "pt-BR": "Jakarta EE"
+    }
+  },
+  {
+    "slug": "java",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Java",
+      "pt-BR": "Java"
+    }
+  },
+  {
+    "slug": "jvm",
+    "status": "ACTIVE",
+    "name": {
+      "en": "JVM",
+      "pt-BR": "JVM"
+    }
+  },
+  {
+    "slug": "kotlin",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Kotlin",
+      "pt-BR": "Kotlin"
+    }
+  },
+  {
+    "slug": "microservices",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Microservices",
+      "pt-BR": "Microsserviços"
+    }
+  },
+  {
+    "slug": "mobile",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Mobile",
+      "pt-BR": "Mobile"
+    }
+  },
+  {
+    "slug": "platform-engineering",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Platform engineering",
+      "pt-BR": "Engenharia de plataforma"
+    }
+  },
+  {
+    "slug": "security",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Security",
+      "pt-BR": "Segurança"
+    }
+  },
+  {
+    "slug": "spring",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Spring",
+      "pt-BR": "Spring"
+    }
+  },
+  {
+    "slug": "testing",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Testing",
+      "pt-BR": "Testes"
+    }
+  }
+]

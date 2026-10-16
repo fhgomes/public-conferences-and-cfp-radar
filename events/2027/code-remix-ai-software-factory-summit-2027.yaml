@@ -1,0 +1,49 @@
+id: "8ac43f5e-a0bc-411d-a916-71c62bd428f0"
+slug: "code-remix-ai-software-factory-summit-2027"
+name: "Code Remix: AI Software Factory Summit 2027"
+organizer:
+  en: "Moderne (OpenRewrite) + No Fluff Just Stuff"
+  pt-BR: "Moderne (OpenRewrite) + No Fluff Just Stuff"
+summary:
+  en: "Code Remix: AI Software Factory Summit is a new event (first edition) from Moderne (the company behind OpenRewrite), held at Hollywood Beach (Miami). Narrow focus on AI-powered code modernization at scale -- automated refactoring, migration and security -- with talks, roundtables and a hands-on track ('Hack Track')."
+  pt-BR: "Code Remix: AI Software Factory Summit é um evento novo (primeira edição) da Moderne (empresa por trás do OpenRewrite), realizado em Hollywood Beach (Miami). Foco estreito em modernização de código com IA em escala -- refatoração automatizada, migração e segurança -- com talks, roundtables e uma trilha prática ('Hack Track')."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-02-22"
+  end: "2027-02-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Margaritaville Hollywood Beach Resort, Hollywood, FL"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+links:
+  website: "https://moderne.ai/ai-software-factory/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-07-06"
+  closesOn: "2026-09-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/ai-software-factory-summit-2027/"
+  platform: "Sessionize"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

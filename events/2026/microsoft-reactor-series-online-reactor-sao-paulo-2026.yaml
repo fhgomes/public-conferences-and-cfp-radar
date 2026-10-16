@@ -1,0 +1,39 @@
+id: "f13f605b-6e48-40c4-8bb6-48ebd11b1c36"
+slug: "microsoft-reactor-series-online-reactor-sao-paulo-2026"
+name: "Microsoft Reactor (séries online; Reactor São Paulo)"
+organizer:
+  en: "Microsoft Reactor / Developer Relations"
+  pt-BR: "Microsoft Reactor / Developer Relations"
+summary:
+  en: "Network of Microsoft 'Reactors' (including the one in São Paulo) that runs free online event series on AI, cloud and developer tools year-round, with no formal CFP — invitations usually come from Developer Relations itself."
+  pt-BR: "Rede de 'Reactors' da Microsoft (incluindo o de São Paulo) que roda séries de eventos online gratuitos sobre IA, cloud e ferramentas de desenvolvimento o ano todo, sem CFP formal — convite costuma vir da própria Developer Relations."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://developer.microsoft.com/en-us/reactor/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+  - "pt"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

@@ -1,0 +1,55 @@
+id: "796751bb-8d89-4ab1-893b-f2779635cbed"
+slug: "jconf-peru-2026"
+name: "JConf Peru 2026"
+organizer:
+  en: "Peru JUG (PeruJUG)"
+  pt-BR: "Peru JUG (PeruJUG)"
+summary:
+  en: "JConf Peru is the flagship national Java conference of PeruJUG, with a formal CFP via Sessionize (talks of up to 55 min, in Spanish or English), at the SOHO Building in Lima. The 2025 edition sold out."
+  pt-BR: "JConf Peru é a conferência nacional de referência Java do PeruJUG, com CFP formal via Sessionize (talks de até 55 min, em espanhol ou inglês), no SOHO Building em Lima. A edição de 2025 esgotou os ingressos."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-28"
+  end: "2026-11-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Lima"
+  countryCode: "PE"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.04"
+  lng: "-77.03"
+  precision: "CITY"
+links:
+  website: "https://jconfperu.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2026-09-24"
+  closesOn: "2026-11-10"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jconf-peru-2026/"
+  platform: "Sessionize"
+  benefits:
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

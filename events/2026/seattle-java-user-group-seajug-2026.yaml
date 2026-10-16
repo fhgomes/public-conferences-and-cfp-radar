@@ -1,0 +1,48 @@
+id: "caaef4ab-4c43-46f7-b1ac-69ca556bc778"
+slug: "seattle-java-user-group-seajug-2026"
+name: "Seattle Java User Group (SeaJUG)"
+organizer:
+  en: "SeaJUG"
+  pt-BR: "SeaJUG"
+summary:
+  en: "SeaJUG (Seattle Java User Group) is an active JUG with meetups via Meetup/Luma and a YouTube channel (@seajug9878) for recordings."
+  pt-BR: "SeaJUG (Seattle Java User Group) é um JUG ativo com encontros via Meetup/Luma e canal no YouTube (@seajug9878) para gravações."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-20"
+  end: "2026-10-20"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Seattle, WA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "47.61"
+  lng: "-122.33"
+  precision: "CITY"
+links:
+  website: "https://www.seajug.org/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://luma.com/SeattleJUG"
+  platform: "luma.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

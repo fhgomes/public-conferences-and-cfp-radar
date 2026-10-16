@@ -1,0 +1,42 @@
+id: "7e321180-7cbc-4e1c-a366-2fa1dc1fce0e"
+slug: "jconf-brasil-2027"
+name: "JConf Brasil 2027"
+organizer:
+  en: "SouJava + Devs Java Girl + SP Java Meetup"
+  pt-BR: "SouJava + Devs Java Girl + SP Java Meetup"
+summary:
+  en: "JConf Brasil is the Java event 'from the communities to the communities', organized by SouJava, DevJavaGirls and SP Java Meetup; single-day, in-person format in São Paulo (1st edition in August/2024, at CEIC)."
+  pt-BR: "JConf Brasil é o evento Java 'das comunidades para as comunidades', organizado por SouJava, DevJavaGirls e SP Java Meetup; formato de um dia único e presencial em São Paulo (1a edição em agosto/2024, no CEIC)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-07"
+  end: "2027-08-07"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.jconfbrasil.com/"
+topics:
+  - "architecture"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

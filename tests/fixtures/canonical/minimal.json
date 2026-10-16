@@ -1,0 +1,4 @@
+{"sources": [{"code": "cfp-radar", "name": "cfp-radar", "licence": "CC-BY-4.0", "role": "origin"}], "topics": [], "summary": {},
+ "verification": {"by": "curator", "checkedAt": "2026-10-13T09:00:00Z", "status": "human_verified"},
+ "links": {"website": "https://example.org/x"}, "location": {"region": "ONLINE", "modality": "ONLINE"}, "dates": {"tba": true},
+ "name": "TBA Meetup X", "slug": "tba-meetup-x", "id": "5a0d9a4e-7f43-4c1b-8a55-0c2d3e4f5a6b", "edition": null}

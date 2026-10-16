@@ -1,0 +1,51 @@
+id: "0baaf372-d6cd-410a-89f7-afc339609e1c"
+slug: "open-source-north-2027"
+name: "Open Source North 2027"
+organizer:
+  en: "Open Source North"
+  pt-BR: "Open Source North"
+summary:
+  en: "Open Source North is the largest open source development conference in the Twin Cities (Minnesota) region, held at the University of St. Thomas since 2015, a single-day format with a strong local community."
+  pt-BR: "Open Source North é a maior conferência de desenvolvimento open source da região das Twin Cities (Minnesota), realizada na University of St. Thomas desde 2015, formato de um dia único, comunidade local forte."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-27"
+  end: "2027-05-27"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "St. Paul, MN"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "44.94"
+  lng: "-93.09"
+  precision: "CITY"
+links:
+  website: "https://opensourcenorth.com/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-11-01"
+  closesOn: "2027-01-22"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://opensourcenorth.com/become-a-speaker"
+  platform: "opensourcenorth.com"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

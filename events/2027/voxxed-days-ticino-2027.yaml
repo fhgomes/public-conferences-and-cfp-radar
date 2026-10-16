@@ -1,0 +1,73 @@
+id: "70c8a2e5-0e84-40f5-b659-2ca49c39e3b5"
+slug: "voxxed-days-ticino-2027"
+name: "Voxxed Days Ticino"
+edition: "2027"
+organizer:
+  en: "Voxxed Days Ticino"
+  pt-BR: "Voxxed Days Ticino"
+summary:
+  en: "Voxxed Days Ticino is the one-day event of the Devoxx/Voxxed Days franchise in Italian-speaking Switzerland (Lugano), focused on Java/JVM, AI, architecture and cloud. Connected to the same group that runs Zurich and other Swiss Voxxed Days."
+  pt-BR: "Voxxed Days Ticino é o evento de um dia da franquia Devoxx/Voxxed Days na Suíça italiana (Lugano), com foco em Java/JVM, IA, arquitetura e cloud. Ligado ao mesmo grupo que roda Zurich e outras Voxxed Days suíças."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-02-19"
+  end: "2027-02-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Lugano"
+  countryCode: "CH"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "46.01"
+  lng: "8.96"
+  precision: "CITY"
+links:
+  website: "https://vdt27.voxxeddays.ch/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-10-23"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://vdt27.cfp.dev"
+  platform: "vdt27.cfp.dev"
+  benefits:
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "cfp-watch"
+    name: "cfp.watch"
+    url: "https://cfp.watch"
+    licence: "unknown"
+    role: "discovered_via"
+  - code: "dev-events"
+    name: "dev.events"
+    url: "https://dev.events"
+    licence: "unknown"
+    role: "discovered_via"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

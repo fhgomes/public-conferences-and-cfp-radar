@@ -1,0 +1,59 @@
+id: "d2ac71ce-9119-449b-8f01-6c5f95e8927a"
+slug: "w-jax-2026"
+name: "W-JAX 2026"
+organizer:
+  en: "S&S Media"
+  pt-BR: "S&S Media"
+summary:
+  en: "W-JAX is the Java, architecture and cloud conference by S&S Media (same group as JAX London), held in Munique. Multi-day hybrid format, with a program mostly in German and some talks in English."
+  pt-BR: "W-JAX é a conferência de Java, arquitetura e cloud da S&S Media (mesmo grupo do JAX London), realizada em Munique. Formato híbrido de vários dias, programação majoritariamente em alemão com algumas talks em inglês."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-02"
+  end: "2026-11-06"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Munique"
+  countryCode: "DE"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "48.14"
+  lng: "11.58"
+  precision: "CITY"
+links:
+  website: "https://jax.de/muenchen/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+cfp:
+  closesOn: "2026-05-11"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

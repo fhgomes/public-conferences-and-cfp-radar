@@ -1,0 +1,57 @@
+id: "e5b836fc-0724-45b6-bdb1-4fd8f3768310"
+slug: "swetugg-stockholm-2027"
+name: "Swetugg Stockholm 2027"
+organizer:
+  en: "Swetugg (volunteers)"
+  pt-BR: "Swetugg (voluntários)"
+summary:
+  en: "Swetugg is the .NET conference in Stockholm, created in 2015 by volunteers with the goal of offering quality content at an affordable price. In-person 2-day format, organized by developers for developers."
+  pt-BR: "Swetugg é a conferência .NET de Estocolmo, criada em 2015 por voluntários com o objetivo de ter conteúdo de qualidade a preço acessível. Formato presencial de 2 dias, organizado por desenvolvedores para desenvolvedores."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-02-02"
+  end: "2027-02-03"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Estocolmo"
+  countryCode: "SE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "59.33"
+  lng: "18.07"
+  precision: "CITY"
+links:
+  website: "https://www.swetugg.se/stockholm/2027"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-09-14"
+  closesOn: "2026-10-11"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/swetugg-stockholm-2027/"
+  platform: "Sessionize"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:54Z"

@@ -1,0 +1,47 @@
+id: "361adc75-2c49-48be-b952-c317bd4e99c7"
+slug: "devopsdays-vitoria-2027"
+name: "DevOpsDays Vitória 2027"
+organizer:
+  en: "Community devopsdays Vitória"
+  pt-BR: "Comunidade devopsdays Vitória"
+summary:
+  en: "DevOpsDays Vitória is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation, in its 3rd edition (previous ones in 2020 and 2022), scheduled for 01/23/2027 at Vitória Grand Hall. CFP not yet published; the chapter uses the shared platform talks.devopsdays.org (Pretalx) for submissions."
+  pt-BR: "DevOpsDays Vitória é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação, em sua 3ª edição (anteriores em 2020 e 2022), marcada para 23/01/2027 no Vitória Grand Hall. CFP ainda não publicado; o capítulo usa a plataforma comum talks.devopsdays.org (Pretalx) para submissões."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-01-23"
+  end: "2027-01-23"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Vitória"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-20.32"
+  lng: "-40.34"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2027-vitoria"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

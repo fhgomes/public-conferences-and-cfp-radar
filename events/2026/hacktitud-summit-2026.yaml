@@ -1,0 +1,52 @@
+id: "74b7f483-370f-48c0-bd20-5b8714ae9ab3"
+slug: "hacktitud-summit-2026"
+name: "Hacktitud Summit 2026"
+organizer:
+  en: "Hacktitud"
+  pt-BR: "Hacktitud"
+summary:
+  en: "Hacktitud Summit is a technology/security event held on the Tec de Monterrey campus (CDMX); available public sources are scarce -- it was not possible to confirm the history of previous editions, the actual audience size or the speaker profile beyond what has already been established (open registration, CFP at hacktitud.org/summit/papers). There is little public information about this event."
+  pt-BR: "Hacktitud Summit é um evento de tecnologia/segurança realizado no campus do Tec de Monterrey (CDMX); as fontes públicas disponíveis são escassas -- não foi possível confirmar histórico de edições anteriores, porte real de público ou perfil de palestrantes além do que já se apurou (registro aberto, CFP em hacktitud.org/summit/papers). Há pouca informação pública sobre este evento."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-25"
+  end: "2026-11-25"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade do México"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "19.43"
+  lng: "-99.13"
+  precision: "CITY"
+links:
+  website: "https://hacktitud.org/"
+topics:
+  - "security"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-09-14"
+  closesOn: "2026-10-16"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/httds26/"
+  platform: "Sessionize"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-13T05:15:50Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-13T05:15:50Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

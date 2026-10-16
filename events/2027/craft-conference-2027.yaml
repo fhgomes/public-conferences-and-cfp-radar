@@ -1,0 +1,45 @@
+id: "77dfe895-7a17-45f9-b1da-56fa2ef8cd39"
+slug: "craft-conference-2027"
+name: "Craft Conference 2027"
+organizer:
+  en: "Prezi / Craft Hub"
+  pt-BR: "Prezi / Craft Hub"
+summary:
+  en: "Craft Conference is a comprehensive software conference in Budapeste (Railway Museum), organized by Prezi/Craft Hub, with almost a decade of tradition and a track record of heavyweight keynotes in software engineering. Hybrid format, large scale, CFP typically open until November via Google form."
+  pt-BR: "Craft Conference é uma conferência de software abrangente em Budapeste (Railway Museum), organizada pela Prezi/Craft Hub, com quase uma década de tradição e histórico de keynotes de peso na engenharia de software. Formato híbrido, grande porte, CFP tipicamente aberto até novembro via formulário Google."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-03"
+  end: "2027-06-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Budapeste (Railway Museum)"
+  countryCode: "HU"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "47.5"
+  lng: "19.04"
+  precision: "CITY"
+links:
+  website: "https://craft-conf.com/2027/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://forms.gle/a54R4eu3tyiXCddi6"
+  platform: "forms.gle"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

@@ -1,0 +1,41 @@
+id: "8e92f211-52ce-43e3-8bef-14b80f26adaa"
+slug: "devfest-guatemala-city-2026"
+name: "DevFest Guatemala City 2026"
+organizer:
+  en: "GDG Cloud Guatemala"
+  pt-BR: "GDG Cloud Guatemala"
+summary:
+  en: "DevFest Guatemala City 2026 is organized by GDG Cloud Guatemala, a one-day event of talks about Google Cloud and AI. Small scale, no venue published at the time of research."
+  pt-BR: "DevFest Guatemala City 2026 é organizado pelo GDG Cloud Guatemala, um dia de talks sobre Google Cloud e IA. Porte pequeno, sem venue publicado no momento da pesquisa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-24"
+  end: "2026-10-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade da Guatemala"
+  countryCode: "GT"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "14.64"
+  lng: "-90.51"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-guatemala/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:36Z"

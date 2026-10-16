@@ -1,0 +1,45 @@
+id: "93177a37-7b4d-4849-a575-d49abd123d71"
+slug: "meetup-codecon-sao-paulo-mensal-na-oracle-2026"
+name: "Codecon São Paulo"
+nameNote:
+  en: "Monthly meetup, at Oracle"
+  pt-BR: "Meetup mensal, na Oracle"
+organizer:
+  en: "Codecon"
+  pt-BR: "Codecon"
+summary:
+  en: "Monthly Codecon meetup in São Paulo (14th edition), held at the Oracle space, a local meetup format within the national Codecon event network."
+  pt-BR: "Encontro mensal da Codecon em São Paulo (14a edição), realizado no espaço da Oracle, formato de meetup local dentro da rede nacional de eventos Codecon."
+machineTranslated:
+  - "nameNote.en"
+  - "summary.en"
+dates:
+  start: "2026-09-29"
+  end: "2026-09-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.codecon.dev/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

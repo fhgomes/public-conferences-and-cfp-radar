@@ -1,0 +1,41 @@
+id: "3d3030ac-51ea-4568-b6cc-c875bb559b80"
+slug: "aws-summit-sao-paulo-2027"
+name: "AWS Summit São Paulo 2027"
+organizer:
+  en: "Amazon Web Services"
+  pt-BR: "Amazon Web Services"
+summary:
+  en: "Official, free event run by AWS itself, with a keynote, dozens of technical sessions and labs; the Brazilian edition takes place annually at São Paulo Expo (2026 was on 03/09). It is the largest cloud event in the country by attendance."
+  pt-BR: "Evento oficial e gratuito da própria AWS, com keynote, dezenas de sessões técnicas e labs; a edição brasileira roda anualmente no São Paulo Expo (2026 foi em 03/09). E o maior evento de nuvem do país em público."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-02"
+  end: "2027-09-02"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://aws.amazon.com/events/summits/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

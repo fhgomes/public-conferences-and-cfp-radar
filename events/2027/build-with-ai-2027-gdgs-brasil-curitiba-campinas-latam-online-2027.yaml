@@ -1,0 +1,36 @@
+id: "df9b42cd-d0cf-43b6-8380-7e1d9147497a"
+slug: "build-with-ai-2027-gdgs-brasil-curitiba-campinas-latam-online-2027"
+name: "Build with AI 2027 (GDGs Brasil — Curitiba, Campinas, LATAM online)"
+organizer:
+  en: "Google Developer Groups"
+  pt-BR: "Google Developer Groups"
+summary:
+  en: "'Build with AI' is a global Google campaign of hands-on generative AI workshops (Gemini, Vertex AI); in Brazil it runs in multiple cities (Curitiba, Campinas) plus an online track for Latin America."
+  pt-BR: "'Build with AI' é uma campanha global do Google com workshops práticos de IA generativa (Gemini, Vertex AI); no Brasil roda em múltiplas cidades (Curitiba, Campinas) mais uma trilha online para a América Latina."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-01"
+  end: "2027-07-31"
+  tba: false
+  status: "ESTIMATED"
+location:
+  cityStatus: "MULTIPLE"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+links:
+  website: "https://gdg.community.dev/gdg-curitiba/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:40Z"

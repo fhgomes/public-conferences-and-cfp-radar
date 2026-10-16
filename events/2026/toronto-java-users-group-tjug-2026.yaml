@@ -1,0 +1,42 @@
+id: "8d7c739f-5173-4c77-a5c5-7f3dd6e54576"
+slug: "toronto-java-users-group-tjug-2026"
+name: "Toronto Java Users Group (TJUG)"
+organizer:
+  en: "TJUG (Adib Saikali, Super Organizer)"
+  pt-BR: "TJUG (Adib Saikali, Super Organizer)"
+summary:
+  en: "TJUG (Toronto Java Users Group) is an active, long-standing JUG led by Adib Saikali (known as 'Super Organizer'), with a format that includes career talks."
+  pt-BR: "TJUG (Toronto Java Users Group) é um JUG ativo e de longa data, liderado por Adib Saikali (conhecido como 'Super Organizer'), com formato que inclui talks de carreira."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-05"
+  end: "2026-10-13"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Toronto, ON"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "43.71"
+  lng: "-79.4"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/toronto-java-users-group/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

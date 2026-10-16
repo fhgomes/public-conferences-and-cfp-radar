@@ -1,0 +1,41 @@
+id: "0c928780-62ca-47b2-b6a4-11cf929fcd11"
+slug: "cafe-com-ai-17-19-20-oracle-innovation-center-sp-2026"
+name: "Café com AI #17 / #19 / #20 (Oracle Innovation Center SP)"
+organizer:
+  en: "Oracle Brasil"
+  pt-BR: "Oracle Brasil"
+summary:
+  en: "'Café com AI' is a recurring series of morning meetups on applied AI at the Oracle Innovation Center in SP, organized by the cafebugado.com.br community; already at editions #17-#20, with coffee, applied content and a tour of the space."
+  pt-BR: "'Café com AI' é uma série recorrente de encontros matinais sobre IA aplicada no Oracle Innovation Center de SP, organizada pela comunidade cafebugado.com.br; já em edições #17-#20, com cafe, conteúdo aplicado e tour pelo espaço."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-08"
+  end: "2026-11-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

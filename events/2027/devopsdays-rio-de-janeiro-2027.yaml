@@ -1,0 +1,46 @@
+id: "f0bcd50b-5a9e-4abf-bd1e-2003a9f8079e"
+slug: "devopsdays-rio-de-janeiro-2027"
+name: "DevOpsDays Rio de Janeiro 2027"
+organizer:
+  en: "devopsdays Rio Community"
+  pt-BR: "Comunidade devopsdays Rio"
+summary:
+  en: "DevOpsDays Rio de Janeiro is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation. The 2027 date given here (14/08) is an estimate based on the 2026 pattern, whose edition was confirmed for 15/08/2026; the official page is still the 2026 one (reused) and does not show a published 2027 edition or an edition number."
+  pt-BR: "DevOpsDays Rio de Janeiro é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação. A data 2027 aqui indicada (14/08) é uma estimativa baseada no padrão de 2026, cuja edição foi confirmada para 15/08/2026; a página oficial ainda é a de 2026 (reaproveitada) e não expõe uma edição 2027 publicada nem número de edição."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-08-14"
+  end: "2027-08-14"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Rio de Janeiro"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.91"
+  lng: "-43.18"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-rio-de-janeiro"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-02-18"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

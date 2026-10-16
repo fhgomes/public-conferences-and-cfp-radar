@@ -1,0 +1,64 @@
+id: "97302209-e0d5-4394-92ef-6f01eef27e58"
+slug: "devnexus-2027"
+name: "Devnexus"
+edition: "2027"
+organizer:
+  en: "Atlanta Java Users Group (AJUG)"
+  pt-BR: "Atlanta Java Users Group (AJUG)"
+summary:
+  en: "Devnexus is the largest Java community conference in the US, organized by the Atlanta Java Users Group (AJUG), held in Atlanta with 10 tracks and over 100 sessions. It is one of the most respected events on the North American Java circuit."
+  pt-BR: "Devnexus é a maior conferência de comunidade Java dos EUA, organizada pela Atlanta Java Users Group (AJUG), realizada em Atlanta com 10 trilhas e mais de 100 sessões. E um dos eventos mais respeitados do circuito Java norte-americano."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-29"
+  end: "2027-03-31"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Atlanta, GA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.75"
+  lng: "-84.39"
+  precision: "CITY"
+links:
+  website: "https://devnexus.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-09-01"
+  closesOn: "2026-09-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/devnexus-2027/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

@@ -1,0 +1,56 @@
+id: "650a0bae-a66c-4fb4-ae0b-4a310a3cbb55"
+slug: "devopsdays-raleigh-2027"
+name: "DevOpsDays Raleigh 2027"
+organizer:
+  en: "devopsdays (community)"
+  pt-BR: "devopsdays (community)"
+summary:
+  en: "DevOpsDays is a global series of conferences organized by each city's local community, in a 2-day format with curated talks plus open spaces/ignite talks, without a strong corporate hierarchy. The Raleigh edition is one of dozens of annual editions in the network."
+  pt-BR: "DevOpsDays é uma série global de conferências organizadas pela comunidade local de cada cidade, formato de 2 dias com talks curados mais open spaces/ignite talks, sem hierarquia corporativa forte. A edição de Raleigh é uma das dezenas de edições anuais da rede."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-27"
+  end: "2027-04-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Raleigh, NC"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "35.77"
+  lng: "-78.64"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2027-raleigh/welcome/"
+topics:
+  - "ai-ml"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-09-01"
+  closesOn: "2027-01-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://devopsdays.org/events/2027-raleigh/propose/"
+  platform: "devopsdays.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

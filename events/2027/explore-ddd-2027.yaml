@@ -1,0 +1,41 @@
+id: "e9aa999e-0cfd-4ef7-9bf0-ae8ea3ae3d55"
+slug: "explore-ddd-2027"
+name: "Explore DDD 2027"
+organizer:
+  en: "Explore DDD"
+  pt-BR: "Explore DDD"
+summary:
+  pt-BR: "Explore DDD é a principal conferência norte-americana de Domain-Driven Design, fundada em 2017 em Denver por Paul Rayner, com keynotes históricos de nomes fundadores da área (Eric Evans, Ward Cunningham, Rebecca Wirfs-Brock). Formato híbrido com uma trilha de palestras mais trilhas paralelas de workshops práticos de 2h."
+dates:
+  start: "2027-09-20"
+  end: "2027-09-24"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Denver, CO"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "39.74"
+  lng: "-104.98"
+  precision: "CITY"
+links:
+  website: "https://exploreddd.com/"
+topics:
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-12-15"
+  timezone: "America/Sao_Paulo"
+  url: "https://exploreddd.com/cfp/"
+  platform: "exploreddd.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:39Z"

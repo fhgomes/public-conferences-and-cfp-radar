@@ -1,0 +1,48 @@
+id: "22f6f5f1-47d4-4ddf-ab15-8a27fca9b375"
+slug: "devoxx-belgium-2027"
+name: "Devoxx Belgium"
+edition: "2027"
+organizer:
+  en: "Devoxx / Stephan Janssen"
+  pt-BR: "Devoxx / Stephan Janssen"
+summary:
+  en: "Devoxx Belgium is the world's most traditional Java conference, held in Antuérpia since 2001 under the leadership of Stephan Janssen. One-week format, with deep-dive technical days and multi-track conference days. The 2027 edition already has an official CFP open (dvbe27.cfp.dev)."
+  pt-BR: "Devoxx Belgium é a conferência Java mais tradicional do mundo, realizada em Antuérpia desde 2001 sob liderança de Stephan Janssen. Formato de uma semana, com dias de aprofundamento técnico e dias de conferência multi-trilha. A edição 2027 já tem CFP oficial aberto (dvbe27.cfp.dev)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-01"
+  end: "2027-10-08"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Antuerpia"
+  countryCode: "BE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.22"
+  lng: "4.4"
+  precision: "CITY"
+links:
+  website: "https://devoxx.be/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-06-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

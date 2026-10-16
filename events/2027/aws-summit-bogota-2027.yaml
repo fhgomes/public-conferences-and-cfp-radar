@@ -1,0 +1,41 @@
+id: "6b466768-22a9-479d-bccb-53f688e1c6a4"
+slug: "aws-summit-bogota-2027"
+name: "AWS Summit Bogotá 2027"
+organizer:
+  en: "AWS"
+  pt-BR: "AWS"
+summary:
+  en: "AWS Summit is a free event organized directly by AWS (not by the community), with corporate keynotes, technical tracks and an exhibitor floor, in a format replicated in dozens of cities around the world. The 2026 Bogotá edition was held on Jul 30 at Ágora Bogotá; 2027 is an estimate (same annual pattern)."
+  pt-BR: "AWS Summit é um evento gratuito organizado diretamente pela AWS (não pela comunidade), com keynotes corporativos, trilhas técnicas e piso de expositores, em formato replicado em dezenas de cidades no mundo. A edição de Bogotá em 2026 foi em 30/jul na Ágora Bogotá; 2027 é estimativa (mesmo padrão anual)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-29"
+  end: "2027-07-29"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Bogotá"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "4.61"
+  lng: "-74.08"
+  precision: "CITY"
+links:
+  website: "https://aws.amazon.com/es/events/summits/bogota/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

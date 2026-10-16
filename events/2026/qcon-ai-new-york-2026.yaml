@@ -1,0 +1,40 @@
+id: "619e1954-bd2c-45de-9ed7-84ba94f25d19"
+slug: "qcon-ai-new-york-2026"
+name: "QCon AI New York 2026"
+organizer:
+  en: "C4Media / InfoQ"
+  pt-BR: "C4Media / InfoQ"
+summary:
+  en: "QCon AI New York is the C4Media/InfoQ conference dedicated to AI engineering in production, held in the New York metropolitan area (Jersey City), with the same invitation-based curation model via QCon track hosts."
+  pt-BR: "QCon AI New York é a conferência da C4Media/InfoQ dedicada a engenharia de IA em produção, realizada na região metropolitana de Nova York (Jersey City), com o mesmo modelo de curadoria por convite via track hosts da QCon."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-12-15"
+  end: "2026-12-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Jersey City, NJ (NY metro)"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.73"
+  lng: "-74.08"
+  precision: "CITY"
+links:
+  website: "https://newyork.qcon.ai/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

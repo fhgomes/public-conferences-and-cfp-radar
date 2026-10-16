@@ -1,0 +1,43 @@
+id: "9071b634-f53f-4e93-9918-245ea3c3d670"
+slug: "tdc-summit-ai-2026"
+name: "TDC Summit AI"
+edition: "2026"
+summary:
+  pt-BR: "TDC Summit AI é o vertical do TDC (iMasters) dedicado exclusivamente a Inteligência Artificial, formato de um a dois dias com trilhas técnicas de IA aplicada, LLMs e engenharia de dados."
+dates:
+  start: "2026-04-23"
+  end: "2026-04-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Sao Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  opensOn: "2026-01-12"
+  closesOn: "2026-02-12"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

@@ -1,0 +1,38 @@
+id: "2790496a-bd1c-4657-838c-38ebc4a6ef03"
+slug: "devfest-2026-gdg-cloud-sao-paulo-2026"
+name: "DevFest 2026 — GDG Cloud São Paulo"
+organizer:
+  en: "GDG Cloud São Paulo"
+  pt-BR: "GDG Cloud São Paulo"
+summary:
+  pt-BR: "DevFest específico do capítulo GDG Cloud São Paulo, dedicado a cloud/GCP, maior que os meetups regulares do capítulo mas mais nichado que o DevFest geral de SP."
+dates:
+  start: "2026-11-28"
+  end: "2026-11-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-sao-paulo/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:36Z"

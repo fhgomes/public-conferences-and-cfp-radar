@@ -1,0 +1,45 @@
+id: "3c401ff3-0a69-4b29-a729-2e2ac85ab15e"
+slug: "jconf-guatemala-2027"
+name: "JConf Guatemala 2027"
+organizer:
+  en: "Guate-JUG"
+  pt-BR: "Guate-JUG"
+summary:
+  en: "JConf Guatemala 2027 is the next annual edition of Guate-JUG (see the 2026 profile for the full format: 7 tracks, since 2011, Centro TICS Intecap). The event runs every November (2026 was on Nov 7); an external search confirms a consistent pattern (the 2025 edition took place on Nov 15, 2025 via papercall.io)."
+  pt-BR: "JConf Guatemala 2027 é a próxima edição anual do Guate-JUG (ver perfil de 2026 para o formato completo: 7 trilhas, desde 2011, Centro TICS Intecap). O evento roda todo novembro (2026 foi em 7/nov); busca externa confirma padrão consistente (edição 2025 ocorreu em 15/nov/2025 via papercall.io)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-11-06"
+  end: "2027-11-06"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cidade da Guatemala"
+  countryCode: "GT"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "14.64"
+  lng: "-90.51"
+  precision: "CITY"
+links:
+  website: "https://guate-jug.net/"
+topics:
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-06-01"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

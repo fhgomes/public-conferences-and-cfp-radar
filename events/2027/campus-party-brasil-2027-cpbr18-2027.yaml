@@ -1,0 +1,48 @@
+id: "fd8afd8a-f67f-4bca-a644-65e05ba3f469"
+slug: "campus-party-brasil-2027-cpbr18-2027"
+name: "Campus Party Brasil 2027 (CPBR18)"
+organizer:
+  en: "Instituto Campus Party"
+  pt-BR: "Instituto Campus Party"
+summary:
+  en: "Campus Party is a Brazilian festival of technology, innovation, games and geek culture created in the early 2000s, with a multi-day immersive format (stages, e-sports arena, hackathons, camping area). The 18th national edition (CPBR18) was scheduled for June 2026 in BRASÍLIA (Arena BRB Mané Garrincha), but was POSTPONED for reasons beyond the organizers' control and, as of the research (Sep/2026), still had NO new confirmed date."
+  pt-BR: "Campus Party é um festival brasileiro de tecnologia, inovação, games e cultura geek criado no início dos anos 2000, com formato de vários dias de imersão (palcos, arena de e-sports, hackathons, acampamento). A 18ª edição nacional (CPBR18) estava marcada para junho de 2026 em BRASÍLIA (Arena BRB Mané Garrincha), mas foi ADIADA por motivos fora do controle da organização e, até a pesquisa (set/2026), seguia SEM nova data confirmada."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-15"
+  end: "2027-06-20"
+  tba: false
+  status: "UNKNOWN"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://brasil.campus-party.org/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://brasil.campus-party.org/call-4-talks/"
+  platform: "brasil.campus-party.org"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

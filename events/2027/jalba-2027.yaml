@@ -1,0 +1,46 @@
+id: "df966b49-983d-42a5-ac0d-51a36f04fa85"
+slug: "jalba-2027"
+name: "JAlba"
+edition: "2027"
+organizer:
+  en: "JAlba (Scottish Java community)"
+  pt-BR: "JAlba (Scottish Java community)"
+summary:
+  en: "JAlba is a three-day Java 'unconference' in Edimburgo, modeled on the JCrete format -- about 30 participants discussing Java and technology in an open space format, with no traditional talks. It has had editions in 2018, 2019, 2022, 2023 and 2024."
+  pt-BR: "JAlba é um 'unconference' Java de três dias em Edimburgo, modelado no formato da JCrete -- cerca de 30 participantes discutindo Java e tecnologia em formato de open space, sem palestras tradicionais. Já teve edições em 2018, 2019, 2022, 2023 e 2024."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-20"
+  end: "2027-05-22"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Edimburgo"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "55.95"
+  lng: "-3.2"
+  precision: "CITY"
+links:
+  website: "https://jalba.scot/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

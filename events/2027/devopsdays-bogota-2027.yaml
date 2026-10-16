@@ -1,0 +1,45 @@
+id: "bb9950a9-7b27-4f97-adde-5b8e7a6b2be9"
+slug: "devopsdays-bogota-2027"
+name: "DevOpsDays Bogotá 2027"
+organizer:
+  en: "DevOpsDays Bogotá"
+  pt-BR: "DevOpsDays Bogotá"
+summary:
+  en: "Same DevOpsDays series (see the 2026 Bogotá edition) -- community-run, non-profit, single-track + Open Space format. The 2027 date/CFP are estimated from the event's historical pattern (last Friday of October, CFP until the end of August), since the official page has not yet published the specific edition."
+  pt-BR: "Mesma série DevOpsDays (ver edição 2026 de Bogotá) -- comunitária, sem fins lucrativos, formato trilha única + Open Space. A data/CFP de 2027 são estimados pelo padrão histórico do evento (última sexta de outubro, CFP até fim de agosto), já que a página oficial ainda não publicou a edição específica."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-22"
+  end: "2027-10-22"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Bogotá"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "4.61"
+  lng: "-74.08"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-06-01"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

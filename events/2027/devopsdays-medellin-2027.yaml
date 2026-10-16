@@ -1,0 +1,45 @@
+id: "7eae701b-bfba-47c5-9394-6beaacbb09cb"
+slug: "devopsdays-medellin-2027"
+name: "DevOpsDays Medellín 2027"
+organizer:
+  en: "DevOpsDays Medellín"
+  pt-BR: "DevOpsDays Medellín"
+summary:
+  en: "Medellín edition of the DevOpsDays series -- same global community format (single track + Open Space). 2027 dates are estimated; the only official page available is still the 2026 edition's."
+  pt-BR: "Edição de Medellín da série DevOpsDays -- mesmo formato comunitário global (trilha única + Open Space). Datas de 2027 são estimadas; a página oficial disponível ainda é a da edição 2026."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-26"
+  end: "2027-05-27"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Medellín"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "6.25"
+  lng: "-75.57"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-medellin/welcome/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-01-15"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

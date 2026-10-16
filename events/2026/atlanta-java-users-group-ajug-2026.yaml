@@ -1,0 +1,48 @@
+id: "a42c8516-2cf6-4a75-b785-2d2a016be23c"
+slug: "atlanta-java-users-group-ajug-2026"
+name: "Atlanta Java Users Group (AJUG)"
+organizer:
+  en: "AJUG (organizes Devnexus)"
+  pt-BR: "AJUG (organiza o Devnexus)"
+summary:
+  pt-BR: "AJUG (Atlanta Java Users Group) é o JUG histórico de Atlanta, mantido pela mesma organização que produz o Devnexus (uma das maiores conferências Java dos EUA). Encontros presenciais mensais (3a terça-feira, 19h) no Roam Interactive Workspaces em Dunwoody, com talks técnicas sobre Java/IA e networking."
+machineTranslated:
+  - "organizer.en"
+dates:
+  start: "2026-10-20"
+  end: "2026-10-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Atlanta, GA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.75"
+  lng: "-84.39"
+  precision: "CITY"
+links:
+  website: "https://ajug.org/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://luma.com/ajug"
+  platform: "luma.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

@@ -1,0 +1,46 @@
+id: "0ef507d4-a8c7-47a0-8b27-0c1c994745f7"
+slug: "kcd-toronto-2027"
+name: "KCD Toronto 2027"
+organizer:
+  en: "CNCF community"
+  pt-BR: "CNCF community"
+summary:
+  en: "KCD (Kubernetes Community Days) Toronto is the regional CNCF community event in Toronto, mid-sized; 2026 was on 13/05 at The Quay, 2027 estimated for 12/05."
+  pt-BR: "KCD (Kubernetes Community Days) Toronto é o evento regional da comunidade CNCF em Toronto, de porte médio; 2026 foi em 13/05 no The Quay, 2027 estimado para 12/05."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-12"
+  end: "2027-05-12"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Toronto, ON"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "43.71"
+  lng: "-79.4"
+  precision: "CITY"
+links:
+  website: "https://kcdtoronto.ca/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-12-29"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

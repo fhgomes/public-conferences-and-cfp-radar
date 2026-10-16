@@ -1,0 +1,18 @@
+[
+  {
+    "slug": "ai",
+    "status": "ACTIVE",
+    "name": {
+      "en": "AI",
+      "pt-BR": "IA"
+    }
+  },
+  {
+    "slug": "cloud",
+    "status": "DEPRECATED",
+    "name": {
+      "en": "Cloud",
+      "pt-BR": "Nuvem"
+    }
+  }
+]

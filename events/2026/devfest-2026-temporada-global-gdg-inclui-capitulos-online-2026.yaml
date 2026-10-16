@@ -1,0 +1,33 @@
+id: "51876cd0-6f13-4f30-b4fc-6e04b23450e6"
+slug: "devfest-2026-temporada-global-gdg-inclui-capitulos-online-2026"
+name: "DevFest 2026 (temporada global GDG, inclui capítulos online)"
+organizer:
+  en: "Google Developer Groups (each chapter is independent)"
+  pt-BR: "Google Developer Groups (cada capítulo é independente)"
+summary:
+  pt-BR: "DevFest é a temporada anual de eventos organizados de forma independente pelos capítulos dos Google Developer Groups (GDG) ao redor do mundo. Não existe uma edição 'global online' oficial única - cada GDG local organiza seu próprio DevFest, com formato, porte e trilhas variando por cidade."
+machineTranslated:
+  - "organizer.en"
+dates:
+  start: "2026-10-01"
+  end: "2026-12-31"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "HYBRID"
+links:
+  website: "https://developers.google.com/community/devfest"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

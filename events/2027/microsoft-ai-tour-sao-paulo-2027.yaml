@@ -1,0 +1,38 @@
+id: "6225c2a8-4769-43b0-a08e-70eec395b10c"
+slug: "microsoft-ai-tour-sao-paulo-2027"
+name: "Microsoft AI Tour São Paulo 2027"
+organizer:
+  en: "Microsoft"
+  pt-BR: "Microsoft"
+summary:
+  pt-BR: "Microsoft AI Tour é a série itinerante global da Microsoft sobre IA aplicada a negócios, com paradas em várias cidades do mundo. A edição de São Paulo em 2026 ocorreu em 11/02, no Transamerica Expo Center, formato gratuito de 1 dia com workshops e palestras apresentadas por executivos da Microsoft (incl. presidente da Microsoft Brasil e CEO de Negócios Comerciais globais); a próxima temporada (FY27) ainda não tem cidades/datas publicadas — estimativa fev/2027."
+dates:
+  start: "2027-02-10"
+  end: "2027-02-10"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://aitour.microsoft.com/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

@@ -1,0 +1,26 @@
+[
+  {
+    "slug": "ai",
+    "status": "ACTIVE",
+    "name": {
+      "en": "AI",
+      "pt-BR": "IA"
+    }
+  },
+  {
+    "slug": "cloud",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Cloud",
+      "pt-BR": "Nuvem"
+    }
+  },
+  {
+    "slug": "java",
+    "status": "ACTIVE",
+    "name": {
+      "en": "Java",
+      "pt-BR": "Java"
+    }
+  }
+]

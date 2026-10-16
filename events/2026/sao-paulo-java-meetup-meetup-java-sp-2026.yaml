@@ -1,0 +1,41 @@
+id: "9dc340d1-e7a3-4282-b951-2b29868a5ea1"
+slug: "sao-paulo-java-meetup-meetup-java-sp-2026"
+name: "São Paulo Java Meetup (Meetup Java SP)"
+organizer:
+  en: "Meetup Java São Paulo (community)"
+  pt-BR: "Meetup Java São Paulo (comunidade)"
+summary:
+  en: "São Paulo Java Meetup is a community group (distinct from SouJava) with editions listed on Meetup.com: #43 (Jul/2024, VR Benefícios, 89 people), #45 on MongoDB (Sep/2024, FIAP Paulista, 92 people) and #44 (May/2025, WeWork). Activity in 2026 is not publicly visible on the page; it has 725 followers on LinkedIn."
+  pt-BR: "São Paulo Java Meetup é um grupo comunitário (distinto do SouJava) com edições registradas no Meetup.com: #43 (jul/2024, VR Benefícios, 89 pessoas), #45 sobre MongoDB (set/2024, FIAP Paulista, 92 pessoas) e #44 (mai/2025, WeWork). Atividade em 2026 não está visível publicamente na página; tem 725 seguidores no LinkedIn."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "UNKNOWN"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/sao-paulo-java-meetup/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

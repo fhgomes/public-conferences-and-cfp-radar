@@ -1,0 +1,58 @@
+id: "ff45d830-f84e-45e7-a9f9-6f7de4bded82"
+slug: "oredev-2026"
+name: "Øredev 2026"
+organizer:
+  en: "Øredev AB"
+  pt-BR: "Øredev AB"
+summary:
+  en: "Oredev is a general-purpose technology conference held in Malmo, Sweden, covering software development, architecture and engineering culture. Multi-day in-person format."
+  pt-BR: "Oredev é uma conferência de tecnologia generalista realizada em Malmo, Suécia, cobrindo desenvolvimento de software, arquitetura e cultura de engenharia. Formato presencial de vários dias."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-04"
+  end: "2026-11-06"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Malmö"
+  countryCode: "SE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "55.61"
+  lng: "13"
+  precision: "CITY"
+links:
+  website: "https://oredev.org/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-03-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/oredev-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:52Z"

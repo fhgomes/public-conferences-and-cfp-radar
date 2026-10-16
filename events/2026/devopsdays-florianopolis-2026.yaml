@@ -1,0 +1,58 @@
+id: "a6bf23b7-46f5-48ea-9918-0b5f8714a658"
+slug: "devopsdays-florianopolis-2026"
+name: "DevOpsDays Florianópolis 2026"
+organizer:
+  en: "devopsdays Florianópolis Community"
+  pt-BR: "Comunidade devopsdays Florianópolis"
+summary:
+  en: "DevOpsDays Florianópolis is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation, held at UNICESUSC (Santo Antônio de Lisboa). 1-day format: short talks + open space; tickets sold via Sympla. CFP does not appear on the page consulted (probably already closed for this edition)."
+  pt-BR: "DevOpsDays Florianópolis é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação, realizado na UNICESUSC (Santo Antônio de Lisboa). Formato de 1 dia: palestras curtas + open space; ingressos vendidos via Sympla. CFP não aparece na página consultada (provavelmente já fechado para esta edição)."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-10-24"
+  end: "2026-10-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Florianópolis"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-27.6"
+  lng: "-48.55"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-florianopolis"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-05-28"
+  closesOn: "2026-08-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/devopsdays-floripa26/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

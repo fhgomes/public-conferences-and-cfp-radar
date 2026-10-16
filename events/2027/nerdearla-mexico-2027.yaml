@@ -1,0 +1,48 @@
+id: "f8cc8863-bf5b-48ed-95c4-e220b4fa459b"
+slug: "nerdearla-mexico-2027"
+name: "Nerdearla México 2027"
+organizer:
+  en: "Sysarmy / Nerdearla"
+  pt-BR: "Sysarmy / Nerdearla"
+summary:
+  pt-BR: "Possível 3a edição do Nerdear.la México, no mesmo formato híbrido/gratuito das demais edições da marca (Sysarmy) -- porém esta edição NÃO consta na agenda oficial 2026-27 divulgada pela organização (que lista apenas Buenos Aires, CDMX 2026, Santiago e Buenos Aires 2027, Madrid), então sua existência em 2027 é incerta."
+dates:
+  start: "2027-11-17"
+  end: "2027-11-19"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cidade do México"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "HYBRID"
+geo:
+  lat: "19.43"
+  lng: "-99.13"
+  precision: "CITY"
+links:
+  website: "https://nerdearla.com/en/mexico/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-04-01"
+  timezone: "America/Sao_Paulo"
+  url: "https://nerdearla.com/en/cfp/"
+  platform: "nerdearla.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

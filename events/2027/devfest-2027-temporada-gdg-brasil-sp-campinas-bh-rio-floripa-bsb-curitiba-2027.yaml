@@ -1,0 +1,45 @@
+id: "7e7dd7ca-2d19-4593-b312-99dc964553cd"
+slug: "devfest-2027-temporada-gdg-brasil-sp-campinas-bh-rio-floripa-bsb-curitiba-2027"
+name: "DevFest 2027 (temporada GDG Brasil: SP, Campinas, BH, Rio, Floripa, BSB, Curitiba...)"
+organizer:
+  en: "Google Developer Groups (by city)"
+  pt-BR: "Google Developer Groups (por cidade)"
+summary:
+  en: "DevFest Brasil is the name of the national DevFest season, with local editions in several cities (SP, Campinas, BH, Rio, Floripa, Brasília, Curitiba...); it is not a single event, but an umbrella of events organized by each local GDG."
+  pt-BR: "DevFest Brasil é o nome da temporada nacional do DevFest, com edições locais em várias cidades (SP, Campinas, BH, Rio, Floripa, Brasília, Curitiba...); não é um evento único, é um guarda-chuva de eventos organizados por cada GDG local."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-10-01"
+  end: "2027-12-31"
+  tba: false
+  status: "ESTIMATED"
+location:
+  cityStatus: "MULTIPLE"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+links:
+  website: "https://gdg.community.dev/devfest/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-08-01"
+  timezone: "UTC"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

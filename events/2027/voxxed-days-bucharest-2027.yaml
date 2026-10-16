@@ -1,0 +1,42 @@
+id: "99e2afaa-7c07-4f85-9808-070a72cd5956"
+slug: "voxxed-days-bucharest-2027"
+name: "Voxxed Days Bucharest 2027"
+organizer:
+  en: "Voxxed Days Romania / Bucharest JUG"
+  pt-BR: "Voxxed Days Romania / Bucharest JUG"
+summary:
+  en: "Voxxed Days Bucharest is the regional conference of the Voxxed Days network in Romania, organized by Bucharest JUG. In-person format with a workshop plus 1-2 days of conference, with tracks on Java, cloud, DevOps and AI."
+  pt-BR: "Voxxed Days Bucharest é a conferência regional da rede Voxxed Days na Romênia, organizada pela Bucharest JUG. Formato presencial de workshop mais 1-2 dias de conferência, com trilhas de Java, cloud, DevOps e IA."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-27"
+  end: "2027-04-28"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Bucareste"
+  countryCode: "RO"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "44.43"
+  lng: "26.11"
+  precision: "CITY"
+links:
+  website: "https://romania.voxxeddays.com/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

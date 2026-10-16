@@ -1,0 +1,51 @@
+id: "00d8ac17-c4dc-4b3e-b962-cc007240170e"
+slug: "srecon27-americas-2027"
+name: "SREcon27 Americas"
+organizer:
+  en: "USENIX"
+  pt-BR: "USENIX"
+summary:
+  en: "SREcon is the flagship Site Reliability Engineering conference organized by USENIX, with rigorous curation through a program committee (not a broad CFP with automatic acceptance). The 2027 Americas edition takes place in Seattle."
+  pt-BR: "SREcon é a conferência de referência em Site Reliability Engineering organizada pela USENIX, com curadoria rigorosa via comitê de programa (não e CFP amplo de aceitação automática). A edição Americas de 2027 acontece em Seattle."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-12"
+  end: "2027-04-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Seattle, WA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "47.61"
+  lng: "-122.33"
+  precision: "CITY"
+links:
+  website: "https://www.usenix.org/conference/srecon27americas"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-11-19"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://www.usenix.org/conference/srecon27americas/call-for-participation"
+  platform: "usenix.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

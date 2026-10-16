@@ -1,0 +1,50 @@
+id: "eb4fcbb7-e0be-48e4-969b-9092d755fedf"
+slug: "devfest-santiago-2026"
+name: "DevFest Santiago 2026"
+organizer:
+  en: "GDG Santiago de Chile"
+  pt-BR: "GDG Santiago de Chile"
+summary:
+  en: "DevFest Santiago 2026 is the flagship event of GDG Santiago de Chile (distinct from GDG Cloud Santiago), a day of talks on Google Cloud, AI and general development, at Universidad Andrés Bello. CFP open via Sessionize, closing on 03/10/2026 23:59 (UTC-3)."
+  pt-BR: "DevFest Santiago 2026 é o evento-bandeira do GDG Santiago de Chile (distinto do GDG Cloud Santiago), um dia de talks sobre Google Cloud, IA e desenvolvimento geral, na Universidad Andrés Bello. CFP aberto via Sessionize, fechando em 03/10/2026 23:59 (UTC-3)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-07"
+  end: "2026-11-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Santiago"
+  countryCode: "CL"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-33.46"
+  lng: "-70.65"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-santiago-de-chile/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-09-05"
+  closesOn: "2026-10-03"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/devfest-santiago-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:37Z"

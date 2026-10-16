@@ -1,0 +1,42 @@
+id: "e36ff658-4e29-4d68-b9c5-ce0596e572e1"
+slug: "google-cloud-summit-brasil-2027-builder-connect-dev-day-2027"
+name: "Google Cloud Summit Brasil 2027 (+ Builder Connect dev day)"
+organizer:
+  en: "Google Cloud Brasil"
+  pt-BR: "Google Cloud Brasil"
+summary:
+  en: "Google Cloud Summit Brasil is Google Cloud's main annual event in the country, in a 3-day hybrid format (technical day 'Builder Connect', main day with an executive keynote, training day). The 2026 edition took place on 09/23-25 at Transamerica Expo, with a keynote by Google Cloud's global CEO (Thomas Kurian, 2nd consecutive year) and an audience target of up to 250 thousand people (in-person + online) over 3 days; the 2027 edition does not yet have an official date (estimate: Sep/2027)."
+  pt-BR: "Google Cloud Summit Brasil é o principal evento anual do Google Cloud no país, em formato híbrido de 3 dias (dia técnico 'Builder Connect', dia principal com keynote executiva, dia de capacitação). A edição 2026 ocorreu 23-25/09 no Transamerica Expo, com keynote do CEO global do Google Cloud (Thomas Kurian, 2º ano consecutivo) e meta de audiência de até 250 mil pessoas (presencial + online) em 3 dias; a de 2027 ainda não tem data oficial (estimativa: set/2027)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-22"
+  end: "2027-09-24"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://cloud.google.com/events"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

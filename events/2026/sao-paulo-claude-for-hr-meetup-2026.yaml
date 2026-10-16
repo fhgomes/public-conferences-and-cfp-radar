@@ -1,0 +1,49 @@
+id: "0220f31e-4a1e-4b72-9e55-d9e4991ea398"
+slug: "sao-paulo-claude-for-hr-meetup-2026"
+name: "São Paulo | Claude for HR Meetup"
+organizer:
+  en: "Claude Community SP (Arlane Gonçalves)"
+  pt-BR: "Claude Community SP (Arlane Gonçalves)"
+summary:
+  pt-BR: "Meetup pequeno e gratuito da comunidade Claude/Anthropic em São Paulo, marcado para 14/10/2026 às 13h (Av. Nove de Julho 4865), com foco em uso de IA (Claude) em RH ('Claude for HR'). Faz parte de uma onda recente de eventos da comunidade Claude em SP (ex. 'Claude Code Build Day SP' em 18/09/2026, 'Claude Meetup São Paulo' liderado por João Lisboa, Claude Community Ambassador, e o '1º Claude Day' com Sauter/Anthropic em 12/09/2026)."
+dates:
+  start: "2026-10-14"
+  end: "2026-10-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://luma.com/yuoid9vr"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  closesOn: "2026-09-22"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://forms.gle/Q7Tm6h3eoD5zbFjA7"
+  platform: "forms.gle"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

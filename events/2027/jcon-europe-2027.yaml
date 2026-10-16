@@ -1,0 +1,69 @@
+id: "8c3f513d-3434-4e5e-aa19-5434e51087aa"
+slug: "jcon-europe-2027"
+name: "JCON EUROPE"
+edition: "2027"
+organizer:
+  en: "JUG Oberpfalz / JAVAPRO Magazine"
+  pt-BR: "JUG Oberpfalz / JAVAPRO Magazine"
+summary:
+  en: "JCON Europe is a traveling Java conference organized in partnership between regional JUGs and JAVAPRO magazine, with the 2027 edition scheduled for Cologne, Germany. In-person multi-day format with broad Java/JVM technical tracks."
+  pt-BR: "JCON Europe é uma conferência Java itinerante organizada em parceria entre JUGs regionais e a revista JAVAPRO, com a edição 2027 marcada para Colônia, Alemanha. Formato presencial multi-dia com trilhas técnicas amplas de Java/JVM."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-26"
+  end: "2027-04-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Colonia"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "50.93"
+  lng: "6.95"
+  precision: "CITY"
+links:
+  website: "https://2027.europe.jcon.one/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-09-08"
+  closesOn: "2026-10-23"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jcon-europe-2027"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

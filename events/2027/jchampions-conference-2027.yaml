@@ -1,0 +1,55 @@
+id: "195dbf37-ea80-40b8-bb79-5df6962aa2a1"
+slug: "jchampions-conference-2027"
+name: "jChampions Conference 2027"
+organizer:
+  en: "Java Champions (community)"
+  pt-BR: "Java Champions (comunidade)"
+summary:
+  en: "Free online conference organized by the Java Champions community, spanning multiple days (January 21, 22, 25 and 26, 2027, 7 sessions/day) and now in its 7th edition; 100% online format, with no CFP open to the public — speakers are exclusively Java Champions."
+  pt-BR: "Conferência online gratuita organizada pela comunidade de Java Champions, com múltiplos dias (21, 22, 25 e 26 de janeiro de 2027, 7 sessões/dia) e 7ª edição; formato 100% online, sem CFP aberto ao público — palestrantes são exclusivamente Java Champions."
+machineTranslated:
+  - "organizer.en"
+  - "organizer.pt-BR"
+  - "summary.en"
+dates:
+  start: "2027-01-21"
+  end: "2027-01-26"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://jchampionsconf.com/"
+topics:
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

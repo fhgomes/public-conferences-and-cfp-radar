@@ -1,0 +1,41 @@
+id: "873e539c-e58e-4094-8033-2f6b6b76e715"
+slug: "ndc-oslo-2027"
+name: "NDC Oslo 2027"
+organizer:
+  en: "NDC Conferences"
+  pt-BR: "NDC Conferences"
+summary:
+  en: "NDC Oslo is the original and flagship conference of the NDC Conferences network, founded in Norway, covering software development, architecture, security and AI. In-person, multi-day format with dozens of tracks and workshops."
+  pt-BR: "NDC Oslo é a conferência original e flagship da rede NDC Conferences, fundada na Noruega, cobrindo desenvolvimento de software, arquitetura, segurança e IA. Formato presencial de vários dias com dezenas de trilhas e workshops."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-13"
+  end: "2027-09-17"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Oslo (Spektrum)"
+  countryCode: "NO"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "59.91"
+  lng: "10.75"
+  precision: "CITY"
+links:
+  website: "https://ndcoslo.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "security"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

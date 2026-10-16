@@ -1,0 +1,49 @@
+id: "521ed6cc-34d9-447b-8494-b2c2bb2cd7f6"
+slug: "boston-code-camp-41-2026"
+name: "Boston Code Camp 41"
+organizer:
+  en: "Boston Code Camp (volunteers)"
+  pt-BR: "Boston Code Camp (volunteers)"
+summary:
+  en: "Boston Code Camp is a free one-day unconference, organized by volunteers from the Boston community since 2004 (more than 20 years of history, 41st edition in Nov/2026). Short sessions proposed by the attendees themselves, at no cost."
+  pt-BR: "Boston Code Camp é um unconference gratuito de um dia, organizado por voluntários da comunidade de Boston desde 2004 (mais de 20 anos de história, 41a edição em nov/2026). Sessões curtas propostas pelos próprios participantes, sem custo."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-21"
+  end: "2026-11-21"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Boston (Burlington), MA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "42.36"
+  lng: "-71.06"
+  precision: "CITY"
+links:
+  website: "https://www.bostoncodecamp.com/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://www.bostoncodecamp.com/CC41/Info/Present"
+  platform: "bostoncodecamp.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

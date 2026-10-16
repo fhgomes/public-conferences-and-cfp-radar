@@ -1,0 +1,42 @@
+id: "f8686db8-4082-4e23-94e8-871e83d44c2b"
+slug: "jug-saxony-day-2027"
+name: "JUG Saxony Day 2027"
+organizer:
+  en: "JUG Saxony"
+  pt-BR: "JUG Saxony"
+summary:
+  pt-BR: "JUG Saxony Day é a maior conferência de comunidade de TI da Saxonia, realizada anualmente em Radebeul (perto de Dresden). Formato presencial de um dia, com keynotes e trilhas sobre Java, cloud, arquitetura e qualidade; exige licença CC BY-NC nas apresentações."
+dates:
+  start: "2027-09-24"
+  end: "2027-09-24"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Radebeul/Dresden"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://www.jugsaxony.org/day"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "community"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://www.jugsaxony.org/day/callforpapers"
+  platform: "jugsaxony.org"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:47Z"

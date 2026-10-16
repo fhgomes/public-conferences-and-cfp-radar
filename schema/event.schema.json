@@ -1,0 +1,159 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fhgomes/public-conferences-and-cfp-radar/schema/event.schema.json",
+  "title": "Public Conferences and Call for Papers Radar - event record",
+  "description": "One tech event edition and its call for papers. CC BY 4.0, curated by Fernando Gomes. Cross-field rules that JSON Schema cannot express (end >= start, closesOn <= end, real calendar dates, ONLINE without city, personal-data patterns) are checked by scripts/validate.py.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "slug", "name", "dates", "verification", "sources"],
+  "anyOf": [
+    {"required": ["links"]},
+    {"required": ["cfp"], "properties": {"cfp": {"required": ["url"]}}}
+  ],
+  "properties": {
+    "id": {"$ref": "#/$defs/uuid", "description": "Platform id: stable forever, never reused. Key your data on it."},
+    "slug": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 200, "description": "Equals the file name; may change (see removed.yaml)."},
+    "name": {"$ref": "#/$defs/text", "maxLength": 300},
+    "edition": {"$ref": "#/$defs/text", "maxLength": 60},
+    "nameNote": {"$ref": "#/$defs/localized"},
+    "organizer": {"$ref": "#/$defs/localized"},
+    "summary": {"$ref": "#/$defs/localized"},
+    "machineTranslated": {
+      "type": "array", "minItems": 1, "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^(nameNote|organizer|summary)\\.(en|pt-BR)$"}
+    },
+    "dates": {
+      "type": "object", "additionalProperties": false, "required": ["tba"],
+      "properties": {
+        "start": {"$ref": "#/$defs/date"},
+        "end": {"$ref": "#/$defs/date"},
+        "tba": {"type": "boolean"},
+        "status": {"enum": ["CONFIRMED", "ESTIMATED", "ESTIMATED_HISTORICAL", "UNKNOWN", "RECURRING"]}
+      }
+    },
+    "location": {
+      "type": "object", "additionalProperties": false, "minProperties": 1,
+      "properties": {
+        "city": {"$ref": "#/$defs/text", "maxLength": 120},
+        "cityStatus": {"enum": ["TBA", "MULTIPLE"]},
+        "countryCode": {"type": "string", "pattern": "^[A-Z]{2}$"},
+        "region": {"enum": ["BR", "LATAM", "NA", "EU", "ONLINE", "OTHER"]},
+        "modality": {"enum": ["IN_PERSON", "ONLINE", "HYBRID"]}
+      }
+    },
+    "geo": {
+      "type": "object", "additionalProperties": false, "required": ["lat", "lng", "precision"],
+      "properties": {
+        "lat": {"$ref": "#/$defs/decimal"},
+        "lng": {"$ref": "#/$defs/decimal"},
+        "precision": {"enum": ["CITY", "VENUE"]}
+      }
+    },
+    "links": {
+      "type": "object", "additionalProperties": false, "required": ["website"],
+      "properties": {"website": {"$ref": "#/$defs/url"}}
+    },
+    "topics": {
+      "type": "array", "minItems": 1, "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 60},
+      "description": "Slugs of enums/topics.json."
+    },
+    "talkLanguages": {
+      "type": "array", "minItems": 1, "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^[a-z]{2}(-[A-Z]{2})?$"}
+    },
+    "eventType": {"enum": ["CONFERENCE", "MEETUP", "WORKSHOP", "HACKATHON", "UNCONFERENCE", "SUMMIT", "BOOTCAMP", "OTHER"]},
+    "audienceLevel": {"enum": ["BEGINNER", "INTERMEDIATE", "ADVANCED", "MIXED"]},
+    "remoteSpeaking": {
+      "type": "object", "additionalProperties": false, "required": ["value", "basis"],
+      "properties": {
+        "value": {"enum": ["YES", "NO"]},
+        "mode": {"enum": ["LIVE", "PRE_RECORDED", "EITHER"]},
+        "basis": {"enum": ["STATED", "ONLINE_EVENT"]}
+      },
+      "if": {"required": ["mode"]},
+      "then": {"properties": {"value": {"const": "YES"}}}
+    },
+    "cfp": {
+      "type": "object", "additionalProperties": false, "minProperties": 1,
+      "properties": {
+        "opensOn": {"$ref": "#/$defs/date"},
+        "opensAt": {"$ref": "#/$defs/instant"},
+        "closesOn": {"$ref": "#/$defs/date"},
+        "closesAt": {"$ref": "#/$defs/instant"},
+        "timezone": {"type": "string", "pattern": "^[A-Za-z_]+(/[A-Za-z0-9_+-]+)*$", "maxLength": 64},
+        "closeTimeKnown": {"type": "boolean"},
+        "url": {"$ref": "#/$defs/url"},
+        "platform": {"type": "string", "minLength": 1, "maxLength": 40},
+        "formats": {
+          "type": "array", "minItems": 1,
+          "items": {
+            "type": "object", "additionalProperties": false, "required": ["format"],
+            "properties": {
+              "format": {"enum": ["TALK", "KEYNOTE", "LIGHTNING", "WORKSHOP", "PANEL", "MENTORING", "PODCAST", "LIVE", "OTHER"]},
+              "durationMinutes": {"type": "integer", "minimum": 1, "maximum": 10080},
+              "maxSpeakers": {"type": "integer", "minimum": 1, "maximum": 100}
+            }
+          }
+        },
+        "firstTimeSpeakersWelcome": {"type": "boolean"},
+        "benefits": {
+          "type": "object", "additionalProperties": false, "minProperties": 1,
+          "properties": {
+            "travel": {"$ref": "#/$defs/benefit"},
+            "hotel": {"$ref": "#/$defs/benefit"},
+            "fee": {"$ref": "#/$defs/benefit"},
+            "ticket": {"$ref": "#/$defs/benefit"}
+          }
+        },
+        "verification": {"$ref": "#/$defs/verification"}
+      },
+      "dependentRequired": {"closesAt": ["closesOn"], "closeTimeKnown": ["closesOn"], "verification": ["closesOn"], "opensAt": ["opensOn"]}
+    },
+    "verification": {"$ref": "#/$defs/verification"},
+    "sources": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object", "additionalProperties": false, "required": ["code", "name", "licence", "role"],
+        "properties": {
+          "code": {"type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "maxLength": 40},
+          "name": {"$ref": "#/$defs/text", "maxLength": 120},
+          "url": {"$ref": "#/$defs/url"},
+          "licence": {"enum": ["CC0-1.0", "MIT", "CC-BY-4.0", "CC-BY-NC-4.0", "unknown", "n/a"]},
+          "role": {"enum": ["origin", "discovered_via"]}
+        }
+      }
+    },
+    "firstPublishedAt": {"$ref": "#/$defs/instant"},
+    "updatedAt": {"$ref": "#/$defs/instant", "description": "Bundles only: time of the last commit that touched the file."}
+  },
+  "$defs": {
+    "uuid": {"type": "string", "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"},
+    "text": {"type": "string", "minLength": 1, "pattern": "\\S"},
+    "localized": {
+      "type": "object", "additionalProperties": false, "minProperties": 1,
+      "properties": {
+        "en": {"$ref": "#/$defs/text", "maxLength": 4000},
+        "pt-BR": {"$ref": "#/$defs/text", "maxLength": 4000}
+      }
+    },
+    "date": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
+    "instant": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}Z$"},
+    "url": {"type": "string", "pattern": "^https?://[^\\s\"<>]+$", "maxLength": 2000},
+    "decimal": {"type": "string", "pattern": "^-?\\d{1,3}(\\.\\d{1,5})?$"},
+    "benefit": {"enum": ["YES", "PARTIAL", "NO"]},
+    "verification": {
+      "type": "object", "additionalProperties": false, "required": ["status"],
+      "properties": {
+        "status": {"enum": ["human_verified", "official_source_checked", "unverified"]},
+        "checkedAt": {"$ref": "#/$defs/instant"},
+        "by": {"enum": ["curator", "official-page-check"]}
+      },
+      "allOf": [
+        {"if": {"properties": {"status": {"const": "unverified"}}}, "then": {"not": {"anyOf": [{"required": ["checkedAt"]}, {"required": ["by"]}]}}},
+        {"if": {"properties": {"status": {"const": "human_verified"}}, "required": ["by"]}, "then": {"properties": {"by": {"const": "curator"}}}},
+        {"if": {"properties": {"status": {"const": "official_source_checked"}}, "required": ["by"]}, "then": {"properties": {"by": {"const": "official-page-check"}}}}
+      ]
+    }
+  }
+}

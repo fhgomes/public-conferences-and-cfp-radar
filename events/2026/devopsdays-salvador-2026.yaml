@@ -1,0 +1,57 @@
+id: "19f79050-0a7c-4e9d-8d03-a9c8bb7c700f"
+slug: "devopsdays-salvador-2026"
+name: "DevOpsDays Salvador 2026"
+organizer:
+  en: "Comunidade devopsdays Salvador"
+  pt-BR: "Comunidade devopsdays Salvador"
+summary:
+  en: "DevOpsDays Salvador is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation, listed on the official devopsdays.org homepage for 05/12/2026. 1-day format: short talks + open space. CFP not found in the research."
+  pt-BR: "DevOpsDays Salvador é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação, listado na home oficial do devopsdays.org para 05/12/2026. Formato de 1 dia: palestras curtas + open space. CFP não localizado na pesquisa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-12-05"
+  end: "2026-12-05"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Salvador"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.98"
+  lng: "-38.49"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-salvador"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-04-04"
+  closesOn: "2026-09-17"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://talks.devopsdays.org/devopsdays-salvador-2026/cfp"
+  platform: "talks.devopsdays.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

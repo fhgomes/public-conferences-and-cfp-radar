@@ -1,0 +1,61 @@
+id: "7250bcda-3ec3-4b82-b90a-d52a70d91576"
+slug: "wearedevelopers-world-congress-2027"
+name: "WeAreDevelopers World Congress 2027"
+organizer:
+  en: "WeAreDevelopers"
+  pt-BR: "WeAreDevelopers"
+summary:
+  en: "WeAreDevelopers World Congress is one of the largest developer conferences in Europe, held in Berlim. In-person format over 3 days, multiple generalist tracks and keynotes for large audiences."
+  pt-BR: "WeAreDevelopers World Congress é uma das maiores conferências de desenvolvedores da Europa, realizada em Berlim. Formato presencial de 3 dias, múltiplas trilhas generalistas e keynotes de grande público."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-14"
+  end: "2027-07-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Berlim"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.52"
+  lng: "13.41"
+  precision: "CITY"
+links:
+  website: "https://www.wearedevelopers.com/world-congress"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-01-16"
+  timezone: "Europe/Berlin"
+  closeTimeKnown: false
+  url: "https://www.wearedevelopers.com/world-congress/call-for-speakers"
+  platform: "wearedevelopers.com"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "dev-events"
+    name: "dev.events"
+    url: "https://dev.events"
+    licence: "unknown"
+    role: "discovered_via"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

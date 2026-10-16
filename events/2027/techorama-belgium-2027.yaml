@@ -1,0 +1,40 @@
+id: "06ef11fc-5b70-4c4b-ad8a-255132043ceb"
+slug: "techorama-belgium-2027"
+name: "Techorama Belgium 2027"
+organizer:
+  en: "Techorama"
+  pt-BR: "Techorama"
+summary:
+  en: "Techorama is a general-purpose technology conference with a strong Microsoft/.NET focus, held in Belgium (Antuérpia). In-person, 3-day format, with architecture, AI and cloud tracks."
+  pt-BR: "Techorama é uma conferência de tecnologia generalista com forte viés Microsoft/.NET, realizada na Bélgica (Antuérpia). Formato presencial de 3 dias, trilhas de arquitetura, IA e cloud."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-10"
+  end: "2027-05-12"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Antuérpia (Kinepolis)"
+  countryCode: "BE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.22"
+  lng: "4.4"
+  precision: "CITY"
+links:
+  website: "https://techorama.be/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

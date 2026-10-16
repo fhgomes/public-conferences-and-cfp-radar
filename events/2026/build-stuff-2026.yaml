@@ -1,0 +1,49 @@
+id: "b11ad131-5ed2-48bb-9a3a-3e1a9e32811d"
+slug: "build-stuff-2026"
+name: "Build Stuff 2026"
+organizer:
+  en: "Build Stuff"
+  pt-BR: "Build Stuff"
+summary:
+  en: "Build Stuff is a hybrid software conference in Vilnius, Lithuania, with over a decade of history, covering AI, architecture and general development, with a strong tradition of heavyweight keynotes (2026: Venkat Subramaniam, theme 'The Age of Agency')."
+  pt-BR: "Build Stuff é uma conferência hibrida de software em Vilnius, Lituania, com mais de uma década de história, cobrindo IA, arquitetura e desenvolvimento geral com forte tradição de keynotes de peso (2026: Venkat Subramaniam, tema 'The Age of Agency')."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-12-02"
+  end: "2026-12-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Vilnius"
+  countryCode: "LT"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "54.69"
+  lng: "25.28"
+  precision: "CITY"
+links:
+  website: "https://www.buildstuff.events/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-04-26"
+  closesOn: "2026-07-19"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/build-stuff-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

@@ -1,0 +1,62 @@
+id: "11ad4212-5a4e-44f3-90b1-34aef73be003"
+slug: "j-on-the-beach-2026"
+name: "J On The Beach 2026"
+organizer:
+  en: "YeyYey Events"
+  pt-BR: "YeyYey Events"
+summary:
+  en: "J On The Beach is a hybrid conference in Torremolinos (Malaga), co-located with Lambda World and Wey Wey Web, focused on data, distributed systems and JVM/functional languages -- more niche than a general Java conference."
+  pt-BR: "J On The Beach é uma conferência hibrida em Torremolinos (Malaga), co-localizada com Lambda World e Wey Wey Web, com foco em dados, sistemas distribuidos e linguagens JVM/funcionais -- mais nichada que uma conferência Java generalista."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-29"
+  end: "2026-10-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Torremolinos (Málaga)"
+  countryCode: "ES"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "36.62"
+  lng: "-4.5"
+  precision: "CITY"
+links:
+  website: "https://www.jonthebeach.com/"
+topics:
+  - "ai-ml"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-03-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

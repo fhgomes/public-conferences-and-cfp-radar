@@ -1,0 +1,41 @@
+id: "99a72d2b-0b48-4341-a003-892a0a8cb9f0"
+slug: "google-cloud-next-2027"
+name: "Google Cloud Next 2027"
+organizer:
+  en: "Google Cloud"
+  pt-BR: "Google Cloud"
+summary:
+  en: "Google Cloud Next is Google Cloud's global annual event, held in Las Vegas, covering AI, cloud infrastructure and Google enterprise products. A large hybrid format with hundreds of sessions, mostly controlled by Google and partners."
+  pt-BR: "Google Cloud Next é o evento anual global do Google Cloud, realizado em Las Vegas, cobrindo IA, infraestrutura cloud e produtos corporativos Google. Formato híbrido de grande porte com centenas de sessões, majoritariamente controlado por Google e parceiros."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-13"
+  end: "2027-04-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Las Vegas, NV"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "36.17"
+  lng: "-115.14"
+  precision: "CITY"
+links:
+  website: "https://www.googlecloudevents.com/next-vegas"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

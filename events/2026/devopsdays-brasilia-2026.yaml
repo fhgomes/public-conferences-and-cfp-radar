@@ -1,0 +1,58 @@
+id: "98ed6ac2-6db3-4ecd-bd3e-53447cfcf65c"
+slug: "devopsdays-brasilia-2026"
+name: "DevOpsDays Brasília 2026"
+organizer:
+  en: "devopsdays Brasília Community"
+  pt-BR: "Comunidade devopsdays Brasília"
+summary:
+  en: "DevOpsDays Brasília is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation, in its 5th edition in 2026, supported by Fenix Eventos. 1-day format: short talks + open space. CFP open via cfp.ninja (the page did not load the static content during the search, so it was not possible to confirm the deadline directly), with no published deadline."
+  pt-BR: "DevOpsDays Brasília é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação, em sua 5ª edição em 2026, com apoio da Fenix Eventos. Formato de 1 dia: palestras curtas + open space. CFP aberto via cfp.ninja (a página não carregou o conteúdo estático na pesquisa, então não foi possível confirmar o deadline diretamente), sem prazo publicado."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-11-14"
+  end: "2026-11-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Brasília"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-15.78"
+  lng: "-47.93"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-brasilia"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-08-28"
+  closesOn: "2026-09-17"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/devops-days-braslia-2026"
+  platform: "cfp.ninja"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

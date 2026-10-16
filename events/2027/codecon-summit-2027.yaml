@@ -1,0 +1,38 @@
+id: "ac0ba2ef-3620-41db-8a7b-c2cd05ab433f"
+slug: "codecon-summit-2027"
+name: "Codecon Summit"
+edition: "2027"
+organizer:
+  en: "Codecon"
+  pt-BR: "Codecon"
+summary:
+  en: "Codecon Summit is Codecon's flagship festival, born in 2016 as SC Dev Summit and today one of the largest tech events in Brazil, multi-track (career, architecture, AI, front-end); the 2025 edition brought together 1,770 registrants from 23 of the 27 Brazilian states."
+  pt-BR: "Codecon Summit é o festival-flagship da Codecon, nascido em 2016 como SC Dev Summit e hoje um dos maiores eventos de tecnologia do Brasil, multi-trilha (carreira, arquitetura, IA, front-end); a edição de 2025 reuniu 1.770 inscritos de 23 dos 27 estados brasileiros."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-23"
+  end: "2027-07-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Pinhais/PR"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+links:
+  website: "https://codecon.dev/summit"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "career"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

@@ -1,0 +1,49 @@
+id: "a3ca4ab7-1b21-4e3f-a982-eb2c7ea8eb33"
+slug: "garden-state-java-user-group-gsjug-2026"
+name: "Garden State Java User Group (GSJUG)"
+organizer:
+  en: "GSJUG (Mike Redlich)"
+  pt-BR: "GSJUG (Mike Redlich)"
+summary:
+  en: "GSJUG (Garden State Java User Group) is an active monthly JUG in Madison, NJ, led by Mike Redlich (also a Java editor at InfoQ) -- which makes it a relevant bridge to the InfoQ/QCon circuit. Confirmed 2026 schedule includes speakers such as Nitin Avula, Bazlur Rahman and Simon Maple."
+  pt-BR: "GSJUG (Garden State Java User Group) é um JUG mensal ativo em Madison, NJ, liderado por Mike Redlich (também editor de Java na InfoQ) -- o que faz dele uma ponte relevante para o circuito InfoQ/QCon. Agenda 2026 confirmada inclui palestrantes como Nitin Avula, Bazlur Rahman e Simon Maple."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-20"
+  end: "2026-10-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Madison, NJ"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "40.76"
+  lng: "-74.42"
+  precision: "CITY"
+links:
+  website: "https://gsjug.org/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://gsjug.org/meetings/"
+  platform: "gsjug.org"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:45Z"

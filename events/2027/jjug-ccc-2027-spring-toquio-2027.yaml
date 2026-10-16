@@ -1,0 +1,48 @@
+id: "730d09fe-2f6f-4a2b-953f-b1039404f3e7"
+slug: "jjug-ccc-2027-spring-toquio-2027"
+name: "JJUG CCC 2027 Spring (Tóquio)"
+organizer:
+  en: "Japan Java User Group (JJUG)"
+  pt-BR: "Japan Java User Group (JJUG)"
+summary:
+  en: "Spring edition of the same event (JJUG CCC), with the same format and size as the Fall edition; it takes place twice a year (~May/June and November), with the CFP on Sessionize a few months earlier."
+  pt-BR: "Edição de primavera do mesmo evento (JJUG CCC), com o mesmo formato e porte da edição Fall; ocorre duas vezes ao ano (~maio/junho e novembro), CFP no Sessionize alguns meses antes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-29"
+  end: "2027-05-29"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Tokyo"
+  countryCode: "JP"
+  region: "OTHER"
+  modality: "IN_PERSON"
+geo:
+  lat: "35.69"
+  lng: "139.69"
+  precision: "CITY"
+links:
+  website: "https://jjug.doorkeeper.jp/"
+topics:
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-20"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

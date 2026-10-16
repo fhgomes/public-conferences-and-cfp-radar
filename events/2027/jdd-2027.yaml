@@ -1,0 +1,41 @@
+id: "22c62a9f-64ed-49eb-a832-a7a86b694a97"
+slug: "jdd-2027"
+name: "JDD 2027"
+organizer:
+  en: "PROIDEA"
+  pt-BR: "PROIDEA"
+summary:
+  en: "Same JDD conference (PROIDEA, Cracóvia); the 2027 edition falls outside the panel's window of interest, but the CFP (~Jun/2027) falls within it."
+  pt-BR: "Mesma conferência JDD (PROIDEA, Cracóvia); edição 2027 fica fora da janela de interesse do painel, mas o CFP (~jun/2027) cai dentro dela."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-19"
+  end: "2027-10-20"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cracóvia"
+  countryCode: "PL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "50.06"
+  lng: "19.94"
+  precision: "CITY"
+links:
+  website: "https://jdd.org.pl/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

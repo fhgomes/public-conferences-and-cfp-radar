@@ -1,0 +1,63 @@
+id: "f725b136-f5f9-4a3e-991a-d5392bbfd51f"
+slug: "devoxx-morocco-2026-13-ed-2026"
+name: "Devoxx Morocco 2026 (13ª ed.)"
+organizer:
+  en: "Devoxx Morocco (Badr El Houari)"
+  pt-BR: "Devoxx Morocco (Badr El Houari)"
+summary:
+  en: "Devoxx Morocco 2026 is the 13th edition of the Java conference in Casablanca, at the DoubleTree Hilton, with more than 150 sessions in English and French."
+  pt-BR: "Devoxx Morocco 2026 é a 13a edição da conferência Java em Casablanca, no DoubleTree Hilton, com mais de 150 sessões em inglês e francês."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-04"
+  end: "2026-11-05"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Casablanca"
+  countryCode: "MA"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.59"
+  lng: "-7.61"
+  precision: "CITY"
+links:
+  website: "https://devoxx.ma/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+  - "fr"
+cfp:
+  closesOn: "2026-07-05"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://dvma26.cfp.dev"
+  platform: "cfp.dev"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

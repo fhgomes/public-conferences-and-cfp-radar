@@ -1,0 +1,57 @@
+id: "ca9d54c8-f2da-4e02-bbfa-bca896d90ec0"
+slug: "javaland-2027"
+name: "JavaLand"
+edition: "2027"
+organizer:
+  en: "DOAG / iJUG / Heise"
+  pt-BR: "DOAG / iJUG / Heise"
+summary:
+  en: "JavaLand is one of the largest Java conferences in Germany, organized by DOAG/iJUG/Heise inside the Europa-Park theme park (Rust) -- an unusual format that mixes a technical conference with an amusement park. Confirmed for March 2 to 4, 2027."
+  pt-BR: "JavaLand é uma das maiores conferências Java da Alemanha, organizada por DOAG/iJUG/Heise dentro do parque temático Europa-Park (Rust) -- formato inusitado que mistura conferência técnica com parque de diversões. Confirmado para 2 a 4 de março de 2027."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-02"
+  end: "2027-03-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Europa-Park, Rust"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://www.javaland.eu/en/"
+topics:
+  - "ai-ml"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "de"
+  - "en"
+cfp:
+  closesOn: "2026-09-14"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://www.javaland.eu/en/speaking/"
+  platform: "javaland.eu"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:42Z"

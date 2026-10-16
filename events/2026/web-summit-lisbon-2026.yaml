@@ -1,0 +1,48 @@
+id: "54508140-52b1-47d7-957e-80a23feb8bed"
+slug: "web-summit-lisbon-2026"
+name: "Web Summit Lisbon 2026"
+organizer:
+  en: "Web Summit"
+  pt-BR: "Web Summit"
+summary:
+  en: "Web Summit is one of the largest technology and startup conferences in the world, held in Lisboa. In-person 4-day format, mostly business/startups/media, with hundreds of guest speakers."
+  pt-BR: "Web Summit é uma das maiores conferências de tecnologia e startups do mundo, realizada em Lisboa. Formato presencial de 4 dias, majoritariamente negócios/startups/mídia, com centenas de palestrantes convidados."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-09"
+  end: "2026-11-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Lisboa"
+  countryCode: "PT"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "38.73"
+  lng: "-9.15"
+  precision: "CITY"
+links:
+  website: "https://websummit.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://websummit.com/speaker-application/"
+  platform: "websummit.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

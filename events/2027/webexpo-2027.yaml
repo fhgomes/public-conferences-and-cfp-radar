@@ -1,0 +1,60 @@
+id: "294c9ca7-638f-44d6-a54d-63600a877aad"
+slug: "webexpo-2027"
+name: "WebExpo 2027"
+organizer:
+  en: "WebExpo"
+  pt-BR: "WebExpo"
+summary:
+  en: "WebExpo is a web technology, UX and digital business conference held in Praga since 2008 (almost 20 years of history). In-person, multi-day format, with around 70 talks and workshops."
+  pt-BR: "WebExpo é uma conferência de tecnologia web, UX e negócios digitais realizada em Praga desde 2008 (quase 20 anos de histórico). Formato presencial de vários dias, com cerca de 70 talks e workshops."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-26"
+  end: "2027-05-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Praga"
+  countryCode: "CZ"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "50.09"
+  lng: "14.42"
+  precision: "CITY"
+links:
+  website: "https://webexpo.net"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-10-23"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://webexpo.net/call-for-papers/"
+  platform: "webexpo.net"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "cfp-watch"
+    name: "cfp.watch"
+    url: "https://cfp.watch"
+    licence: "unknown"
+    role: "discovered_via"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

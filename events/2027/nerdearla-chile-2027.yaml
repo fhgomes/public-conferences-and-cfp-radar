@@ -1,0 +1,52 @@
+id: "c34525f5-5c12-4014-a8e7-827872c51cc7"
+slug: "nerdearla-chile-2027"
+name: "Nerdearla Chile 2027"
+organizer:
+  en: "Sysarmy / Nerdearla"
+  pt-BR: "Sysarmy / Nerdearla"
+summary:
+  en: "Chilean edition of Nerdear.la (Sysarmy), held at Centro Gabriela Mistral (GAM) in Santiago since 2023, in the same free hybrid format with recorded/streamed talks and live workshops, with no travel budget for speakers."
+  pt-BR: "Edição chilena do Nerdear.la (Sysarmy), realizada no Centro Gabriela Mistral (GAM) em Santiago desde 2023, no mesmo formato híbrido gratuito com talks gravadas/streaming e workshops ao vivo, sem verba de viagem para palestrantes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-14"
+  end: "2027-04-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Santiago"
+  countryCode: "CL"
+  region: "LATAM"
+  modality: "HYBRID"
+geo:
+  lat: "-33.46"
+  lng: "-70.65"
+  precision: "CITY"
+links:
+  website: "https://nerdearla.com/en/chile/"
+topics:
+  - "ai-ml"
+  - "career"
+  - "cloud"
+  - "devops"
+  - "security"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-11-11"
+  timezone: "America/Sao_Paulo"
+  url: "https://nerdearla.com/en/cfp/"
+  platform: "nerdearla.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

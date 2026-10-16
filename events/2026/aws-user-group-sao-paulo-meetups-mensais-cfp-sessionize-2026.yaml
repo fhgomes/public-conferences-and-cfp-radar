@@ -1,0 +1,54 @@
+id: "4f896250-bc21-4728-84f1-b3e096c17613"
+slug: "aws-user-group-sao-paulo-meetups-mensais-cfp-sessionize-2026"
+name: "AWS User Group São Paulo — meetups mensais (CFP Sessionize)"
+organizer:
+  en: "AWS User Group São Paulo"
+  pt-BR: "AWS User Group São Paulo"
+summary:
+  en: "Monthly meetups of the AWS User Group São Paulo, a recurring meetup format with a CFP via Sessionize (short talks + networking)."
+  pt-BR: "Encontros mensais do AWS User Group São Paulo, formato de meetup recorrente com CFP via Sessionize (palestras curtas + networking)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-08"
+  end: "2026-12-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/awsusergroupsp/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2025-05-01"
+  closesOn: "2026-12-12"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/meetups-aws-user-group-sao-paulo/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

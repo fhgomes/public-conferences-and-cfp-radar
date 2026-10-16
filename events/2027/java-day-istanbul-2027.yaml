@@ -1,0 +1,51 @@
+id: "d62acb08-722f-44a5-8d3a-3c513847cecd"
+slug: "java-day-istanbul-2027"
+name: "Java Day Istanbul 2027"
+organizer:
+  en: "Istanbul JUG / Java Day Istanbul"
+  pt-BR: "Istanbul JUG / Java Day Istanbul"
+summary:
+  en: "Java Day Istanbul is the annual conference of the Istanbul JUG, with a one-day program of tracks on AI, architecture, cloud and Java, held in Maltepe."
+  pt-BR: "Java Day Istanbul é a conferência anual do Istanbul JUG, com um dia de trilhas em IA, arquitetura, cloud e Java, realizada em Maltepe."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-17"
+  end: "2027-04-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Istambul (Maltepe)"
+  countryCode: "TR"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.01"
+  lng: "28.95"
+  precision: "CITY"
+links:
+  website: "https://javaday.istanbul"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-10-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://javaday.istanbul"
+  platform: "javaday.istanbul"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

@@ -1,0 +1,39 @@
+id: "d9785752-6e79-40fb-8e51-1fe31300e14c"
+slug: "cafe-em-codigo-tech-summit-gratuito-fiap-paulista-2026"
+name: "Café em Código — Tech Summit (gratuito, FIAP Paulista)"
+organizer:
+  en: "Comunidade Café em Código / Canal .NET / .NET São Paulo"
+  pt-BR: "Comunidade Café em Código / Canal .NET / .NET São Paulo"
+summary:
+  pt-BR: "Café em Código — Tech Summit é um evento gratuito e presencial organizado pela comunidade Café em Código em parceria com o Canal .NET/.NET São Paulo, na FIAP Paulista. A edição registrada mais recente (04/08/2026) teve o tema 'IA, Agents, MCP Servers, DevOps, Automação', das 18h30 às 21h30. A cadência mensal mencionada em outras fontes NÃO foi confirmada — o Sympla mostra edições avulsas, não uma série regular comprovada."
+dates:
+  start: "2026-10-03"
+  end: "2026-10-03"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://recrutatech.com.br/ingresso/tech-summit-outubro-sp"
+topics:
+  - "ai-ml"
+  - "career"
+  - "community"
+  - "devops"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

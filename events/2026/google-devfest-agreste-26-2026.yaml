@@ -1,0 +1,49 @@
+id: "af4e9fe0-c444-43c5-851c-b50277cdbb34"
+slug: "google-devfest-agreste-26-2026"
+name: "Google DevFest Agreste'26"
+organizer:
+  en: "GDG Agreste"
+  pt-BR: "GDG Agreste"
+summary:
+  en: "DevFest of a smaller, newer GDG chapter in the Agreste region (Arapiraca, AL); same format as DevFest, but in a city in the Brazilian Northeast interior."
+  pt-BR: "DevFest de um capítulo GDG menor e mais novo, na região do Agreste (Arapiraca, AL); mesmo formato do DevFest, mas em cidade do interior nordestino."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-12-11"
+  end: "2026-12-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Arapiraca"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-9.75"
+  lng: "-36.66"
+  precision: "CITY"
+links:
+  website: "https://callforpaper.org/cfp/call-for-papers-devfest-agreste26-2026"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://callforpaper.org/cfp/call-for-papers-devfest-agreste26-2026"
+  platform: "callforpaper.org"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

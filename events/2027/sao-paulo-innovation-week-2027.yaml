@@ -1,0 +1,38 @@
+id: "6bd58598-1dd3-41c8-b5bc-fb2e966f7062"
+slug: "sao-paulo-innovation-week-2027"
+name: "Sao Paulo Innovation Week"
+edition: "2027"
+organizer:
+  en: "SPIW (Erick Bretas / same organization as Rio Innovation Week)"
+  pt-BR: "SPIW (Erick Bretas / mesma org da Rio Innovation Week)"
+summary:
+  en: "São Paulo Innovation Week is an innovation festival created by the same organizing group as Rio Innovation Week (Erick Bretas/SPIW), with its 1st edition on 13-15/05/2026 at Arena Pacaembu (Mercado Livre) + FAAP: ~30 thousand visitors/day, 1,500+ speakers, 15 content tracks (including the financial market), plus free extended programming at CEUs in the outskirts of São Paulo."
+  pt-BR: "São Paulo Innovation Week é um festival de inovação criado pelo mesmo grupo organizador da Rio Innovation Week (Erick Bretas/SPIW), com 1ª edição em 13-15/05/2026 na Arena Pacaembu (Mercado Livre) + FAAP: ~30 mil visitantes/dia, 1.500+ palestrantes, 15 trilhas de conteúdo (incluindo mercado financeiro), além de programação estendida gratuita em CEUs da periferia paulistana."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-05-04"
+  end: "2027-05-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Arena Pacaembu + FAAP, Sao Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+links:
+  website: "https://saopauloinnovationweek.com.br/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

@@ -1,0 +1,55 @@
+id: "183a5346-eaae-49b0-992a-f54c40dbeb04"
+slug: "ai-engineer-world-s-fair-2026"
+name: "AI Engineer World's Fair"
+edition: "2026"
+summary:
+  en: "AI Engineer World's Fair is the world's largest technical conference on applied AI (production engineering with LLMs), created in 2023 by Shawn 'swyx' Wang (Latent Space) and Ben Dunphy. It started as the AI Engineer Summit (2023) and grew to 3,000+ attendees in 2024 and 6,000+ in 2026, in São Francisco (Moscone West), with dozens of tracks (RAG, agents, evaluation, reliability)."
+  pt-BR: "AI Engineer World's Fair é a maior conferência técnica de IA aplicada (engenharia de produção com LLMs) do mundo, criada em 2023 por Shawn 'swyx' Wang (Latent Space) e Ben Dunphy. Nasceu como AI Engineer Summit (2023) e cresceu para 3.000+ participantes em 2024 e 6.000+ em 2026, em São Francisco (Moscone West), com dezenas de trilhas (RAG, agentes, avaliação, confiabilidade)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-06-29"
+  end: "2026-07-02"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "San Francisco, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.77"
+  lng: "-122.42"
+  precision: "CITY"
+links:
+  website: "https://ai.engineer/wf"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-05-01"
+  closesOn: "2026-05-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/aiewf2026/"
+  platform: "Sessionize"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T13:15:03Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-15T13:15:03Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:30Z"

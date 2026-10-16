@@ -1,0 +1,40 @@
+id: "c82bf7c5-8612-4a01-bc7c-18bf289073bf"
+slug: "devfest-medellin-2026"
+name: "DevFest Medellín 2026"
+organizer:
+  en: "GDG Medellín"
+  pt-BR: "GDG Medellín"
+summary:
+  en: "DevFest Medellín 2026 is GDG Medellín's flagship event, a day of talks on Google Cloud, AI and general development. It takes place on the same day as DevFest Santiago; the city also has the sister event Data Match (data/AI) in November."
+  pt-BR: "DevFest Medellín 2026 é o evento-bandeira do GDG Medellín, um dia de talks sobre Google Cloud, IA e desenvolvimento geral. Ocorre no mesmo dia do DevFest Santiago; a cidade também tem o evento irmão Data Match (dados/IA) em novembro."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-07"
+  end: "2026-11-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Medellín"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "6.25"
+  lng: "-75.57"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-medellin/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:37Z"

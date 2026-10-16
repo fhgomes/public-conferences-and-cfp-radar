@@ -1,0 +1,38 @@
+id: "9365c524-4cca-4ca8-9441-d30da0bfb17f"
+slug: "febraban-tech-2027"
+name: "Febraban Tech 2027"
+organizer:
+  en: "FEBRABAN"
+  pt-BR: "FEBRABAN"
+summary:
+  pt-BR: "Segue a mesma FEBRABAN Tech de 2026: maior evento de tecnologia financeira da América Latina, organizado pela FEBRABAN, agora no Distrito Anhembi. A edição 2026 (24-26/08) bateu recorde com 70 mil visitas; a de 2027 ainda não tem data oficial anunciada — estimamos agosto/2027 por analogia ao padrão recente."
+dates:
+  start: "2027-08-24"
+  end: "2027-08-26"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://febrabantech.com/"
+topics:
+  - "ai-ml"
+  - "security"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:39Z"

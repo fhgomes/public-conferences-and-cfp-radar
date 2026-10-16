@@ -1,0 +1,47 @@
+id: "13748dd4-6791-4676-863e-af7a67cca460"
+slug: "tdc-experience-rio-2027-rio-innovation-week-2027"
+name: "TDC Experience Rio 2027 (Rio Innovation Week)"
+organizer:
+  en: "Globalcode / TDC + Rio Innovation Week"
+  pt-BR: "Globalcode / TDC + Rio Innovation Week"
+summary:
+  en: "TDC Experience is the leaner format (one day, fewer tracks) of TDC (The Developers Conference, by iMasters, since 2004); the Rio edition runs within Rio Innovation Week."
+  pt-BR: "TDC Experience é o formato mais enxuto (um dia, menos trilhas) do TDC (The Developers Conference, da iMasters, desde 2004); a edição do Rio roda dentro da Rio Innovation Week."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-24"
+  end: "2027-08-27"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Rio de Janeiro"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.91"
+  lng: "-43.18"
+  precision: "CITY"
+links:
+  website: "https://thedevconf.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-05-11"
+  timezone: "America/Sao_Paulo"
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:55Z"

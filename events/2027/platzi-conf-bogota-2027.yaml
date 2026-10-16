@@ -1,0 +1,37 @@
+id: "94520921-848f-472c-b34f-329e5cd8ae81"
+slug: "platzi-conf-bogota-2027"
+name: "Platzi Conf Bogotá 2027"
+organizer:
+  en: "Platzi"
+  pt-BR: "Platzi"
+summary:
+  pt-BR: "Platzi Conf é o evento anual da Platzi (maior plataforma de educação tech online da América Latina), reunindo milhares de pessoas presencialmente e dezenas de milhares online em torno de tecnologia, IA e empreendedorismo. A edição de 2026 em Bogotá reuniu ~10.000 presenciais e 60.000+ online; a de 2027 é a próxima edição confirmada pela própria Platzi."
+dates:
+  start: "2027-08-28"
+  end: "2027-08-28"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Bogotá"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "HYBRID"
+geo:
+  lat: "4.61"
+  lng: "-74.08"
+  precision: "CITY"
+links:
+  website: "https://platzi.com/conf/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:52Z"

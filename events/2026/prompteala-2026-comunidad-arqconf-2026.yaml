@@ -1,0 +1,40 @@
+id: "d8cb4627-c214-4f24-b08d-f92fc479d5c4"
+slug: "prompteala-2026-comunidad-arqconf-2026"
+name: "PROMPTEALA 2026 (Comunidad ArqConf)"
+organizer:
+  en: "Comunidad ArqConf"
+  pt-BR: "Comunidad ArqConf"
+summary:
+  en: "PROMPTEALA is the 2nd edition of a free one-day event on applied generative AI, organized by Comunidade ArqConf (the largest software architecture community in Latin America, active since 2014, ~50 events and 5,000+ members) at the Banco Galícia auditorium in Buenos Aires. Declared focus on 'real' adoption of generative AI in organizations -- concrete cases, no hype."
+  pt-BR: "PROMPTEALA é a 2a edição de um evento gratuito de um dia sobre IA generativa aplicada, organizado pela Comunidade ArqConf (maior comunidade de arquitetura de software da América Latina, ativa desde 2014, ~50 eventos e 5.000+ membros) no auditório do Banco Galícia em Buenos Aires. Foco declarado em adoção 'real' de IA generativa nas organizações -- casos concretos, sem hype."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2026-10-01"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Buenos Aires"
+  countryCode: "AR"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-34.61"
+  lng: "-58.38"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/es-es/comunidadarqconf/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

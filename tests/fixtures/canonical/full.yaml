@@ -1,0 +1,66 @@
+id: "0b6f3a52-2c1e-4c55-9d1f-3f1a8f0e9a10"
+slug: "devnexus-2027"
+name: "Devnexus 2027"
+edition: "2027"
+organizer:
+  en: "Atlanta Java Users Group"
+summary:
+  en: "Java conference in Atlanta — two days.\tTabbed \\ backslash."
+  pt-BR: "Conferência \"Java\" em Atlanta.\nDois dias."
+machineTranslated:
+  - "summary.pt-BR"
+dates:
+  start: "2027-02-18"
+  end: "2027-02-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Atlanta"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+links:
+  website: "https://devnexus.com/"
+topics:
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+eventType: "CONFERENCE"
+remoteSpeaking:
+  value: "NO"
+  basis: "STATED"
+cfp:
+  opensOn: "2026-09-01"
+  closesOn: "2026-11-01"
+  closesAt: "2026-11-02T04:59:00Z"
+  timezone: "America/New_York"
+  closeTimeKnown: true
+  url: "https://sessionize.com/devnexus-2027/"
+  platform: "SESSIONIZE"
+  formats:
+    - format: "TALK"
+      durationMinutes: 50
+    - format: "WORKSHOP"
+      durationMinutes: 120
+      maxSpeakers: 2
+  benefits:
+    travel: "PARTIAL"
+    ticket: "YES"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-12T06:10:00Z"
+    by: "official-page-check"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "cfp-radar"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-11T12:00:00Z"

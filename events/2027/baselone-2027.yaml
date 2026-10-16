@@ -1,0 +1,42 @@
+id: "25c70304-5e25-4829-8978-0406455a4c96"
+slug: "baselone-2027"
+name: "BaselOne"
+edition: "2027"
+organizer:
+  en: "BaselOne"
+  pt-BR: "BaselOne"
+summary:
+  en: "BaselOne is the community software development conference of the Basileia region, run by a non-profit association (Erni Schweiz, Karakun, Kanton Basel-Stadt, Helvetia Baloise) founded in 2017. Multi-topic (not Java-specific), with a workshop day separate from the talks day."
+  pt-BR: "BaselOne é a conferência comunitária de desenvolvimento de software da região de Basileia, mantida por uma associação sem fins lucrativos (Erni Schweiz, Karakun, Kanton Basel-Stadt, Helvetia Baloise) fundada em 2017. Multi-tema (não é Java-específica), com dia de workshops separado do dia de palestras."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-01"
+  end: "2027-10-14"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Basileia"
+  countryCode: "CH"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "47.56"
+  lng: "7.57"
+  precision: "CITY"
+links:
+  website: "https://baselone.org/"
+topics:
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

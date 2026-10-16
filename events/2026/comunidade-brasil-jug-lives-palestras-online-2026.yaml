@@ -1,0 +1,38 @@
+id: "986ed53e-8235-4270-b53b-c8b080e9ad78"
+slug: "comunidade-brasil-jug-lives-palestras-online-2026"
+name: "Comunidade Brasil JUG (lives/palestras online)"
+organizer:
+  en: "Brasil JUG"
+  pt-BR: "Brasil JUG"
+summary:
+  en: "'Brasil JUG' community with Java lives and talks streamed online, with an active presence on LinkedIn; it is not the same organization as SouJava, the historic and best-known JUG in Brazil."
+  pt-BR: "Comunidade 'Brasil JUG' com lives e palestras sobre Java veiculadas online, com presença ativa no LinkedIn; não é a mesma organização que a SouJava, o JUG histórico e mais conhecido do Brasil."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "BR"
+  modality: "ONLINE"
+links:
+  website: "https://www.linkedin.com/company/comunidade-brasil-jug-devs-java"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

@@ -1,0 +1,46 @@
+id: "697135d5-e74e-4569-9629-a648d433db90"
+slug: "philly-jug-philadelphia-area-java-users-group-2026"
+name: "Philly JUG (Philadelphia Area Java Users' Group)"
+organizer:
+  en: "PhillyJUG (Greg Taylor, JugMaster)"
+  pt-BR: "PhillyJUG (Greg Taylor, JugMaster)"
+summary:
+  pt-BR: "PhillyJUG (Philadelphia Area Java Users' Group) é um JUG ativo com ~3.273 membros no Meetup, liderado pelo JugMaster Greg Taylor, com encontro confirmado para dez/2026."
+dates:
+  start: "2026-12-17"
+  end: "2026-12-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Radnor (Philadelphia), PA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.05"
+  lng: "-75.36"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/phillyjug/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://phillyjug.github.io/about/index.html"
+  platform: "phillyjug.github.io"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:47Z"

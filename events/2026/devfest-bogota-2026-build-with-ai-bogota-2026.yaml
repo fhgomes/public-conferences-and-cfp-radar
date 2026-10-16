@@ -1,0 +1,50 @@
+id: "3a0c7c60-1452-4578-8c65-1f72cfac64a7"
+slug: "devfest-bogota-2026-build-with-ai-bogota-2026"
+name: "DevFest Bogotá 2026 (Build with AI Bogotá)"
+organizer:
+  en: "GDG Bogotá"
+  pt-BR: "GDG Bogotá"
+summary:
+  en: "DevFest Bogotá 2026 (also promoted as 'Build with AI Bogotá') is GDG Bogotá's flagship event, a day of talks on Google Cloud, generative AI and development, at Universidad de la Sabana (Chía). CFP open via Sessionize from 01/09 to 10/31/2026."
+  pt-BR: "DevFest Bogotá 2026 (também divulgado como 'Build with AI Bogotá') é o evento-bandeira do GDG Bogotá, um dia de talks sobre Google Cloud, IA generativa e desenvolvimento, na Universidad de la Sabana (Chía). CFP aberto via Sessionize de 01/09 a 31/10/2026."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-28"
+  end: "2026-11-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Chía (Bogotá)"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "4.86"
+  lng: "-74.06"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-bogota/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-09-01"
+  closesOn: "2026-10-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/devfest-bogota-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

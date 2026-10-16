@@ -1,0 +1,52 @@
+id: "dc4d6a3f-4908-42f7-b831-08e93496f114"
+slug: "conf42-devsecops-2027"
+name: "Conf42 DevSecOps 2027"
+organizer:
+  en: "Conf42"
+  pt-BR: "Conf42"
+summary:
+  en: "Conf42 DevSecOps 2027 is one of the themed verticals of the Conf42 series: a 100% online, free conference with pre-recorded talks that premiere on YouTube at a scheduled time (usually 17h GMT) and remain available on demand. A vertical dedicated to security in the delivery pipeline."
+  pt-BR: "Conf42 DevSecOps 2027 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical dedicada a segurança no pipeline de entrega."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-18"
+  end: "2027-03-18"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/devsecops2027"
+topics:
+  - "ai-ml"
+  - "devops"
+  - "security"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-08-26"
+  closesOn: "2027-02-18"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-devsecops-2027"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

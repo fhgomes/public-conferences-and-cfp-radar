@@ -1,0 +1,48 @@
+id: "754b7322-9300-40f6-a185-bac2c2c03dbc"
+slug: "jakartaone-livestream-2027"
+name: "JakartaOne Livestream"
+edition: "2027"
+organizer:
+  en: "Eclipse Foundation / Jakarta EE Working Group"
+  pt-BR: "Eclipse Foundation / Jakarta EE Working Group"
+summary:
+  en: "Same franchise as JakartaOne Livestream, estimated edition on December 1, 2027, with a format identical to 2026 and CFP via Sessionize."
+  pt-BR: "Mesma franquia do JakartaOne Livestream, edição estimada para 1º de dezembro de 2027, com formato idêntico ao de 2026 e CFP via Sessionize."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-12-01"
+  end: "2027-12-01"
+  tba: false
+  status: "ESTIMATED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://jakartaone.jakarta.ee/"
+topics:
+  - "architecture"
+  - "cloud"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2027-06-21"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

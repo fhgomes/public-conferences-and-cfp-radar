@@ -1,0 +1,41 @@
+id: "190385b9-978a-4afc-a793-7cb93528537e"
+slug: "devfest-cloud-santiago-2026"
+name: "DevFest Cloud Santiago 2026"
+organizer:
+  en: "GDG Cloud Santiago de Chile"
+  pt-BR: "GDG Cloud Santiago de Chile"
+summary:
+  en: "DevFest Cloud Santiago 2026 is the in-person flagship event of GDG Cloud Santiago de Chile, focused on Google Cloud and generative AI. The same group runs a separate series of online meetups (RAG/AI) throughout the year."
+  pt-BR: "DevFest Cloud Santiago 2026 é o evento-bandeira presencial do GDG Cloud Santiago de Chile, focado em Google Cloud e IA generativa. O mesmo grupo mantém uma série separada de meetups online (RAG/IA) ao longo do ano."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-17"
+  end: "2026-10-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Santiago"
+  countryCode: "CL"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-33.46"
+  lng: "-70.65"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-santiago/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:36Z"

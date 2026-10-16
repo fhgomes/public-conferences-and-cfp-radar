@@ -1,0 +1,45 @@
+id: "547e62c0-6897-43d1-9b08-c97430382f4d"
+slug: "tdc-summit-ai-sao-paulo-2027"
+name: "TDC Summit AI São Paulo 2027"
+organizer:
+  en: "Globalcode / TDC"
+  pt-BR: "Globalcode / TDC"
+summary:
+  pt-BR: "TDC Summit AI é o vertical do TDC (iMasters) dedicado exclusivamente a Inteligência Artificial, formato de um a dois dias com trilhas técnicas de IA aplicada, LLMs e engenharia de dados."
+dates:
+  start: "2027-04-22"
+  end: "2027-04-23"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://thedevconf.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  opensOn: "2027-01-12"
+  timezone: "America/Sao_Paulo"
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

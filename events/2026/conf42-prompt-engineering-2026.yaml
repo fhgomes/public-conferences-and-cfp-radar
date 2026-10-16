@@ -1,0 +1,52 @@
+id: "8c3c22fd-083a-472a-9719-328210abf018"
+slug: "conf42-prompt-engineering-2026"
+name: "Conf42 Prompt Engineering 2026"
+organizer:
+  en: "Conf42 (Mark Andreev)"
+  pt-BR: "Conf42 (Mark Andreev)"
+summary:
+  pt-BR: "Conf42 Prompt Engineering 2026 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical dedicada a prompt engineering e IA generativa aplicada; talks pré-gravadas estreiam no YouTube às 17h GMT e ficam on-demand."
+dates:
+  start: "2026-10-29"
+  end: "2026-10-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/prompt2026"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-01-31"
+  closesOn: "2026-10-14"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-prompt-2026"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:35Z"

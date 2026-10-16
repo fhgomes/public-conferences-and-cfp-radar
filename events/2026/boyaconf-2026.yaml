@@ -1,0 +1,58 @@
+id: "b97b67ed-b69c-4436-945e-6e94d9080f4f"
+slug: "boyaconf-2026"
+name: "BoyaConf 2026"
+organizer:
+  en: "Boyacá Dev (non-profit community)"
+  pt-BR: "Boyacá Dev (comunidade sem fins lucrativos)"
+summary:
+  en: "BoyaConf is the technology and software development conference organized by the nonprofit community Boyaca Dev, in Tunja (Colombia) -- the first and only of its kind in the Boyaca region. It has taken place since 2019 and has had multiple editions (2024, 2025, 2026), bringing together devs, enthusiasts and companies from several cities in a single day at the Boyaquira Auditorium. In-person format, programming-language agnostic, focused on sharing knowledge and strengthening the regional tech ecosystem."
+  pt-BR: "BoyaConf é a conferência de tecnologia e desenvolvimento de software organizada pela comunidade sem fins lucrativos Boyaca Dev, em Tunja (Colômbia) -- a primeira e única do gênero na região de Boyaca. Ocorre desde 2019 e já teve múltiplas edições (2024, 2025, 2026), reunindo devs, entusiastas e empresas de várias cidades num único dia no Auditório Boyaquira. Formato presencial, agnóstico de linguagem de programação, focado em compartilhar conhecimento e fortalecer o ecossistema tech regional."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-11-20"
+  end: "2026-11-21"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Tunja"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "5.54"
+  lng: "-73.36"
+  precision: "CITY"
+links:
+  website: "https://boyaca-dev.org/conf/2026"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-04-20"
+  closesOn: "2026-08-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/boyaconf-2026"
+  platform: "Sessionize"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T23:15:37Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-15T23:15:37Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:32Z"

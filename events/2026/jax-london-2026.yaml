@@ -1,0 +1,52 @@
+id: "63ec37e0-ceca-4cc9-919d-2391f3009394"
+slug: "jax-london-2026"
+name: "JAX London 2026"
+organizer:
+  en: "S&S Media"
+  pt-BR: "S&S Media"
+summary:
+  en: "JAX London 2026 (S&S Media) is the confirmed edition of the British commercial enterprise Java conference, with high prices (1,079-1,889 pounds) and a CFP that historically closes around April."
+  pt-BR: "JAX London 2026 (S&S Media) é a edição confirmada da conferência Java enterprise comercial britânica, com preços altos (1.079-1.889 libras) e CFP que historicamente fecha por volta de abril."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-05"
+  end: "2026-10-09"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Londres"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.51"
+  lng: "-0.13"
+  precision: "CITY"
+links:
+  website: "https://jaxlondon.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-04-13"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

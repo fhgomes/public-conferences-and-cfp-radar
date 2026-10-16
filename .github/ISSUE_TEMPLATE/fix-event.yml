@@ -1,0 +1,35 @@
+name: Fix an event
+description: Report a wrong or outdated value
+title: "Fix: "
+labels: ["fix-event"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public facts only. Do not include personal contact data (e-mails, phone numbers).
+  - type: input
+    id: event
+    attributes:
+      label: Event slug or URL
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: What is wrong
+    validations:
+      required: true
+  - type: textarea
+    id: correct
+    attributes:
+      label: The correct value
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Public source URL
+      description: The official page that shows the correct value
+      placeholder: https://
+    validations:
+      required: true

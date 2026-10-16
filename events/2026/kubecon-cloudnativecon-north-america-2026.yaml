@@ -1,0 +1,61 @@
+id: "12099989-81d7-4c78-84be-efc34f724bbf"
+slug: "kubecon-cloudnativecon-north-america-2026"
+name: "KubeCon + CloudNativeCon North America 2026"
+organizer:
+  en: "CNCF / Linux Foundation"
+  pt-BR: "CNCF / Linux Foundation"
+summary:
+  en: "KubeCon + CloudNativeCon North America is the world's largest cloud native technology conference, organized by CNCF/Linux Foundation, with over 9,000 attendees and 400+ sessions, including co-located AI events (Agentics Day, Cloud Native AI + Inference Day)."
+  pt-BR: "KubeCon + CloudNativeCon North América é a maior conferência de tecnologias cloud native do mundo, organizada pela CNCF/Linux Foundation, com mais de 9.000 participantes e 400+ sessões, incluindo eventos colocalizados sobre IA (Agentics Day, Cloud Native AI + Inference Day)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-09"
+  end: "2026-11-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Salt Lake City, UT"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "40.76"
+  lng: "-111.89"
+  precision: "CITY"
+links:
+  website: "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-05-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/cfp/"
+  platform: "events.linuxfoundation.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:49Z"

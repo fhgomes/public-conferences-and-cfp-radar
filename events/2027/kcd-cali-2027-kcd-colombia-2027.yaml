@@ -1,0 +1,44 @@
+id: "1879d8ad-c4aa-47bc-9757-16871250c111"
+slug: "kcd-cali-2027-kcd-colombia-2027"
+name: "KCD Cali 2027 (KCD Colombia)"
+organizer:
+  en: "CNCF / KCD Colombia (Cuemby et al.)"
+  pt-BR: "CNCF / KCD Colombia (Cuemby et al.)"
+summary:
+  en: "KCD Cali (KCD Colombia) is a one-day community event endorsed by the CNCF about Kubernetes/cloud native, organized by local volunteers. The month (June) is confirmed in the CNCF H1 2027 announcement; day and CFP are estimated."
+  pt-BR: "KCD Cali (KCD Colômbia) é um evento comunitário de um dia endossado pela CNCF sobre Kubernetes/cloud native, organizado por voluntários locais. O mês (junho) está confirmado no anúncio CNCF H1 2027; dia e CFP são estimativa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-15"
+  end: "2027-06-15"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cali"
+  countryCode: "CO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "3.43"
+  lng: "-76.52"
+  precision: "CITY"
+links:
+  website: "https://community2.cncf.io/kcd-colombia/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2027-02-01"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

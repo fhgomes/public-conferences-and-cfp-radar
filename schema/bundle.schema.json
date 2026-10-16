@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/fhgomes/public-conferences-and-cfp-radar/schema/bundle.schema.json",
+  "title": "Public Conferences and Call for Papers Radar - events.json / events-upcoming.json / cfps-open.json",
+  "description": "An array of event records (see event.schema.json); each record carries updatedAt.",
+  "type": "array",
+  "items": {
+    "allOf": [
+      {"$ref": "event.schema.json"},
+      {"required": ["updatedAt"]}
+    ]
+  }
+}

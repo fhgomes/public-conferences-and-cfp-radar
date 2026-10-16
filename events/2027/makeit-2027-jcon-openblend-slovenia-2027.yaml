@@ -1,0 +1,37 @@
+id: "ab0aabdd-4051-4c7f-8f19-7b35c97d053e"
+slug: "makeit-2027-jcon-openblend-slovenia-2027"
+name: "MakeIT 2027 & JCON OpenBlend Slovenia 2027"
+organizer:
+  en: "OpenBlend + SIOUG (c/ JCON)"
+  pt-BR: "OpenBlend + SIOUG (c/ JCON)"
+summary:
+  en: "MakeIT & JCON OpenBlend Slovenia is a mid-sized technical conference in Portoroz, organized by the Slovenian community OpenBlend/SIOUG in partnership with the JCON network. In-person multi-day format with Java and general development tracks."
+  pt-BR: "MakeIT & JCON OpenBlend Slovenia é uma conferência técnica de porte médio em Portoroz, organizada pela comunidade eslovena OpenBlend/SIOUG em parceria com a rede JCON. Formato presencial multi-dia com trilhas Java e desenvolvimento geral."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-26"
+  end: "2027-05-28"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Portorož"
+  countryCode: "SI"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://makeit.si/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

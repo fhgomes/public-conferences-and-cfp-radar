@@ -1,0 +1,52 @@
+id: "45ab9faa-c034-4954-bd61-ae46b0414e81"
+slug: "all-things-open-2026"
+name: "All Things Open 2026"
+organizer:
+  en: "All Things Open (Todd Lewis)"
+  pt-BR: "All Things Open (Todd Lewis)"
+summary:
+  en: "All Things Open is one of the largest open source conferences in the US, held in Raleigh (NC) since 2013. Hybrid format, covering a huge range of topics (languages, AI, cloud, career), parallel tracks and a strong culture of including new speakers."
+  pt-BR: "All Things Open é uma das maiores conferências de open source dos EUA, realizada em Raleigh (NC) desde 2013. Formato híbrido, cobre amplitude enorme de temas (linguagens, IA, cloud, carreira), trilhas paralelas e forte cultura de inclusão de novos palestrantes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-19"
+  end: "2026-10-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Raleigh, NC"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "35.77"
+  lng: "-78.64"
+  precision: "CITY"
+links:
+  website: "https://2026.allthingsopen.org/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-02-17"
+  closesOn: "2026-03-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://allthingsopen.org/call-for-papers"
+  platform: "allthingsopen.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

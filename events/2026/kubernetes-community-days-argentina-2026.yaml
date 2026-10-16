@@ -1,0 +1,62 @@
+id: "bc8d15df-a10c-45c4-9f0a-005b34d48316"
+slug: "kubernetes-community-days-argentina-2026"
+name: "Kubernetes Community Days Argentina 2026"
+organizer:
+  en: "CNCF / KCD Argentina"
+  pt-BR: "CNCF / KCD Argentina"
+summary:
+  en: "Kubernetes Community Days Argentina 2026 is the Argentine edition of the CNCF program, a day of tracks focused on Cloud Native AI, Platform Engineering and Security, at Plaza Galicia (Buenos Aires)."
+  pt-BR: "Kubernetes Community Days Argentina 2026 é a edição argentina do programa CNCF, um dia de trilhas focadas em Cloud Native AI, Platform Engineering e Security, no Plaza Galicia (Buenos Aires)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-03"
+  end: "2026-10-03"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Buenos Aires"
+  countryCode: "AR"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-34.61"
+  lng: "-58.38"
+  precision: "CITY"
+links:
+  website: "https://kcdargentina.ar"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-06-01"
+  closesOn: "2026-08-29"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/kubernetes-community-days-argentina-2026/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T18:15:10Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-15T18:15:10Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:48Z"

@@ -1,0 +1,61 @@
+id: "534b8a64-0452-4d50-863c-3ba0f6ceab15"
+slug: "spring-i-o-2026"
+name: "Spring I/O"
+edition: "2026"
+summary:
+  en: "Spring I/O is the conference dedicated to the Spring ecosystem, held in Barcelona since the mid-2010s. The 2026 edition is the 13th, an in-person 3-day format with tracks almost exclusively on Spring/Java."
+  pt-BR: "Spring I/O é a conferência dedicada ao ecossistema Spring, realizada em Barcelona desde meados dos anos 2010. A edição 2026 é a 13a, formato presencial de 3 dias com trilhas quase exclusivamente Spring/Java."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-04-13"
+  end: "2026-04-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Barcelona"
+  countryCode: "ES"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.39"
+  lng: "2.16"
+  precision: "CITY"
+links:
+  website: "https://2026.springio.net"
+topics:
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2025-10-07"
+  closesOn: "2026-01-09"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/springio26/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

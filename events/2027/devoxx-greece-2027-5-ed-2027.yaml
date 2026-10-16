@@ -1,0 +1,47 @@
+id: "a19e9402-ccc3-4adf-9419-012edb0453cb"
+slug: "devoxx-greece-2027-5-ed-2027"
+name: "Devoxx Greece 2027 (5ª ed.)"
+organizer:
+  en: "Devoxx Greece"
+  pt-BR: "Devoxx Greece"
+summary:
+  en: "Devoxx Greece is the Greek edition of the Devoxx franchise, held in Atenas (Megaron) since 2023, reaching its 5th edition in 2027. In-person 3-day format with multiple technical tracks."
+  pt-BR: "Devoxx Greece é a edição grega da franquia Devoxx, realizada em Atenas (Megaron) desde 2023, chegando a 5a edição em 2027. Formato presencial de 3 dias com múltiplas trilhas técnicas."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-22"
+  end: "2027-04-24"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Atenas (Megaron)"
+  countryCode: "GR"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.98"
+  lng: "23.73"
+  precision: "CITY"
+links:
+  website: "https://devoxx.gr/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-10-15"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

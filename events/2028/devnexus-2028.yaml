@@ -1,0 +1,47 @@
+id: "a9b446ed-3476-4305-b28a-c67a340fcb24"
+slug: "devnexus-2028"
+name: "Devnexus"
+edition: "2028"
+organizer:
+  en: "Atlanta Java Users Group (AJUG)"
+  pt-BR: "Atlanta Java Users Group (AJUG)"
+summary:
+  en: "Devnexus is the largest Java community conference in the US, organized by the Atlanta Java Users Group (AJUG), held in Atlanta with 10 tracks and over 100 sessions. It is one of the most respected events on the North American Java circuit."
+  pt-BR: "Devnexus é a maior conferência de comunidade Java dos EUA, organizada pela Atlanta Java Users Group (AJUG), realizada em Atlanta com 10 trilhas e mais de 100 sessões. E um dos eventos mais respeitados do circuito Java norte-americano."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2028-03-01"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Atlanta, GA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.75"
+  lng: "-84.39"
+  precision: "CITY"
+links:
+  website: "https://devnexus.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-09-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

@@ -1,0 +1,54 @@
+id: "11f78438-9911-42ff-8bd3-7da5a0b20c2e"
+slug: "confoo-montreal-2028-cfp-na-janela-2028"
+name: "ConFoo Montreal 2028"
+nameNote:
+  en: "CFP in the window"
+  pt-BR: "CFP na janela"
+organizer:
+  en: "ConFoo"
+  pt-BR: "ConFoo"
+summary:
+  en: "Same ConFoo conference (Montreal), February 2028 edition; format and organization identical to previous editions."
+  pt-BR: "Mesma conferência ConFoo (Montreal), edição de fevereiro/2028; formato e organização idênticos as edições anteriores."
+machineTranslated:
+  - "nameNote.en"
+  - "summary.en"
+dates:
+  start: "2028-02-23"
+  end: "2028-02-25"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Montreal, QC"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "45.51"
+  lng: "-73.59"
+  precision: "CITY"
+links:
+  website: "https://www.confoo.ca/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+  - "fr"
+cfp:
+  opensOn: "2027-07-15"
+  timezone: "America/Sao_Paulo"
+  url: "https://confoo.ca/en/2028/call-for-papers"
+  platform: "confoo.ca"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

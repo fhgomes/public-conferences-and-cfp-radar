@@ -1,0 +1,50 @@
+id: "afb4434b-69ff-4548-a0e0-70c654632c3e"
+slug: "ndc-london-2027"
+name: "NDC London 2027"
+organizer:
+  en: "NDC Conferences"
+  pt-BR: "NDC Conferences"
+summary:
+  en: "NDC London is one of the largest editions of the NDC Conferences network, covering software development, architecture, security and AI. In-person multi-day format, including workshops."
+  pt-BR: "NDC London é uma das maiores edições da rede NDC Conferences, cobrindo desenvolvimento de software, arquitetura, segurança e IA. Formato presencial de vários dias, incluindo workshops."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-01-25"
+  end: "2027-01-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Londres"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.51"
+  lng: "-0.13"
+  precision: "CITY"
+links:
+  website: "https://ndclondon.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-05-22"
+  closesOn: "2026-08-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://ndclondon.com/call-for-papers"
+  platform: "ndclondon.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

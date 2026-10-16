@@ -1,0 +1,54 @@
+id: "8b68c875-9441-4626-84f6-744553e1e805"
+slug: "devfest-guadalajara-2026"
+name: "DevFest Guadalajara 2026"
+organizer:
+  en: "GDG Guadalajara"
+  pt-BR: "GDG Guadalajara"
+summary:
+  en: "DevFest Guadalajara 2026 is GDG Guadalajara's two-day flagship event, with talks on Google Cloud, generative AI and general development. Guadalajara also has its own Java community (j4Guanatos)."
+  pt-BR: "DevFest Guadalajara 2026 é o evento-bandeira de dois dias do GDG Guadalajara, com talks sobre Google Cloud, IA generativa e desenvolvimento geral. Guadalajara também tem uma comunidade Java própria (j4Guanatos)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-21"
+  end: "2026-11-21"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Guadalajara"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "20.68"
+  lng: "-103.35"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-guadalajara/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "es"
+cfp:
+  closesOn: "2026-11-01"
+  timezone: "America/Mexico_City"
+  closeTimeKnown: false
+  url: "https://app.advocu.com/events/6a909658c24cfe1f147e3a3b"
+  platform: "app.advocu.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:36Z"

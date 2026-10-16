@@ -1,0 +1,39 @@
+id: "9fa5ad45-59b3-4ca2-a6a6-16635a5f33cd"
+slug: "elevate-on-tour-microsoft-brasil-2026"
+name: "Elevate On Tour (Microsoft Brasil)"
+organizer:
+  en: "Microsoft"
+  pt-BR: "Microsoft"
+summary:
+  en: "Elevate On Tour is an institutional roadshow by Microsoft Brasil about data and AI, with a stop in São Paulo on 22/10/2026 (09:00) — a half-day format with talks/demos presented by Microsoft experts."
+  pt-BR: "Elevate On Tour é uma roadshow institucional da Microsoft Brasil sobre dados e IA, com parada em São Paulo em 22/10/2026 (09:00) — formato de meio período com palestras/demos apresentadas por especialistas Microsoft."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-22"
+  end: "2026-10-22"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:39Z"

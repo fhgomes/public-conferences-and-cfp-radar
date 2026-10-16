@@ -1,0 +1,40 @@
+id: "45fada15-b6be-4f04-900e-721646ac1bc8"
+slug: "qcon-ai-boston-2027-ex-infoq-dev-summit-boston-2027"
+name: "QCon AI Boston 2027 (ex-InfoQ Dev Summit Boston)"
+organizer:
+  en: "C4Media / InfoQ"
+  pt-BR: "C4Media / InfoQ"
+summary:
+  en: "QCon AI Boston is the C4Media/InfoQ conference dedicated to AI engineering in production (context engineering, evaluation, inference architecture), successor to InfoQ Dev Summit Boston, with invitation-based curation (not a traditional open CFP)."
+  pt-BR: "QCon AI Boston é a conferência da C4Media/InfoQ dedicada a engenharia de IA em produção (context engineering, avaliação, arquitetura de inferência), sucessora do InfoQ Dev Summit Boston, com curadoria por convite (não CFP aberto tradicional)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-08"
+  end: "2027-07-09"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Boston, MA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "42.36"
+  lng: "-71.06"
+  precision: "CITY"
+links:
+  website: "https://boston.qcon.ai/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

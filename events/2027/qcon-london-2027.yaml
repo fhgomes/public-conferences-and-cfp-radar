@@ -1,0 +1,41 @@
+id: "6adff982-038d-44d2-9384-81b5a10892ba"
+slug: "qcon-london-2027"
+name: "QCon London"
+edition: "2027"
+organizer:
+  en: "C4Media / InfoQ"
+  pt-BR: "C4Media / InfoQ"
+summary:
+  en: "QCon London is the software architecture conference by InfoQ/C4Media, with invitation-based curation (not a traditional open CFP). Multi-day in-person format, with tracks on architecture, AI, platforms and technical leadership."
+  pt-BR: "QCon London é a conferência de arquitetura de software da InfoQ/C4Media, com curadoria por convite (não CFP aberto tradicional). Formato presencial de vários dias, trilhas de arquitetura, IA, plataformas e liderança técnica."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-13"
+  end: "2027-04-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Londres"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.51"
+  lng: "-0.13"
+  precision: "CITY"
+links:
+  website: "https://qconlondon.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

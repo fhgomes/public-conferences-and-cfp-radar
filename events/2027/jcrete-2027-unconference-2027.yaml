@@ -1,0 +1,37 @@
+id: "7f78b28c-c66b-4ff1-a46c-81a437e1391d"
+slug: "jcrete-2027-unconference-2027"
+name: "JCrete 2027 (unconference)"
+organizer:
+  en: "Heinz Kabutz & community"
+  pt-BR: "Heinz Kabutz & comunidade"
+summary:
+  en: "JCrete is Europe's most traditional Java unconference, created by Heinz Kabutz (JavaSpecialists) and running since 2011 in Kolymbari, Creta (Orthodox Academy). Open space format, no formal CFP, with costs shared among participants."
+  pt-BR: "JCrete é o unconference Java mais tradicional da Europa, criado por Heinz Kabutz (JavaSpecialists) e rodando desde 2011 em Kolymbari, Creta (Orthodox Academy). Formato de open space, sem CFP formal, com custos compartilhados entre participantes."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-07-19"
+  end: "2027-07-23"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Kolymbari, Creta (Orthodox Academy)"
+  countryCode: "GR"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://www.jcrete.org/"
+topics:
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

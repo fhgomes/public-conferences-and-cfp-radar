@@ -1,0 +1,48 @@
+id: "feaa1788-0c48-4636-b3be-52cb86adbed0"
+slug: "ndc-porto-2026"
+name: "NDC Porto 2026"
+organizer:
+  en: "NDC Conferences"
+  pt-BR: "NDC Conferences"
+summary:
+  en: "NDC Porto is a newer, smaller edition of the NDC Conferences network, bringing the NDC format (architecture, best practices, AI, security) to Portugal. In-person, multi-day format."
+  pt-BR: "NDC Porto é uma edição mais recente e menor da rede NDC Conferences, trazendo o formato NDC (arquitetura, boas práticas, IA, segurança) para Portugal. Formato presencial de vários dias."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-17"
+  end: "2026-11-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Porto (Gaia)"
+  countryCode: "PT"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.15"
+  lng: "-8.61"
+  precision: "CITY"
+links:
+  website: "https://ndcporto.com/"
+topics:
+  - "ai-ml"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-06-24"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/ndc-porto-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

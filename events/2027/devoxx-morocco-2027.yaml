@@ -1,0 +1,49 @@
+id: "15112ead-29da-49ef-8d42-b61a91f4e76c"
+slug: "devoxx-morocco-2027"
+name: "Devoxx Morocco"
+edition: "2027"
+organizer:
+  en: "Devoxx Morocco"
+  pt-BR: "Devoxx Morocco"
+summary:
+  en: "Devoxx Morocco is the African/Francophone edition of the Devoxx franchise, held in Casablanca. In-person multi-day format with multiple tracks, growing in size with each edition."
+  pt-BR: "Devoxx Morocco é a edição africana/francófona da franquia Devoxx, realizada em Casablanca. Formato presencial multi-dia com múltiplas trilhas, crescendo em porte a cada edição."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-11-03"
+  end: "2027-11-04"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Casablanca"
+  countryCode: "MA"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.59"
+  lng: "-7.61"
+  precision: "CITY"
+links:
+  website: "https://devoxx.ma/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+  - "fr"
+cfp:
+  opensOn: "2027-05-13"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

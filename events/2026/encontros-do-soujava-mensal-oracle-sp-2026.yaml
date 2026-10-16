@@ -1,0 +1,50 @@
+id: "2690ba0b-b8a7-4a10-82b2-cb2e45ef45da"
+slug: "encontros-do-soujava-mensal-oracle-sp-2026"
+name: "Encontros do SouJava (mensal, Oracle SP)"
+organizer:
+  en: "SouJava"
+  pt-BR: "SouJava"
+summary:
+  en: "SouJava's monthly meetups at Oracle SP; SouJava is the oldest Java User Group and one of the largest in the world, founded in 1999 by Bruno Souza (JavaMan) and Einar Saukas, and was once the largest JUG on the planet with nearly 18,000 members."
+  pt-BR: "Encontros mensais da SouJava no Oracle SP; a SouJava é o Java User Group mais antigo e um dos maiores do mundo, fundado em 1999 por Bruno Souza (JavaMan) e Einar Saukas, e já foi o maior JUG do planeta com quase 18.000 membros."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-07"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://encontros.soujava.org.br/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://forms.gle/LXshTYug9KzpkcAc6"
+  platform: "forms.gle"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

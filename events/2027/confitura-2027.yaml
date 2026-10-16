@@ -1,0 +1,41 @@
+id: "83c0aba5-140b-4e5f-a2d9-cecbb6ed84a8"
+slug: "confitura-2027"
+name: "Confitura 2027"
+organizer:
+  en: "Confitura / Warszawa JUG"
+  pt-BR: "Confitura / Warszawa JUG"
+summary:
+  en: "Confitura is the community Java conference of Varsóvia, organized by Warszawa JUG since 2007 -- one of the oldest and most traditional in Polônia. It has gathered around 1,800 people in past editions (2019-2023); in 2025 it had about 450 attendees and 60 speakers over two days, moving from its traditional month of June to September."
+  pt-BR: "Confitura é a conferência Java comunitária de Varsóvia, organizada pela Warszawa JUG desde 2007 -- uma das mais antigas e tradicionais da Polônia. Já reuniu cerca de 1.800 pessoas em edições passadas (2019-2023); em 2025 teve por volta de 450 participantes e 60 palestrantes em dois dias, mudando o mês tradicional de junho para setembro."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-24"
+  end: "2027-09-25"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Varsóvia"
+  countryCode: "PL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.23"
+  lng: "21.01"
+  precision: "CITY"
+links:
+  website: "https://confitura.pl/"
+topics:
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

@@ -1,0 +1,42 @@
+id: "e3f3aaa9-bbfe-4153-b704-a648198700ae"
+slug: "oracle-ai-world-2026"
+name: "Oracle AI World 2026"
+organizer:
+  en: "Oracle"
+  pt-BR: "Oracle"
+summary:
+  pt-BR: "Oracle AI World (ex-Oracle OpenWorld, depois Oracle CloudWorld) é a megaconferência anual da Oracle em Las Vegas (25-28/10/2026, The Venetian), renomeada para refletir a agenda de IA, com ~25.000 participantes esperados. E evento comercial/vendor sobre implementação prática de IA em dados, apps corporativas e cloud."
+dates:
+  start: "2026-10-25"
+  end: "2026-10-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Las Vegas, NV"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "36.17"
+  lng: "-115.14"
+  precision: "CITY"
+links:
+  website: "https://www.oracle.com/ai-world/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://reg.rf.oracle.com/flow/oracle/oaiw26/cfs/cfpHome"
+  platform: "reg.rf.oracle.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

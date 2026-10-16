@@ -1,0 +1,36 @@
+id: "d3f048ae-beda-4cf9-b1e2-eddd28b9f260"
+slug: "that-conference-wisconsin-2027"
+name: "THAT Conference Wisconsin 2027"
+organizer:
+  en: "THAT Conference"
+  pt-BR: "THAT Conference"
+summary:
+  en: "THAT Conference Wisconsin is the brand's original edition, held for more than ten years at the Kalahari resort in Wisconsin Dells. In-person, multi-day format, mixing broad technical sessions with open space programming and activities for families, including lodging at the resort itself."
+  pt-BR: "THAT Conference Wisconsin é a edição original da marca, realizada há mais de dez anos no resort Kalahari em Wisconsin Dells. Formato presencial de vários dias, misturando sessões técnicas amplas com programação de open space e atividades para famílias, incluindo hospedagem no próprio resort."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-26"
+  end: "2027-07-29"
+  tba: false
+  status: "UNKNOWN"
+location:
+  city: "Wisconsin Dells, WI"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+links:
+  website: "https://thatconference.com/events/wi/2027/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

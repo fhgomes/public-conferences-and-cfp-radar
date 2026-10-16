@@ -1,0 +1,49 @@
+id: "751c0d46-2ee2-4328-bd1e-c95e558a9571"
+slug: "javamug-java-metroplex-user-group-dallas-2026"
+name: "JavaMUG (Java Metroplex User Group, Dallas)"
+organizer:
+  en: "JavaMUG"
+  pt-BR: "JavaMUG"
+summary:
+  en: "JavaMUG (Java Metroplex User Group) is the JUG of Dallas/Plano (TX), with in-person meetings that require no prior registration; it also organizes the Lone Star Software Symposium (a No Fluff Just Stuff network event) in June."
+  pt-BR: "JavaMUG (Java Metroplex User Group) é o JUG de Dallas/Plano (TX), com encontros presenciais sem necessidade de inscrição prévia; também organiza o Lone Star Software Symposium (evento da rede No Fluff Just Stuff) em junho."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-14"
+  end: "2026-10-14"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Plano (Dallas), TX"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "33.02"
+  lng: "-96.7"
+  precision: "CITY"
+links:
+  website: "https://www.javamug.org/meetings"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://www.javamug.org/about/contactUs"
+  platform: "javamug.org"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:45Z"

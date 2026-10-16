@@ -1,0 +1,40 @@
+id: "d88e7fee-b927-4b80-bdfd-f37a24d3e6dd"
+slug: "devfest-asuncion-2026"
+name: "DevFest Asunción 2026"
+organizer:
+  en: "GDG Asunción"
+  pt-BR: "GDG Asunción"
+summary:
+  en: "DevFest Asunción 2026 is the annual flagship event of GDG Asunción, a day of community talks about Google Cloud, AI and development in general. Free, small-scale, organized by volunteers."
+  pt-BR: "DevFest Asunción 2026 é o evento-bandeira anual do GDG Asunción, um dia de talks comunitárias sobre Google Cloud, IA e desenvolvimento em geral. Gratuito, pequeno porte, organizado por voluntários."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-16"
+  end: "2026-10-16"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Assunção"
+  countryCode: "PY"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-25.29"
+  lng: "-57.65"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-asuncion/"
+topics:
+  - "community"
+talkLanguages:
+  - "es"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

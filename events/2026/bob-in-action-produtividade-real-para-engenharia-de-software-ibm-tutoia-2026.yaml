@@ -1,0 +1,39 @@
+id: "6a2710c1-1b27-44a1-9c02-1681c4f21a4d"
+slug: "bob-in-action-produtividade-real-para-engenharia-de-software-ibm-tutoia-2026"
+name: "Bob in Action: produtividade real para engenharia de software (IBM Tutóia)"
+organizer:
+  en: "IBM"
+  pt-BR: "IBM"
+summary:
+  en: "'Bob in Action' is an institutional talk/event by IBM about real productivity in software engineering with coding agents, held at IBM's headquarters in Tutóia in São Paulo, in a morning format (08:30)."
+  pt-BR: "'Bob in Action' é uma palestra/evento institucional da IBM sobre produtividade real em engenharia de software com agentes de código, realizado na sede da IBM na Tutóia em São Paulo, em formato matinal (08:30)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-09-29"
+  end: "2026-09-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

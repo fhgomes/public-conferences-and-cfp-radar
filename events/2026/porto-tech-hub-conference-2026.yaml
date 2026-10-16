@@ -1,0 +1,68 @@
+id: "c48c29e3-08de-40c6-b212-98ca6dae315a"
+slug: "porto-tech-hub-conference-2026"
+name: "Porto Tech Hub Conference 2026"
+organizer:
+  en: "Porto Tech Hub"
+  pt-BR: "Porto Tech Hub"
+summary:
+  en: "Porto Tech Hub Conference is the annual event of the Porto Tech Hub community, bringing together technology, AI, cloud and security in a single day. The 2025 edition was the 10th, with more than 30 sessions and about 1,600-2,000 attendees according to event coverage."
+  pt-BR: "Porto Tech Hub Conference é o evento anual da comunidade Porto Tech Hub, reunindo tecnologia, IA, cloud e segurança num único dia. A edição 2025 foi a 10a, com mais de 30 sessões e cerca de 1.600-2.000 participantes segundo cobertura do evento."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-10"
+  end: "2026-11-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Porto"
+  countryCode: "PT"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.15"
+  lng: "-8.61"
+  precision: "CITY"
+links:
+  website: "https://portotechhub.com/conference-2026/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-04-22"
+  closesOn: "2026-06-21"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/pth-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T22:15:27Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-15T22:15:27Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:53Z"

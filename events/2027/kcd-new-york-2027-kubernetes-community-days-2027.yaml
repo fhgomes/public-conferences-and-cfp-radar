@@ -1,0 +1,47 @@
+id: "148ef14d-3ef3-403b-83ae-905bcdf5d1d8"
+slug: "kcd-new-york-2027-kubernetes-community-days-2027"
+name: "KCD New York 2027 (Kubernetes Community Days)"
+organizer:
+  en: "CNCF community"
+  pt-BR: "Comunidade CNCF"
+summary:
+  en: "KCD (Kubernetes Community Days) New York is the regional CNCF event in New York; for the first half of 2027 the CNCF blog announces editions in the US (Florida in Feb, DC and Texas in Apr, SF Bay Area and New York in May) and Canada (Toronto in May), but no exact date has been published for NY so far."
+  pt-BR: "KCD (Kubernetes Community Days) New York é o evento regional CNCF em Nova York; para o primeiro semestre de 2027 o blog do CNCF anuncia edições nos EUA (Florida em fev, DC e Texas em abr, SF Bay Area e Nova York em mai) e Canadá (Toronto em mai), mas sem data exata publicada para NY até o momento."
+machineTranslated:
+  - "organizer.pt-BR"
+  - "summary.en"
+dates:
+  start: "2027-06-10"
+  end: "2027-06-10"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "New York, NY"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.71"
+  lng: "-74.01"
+  precision: "CITY"
+links:
+  website: "https://kcdnewyork.com/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-02-16"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

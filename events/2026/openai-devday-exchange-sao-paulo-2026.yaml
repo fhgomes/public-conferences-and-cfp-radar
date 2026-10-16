@@ -1,0 +1,40 @@
+id: "4efef62d-7d93-4105-ab1d-debd3e3a5a90"
+slug: "openai-devday-exchange-sao-paulo-2026"
+name: "OpenAI DevDay Exchange São Paulo"
+organizer:
+  en: "OpenAI"
+  pt-BR: "OpenAI"
+summary:
+  en: "OpenAI DevDay Exchange is the format of local satellite events of OpenAI's global DevDay, organized in partnership with local communities/partners in several cities around the world; the São Paulo edition takes place on 06/11/2026 (14:00), by invitation only, with high-level networking in AI."
+  pt-BR: "OpenAI DevDay Exchange é o formato de eventos locais satélites do DevDay global da OpenAI, organizados em parceria com comunidades/parceiros locais em várias cidades do mundo; a edição de São Paulo ocorre em 06/11/2026 (14:00), por convite, com networking de alto nível em IA."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-06"
+  end: "2026-11-06"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

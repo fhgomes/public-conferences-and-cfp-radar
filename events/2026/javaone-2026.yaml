@@ -1,0 +1,47 @@
+id: "b9352334-2085-44b7-b75e-4ed8c8160e8a"
+slug: "javaone-2026"
+name: "JavaOne"
+edition: "2026"
+summary:
+  en: "JavaOne is Oracle's official Java conference, held in Redwood Shores (Oracle's headquarters), a historic brand revived in recent years after the post-2018 hiatus. In-person 3-day format focused exclusively on the Java/JVM ecosystem."
+  pt-BR: "JavaOne é a conferência oficial de Java da Oracle, realizada em Redwood Shores (sede da Oracle), marca histórica revivida nos últimos anos após o hiato pós-2018. Formato presencial de 3 dias focado exclusivamente no ecossistema Java/JVM."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-03-17"
+  end: "2026-03-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Redwood Shores, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.53"
+  lng: "-122.25"
+  precision: "CITY"
+links:
+  website: "https://www.oracle.com/javaone/"
+topics:
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:42Z"

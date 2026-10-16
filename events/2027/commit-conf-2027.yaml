@@ -1,0 +1,42 @@
+id: "2f95ffda-55d2-41f9-a96b-548168be17ed"
+slug: "commit-conf-2027"
+name: "Commit Conf 2027"
+organizer:
+  en: "Commit Conf (ex-Codemotion Madrid team)"
+  pt-BR: "Commit Conf (ex-Codemotion Madrid team)"
+summary:
+  en: "Commit Conf is a conference in Madri created by the team that previously organized Codemotion Madrid, covering AI, architecture, general development and Java. Large-scale, with travel and hotel reimbursement for speakers."
+  pt-BR: "Commit Conf é uma conferência de Madri criada pela equipe que antes organizava o Codemotion Madrid, cobrindo IA, arquitetura, desenvolvimento geral e Java. Grande porte, com reembolso de viagem e hotel para palestrantes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-04"
+  end: "2027-06-05"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Madri"
+  countryCode: "ES"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.42"
+  lng: "-3.7"
+  precision: "CITY"
+links:
+  website: "https://commit-conf.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:34Z"

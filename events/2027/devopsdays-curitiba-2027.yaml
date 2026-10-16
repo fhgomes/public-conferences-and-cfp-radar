@@ -1,0 +1,47 @@
+id: "260b371c-8da4-4b75-b4dd-20edd763368f"
+slug: "devopsdays-curitiba-2027"
+name: "DevOpsDays Curitiba 2027"
+organizer:
+  en: "Comunidade devopsdays Curitiba community"
+  pt-BR: "Comunidade devopsdays Curitiba"
+summary:
+  en: "DevOpsDays Curitiba is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation, in its 4th edition in 2027, held at the Auditório Eny Caldeira (UFPR). 1-day format: short talks + open space. CFP not yet open; the chapter's usual pattern is to open about 3-4 months before the event."
+  pt-BR: "DevOpsDays Curitiba é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação, em sua 4ª edição em 2027, realizada no Auditório Eny Caldeira (UFPR). Formato de 1 dia: palestras curtas + open space. CFP ainda não aberto; o padrão do capítulo costuma abrir cerca de 3-4 meses antes do evento."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-08-21"
+  end: "2027-08-21"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Curitiba"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-25.43"
+  lng: "-49.27"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2027-curitiba"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

@@ -1,0 +1,44 @@
+id: "a8fbdb29-a517-4c0d-9c56-5512636e6614"
+slug: "kcd-lima-peru-2027"
+name: "KCD Lima Perú 2027"
+organizer:
+  en: "CNCF / KCD Lima Perú"
+  pt-BR: "CNCF / KCD Lima Perú"
+summary:
+  en: "KCD Lima Perú is the Peruvian edition of the CNCF Kubernetes Community Days program. The 2026 edition (Jul 18, UTEC Barranco) had 900+ attendees, 60 speakers and 5 simultaneous rooms — a robust size for the program."
+  pt-BR: "KCD Lima Perú é a edição peruana do programa CNCF de Kubernetes Community Days. A edição 2026 (18/jul, UTEC Barranco) teve 900+ presentes, 60 palestrantes e 5 salas simultâneas — porte robusto para o programa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-17"
+  end: "2027-07-17"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Lima"
+  countryCode: "PE"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.04"
+  lng: "-77.03"
+  precision: "CITY"
+links:
+  website: "https://community2.cncf.io/events/details/cncf-kcd-lima-peru-presents-kubernetes-community-days-lima-2026/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2027-02-18"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

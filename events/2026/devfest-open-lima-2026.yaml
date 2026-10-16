@@ -1,0 +1,41 @@
+id: "a5136136-499b-49af-ad55-9dc8318162e0"
+slug: "devfest-open-lima-2026"
+name: "DevFest Open Lima 2026"
+organizer:
+  en: "GDG Cloud Lima"
+  pt-BR: "GDG Cloud Lima"
+summary:
+  en: "DevFest Open Lima 2026 is organized by GDG Cloud Lima, a day of talks about Google Cloud and AI. The group (1,873 members) also holds a monthly meetup."
+  pt-BR: "DevFest Open Lima 2026 é organizado pelo GDG Cloud Lima, um dia de talks sobre Google Cloud e IA. O grupo (1.873 membros) também faz meetup mensal."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-21"
+  end: "2026-11-21"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Lima"
+  countryCode: "PE"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.04"
+  lng: "-77.03"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-lima/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:37Z"

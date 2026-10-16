@@ -1,0 +1,47 @@
+id: "0d1bfe6b-7a0a-4036-bf80-ef05925c70fd"
+slug: "goto-copenhagen-2026"
+name: "GOTO Copenhagen"
+edition: "2026"
+summary:
+  en: "GOTO Copenhagen is one of the conferences of the GOTO (Trifork) brand, with invitation-based curation -- speakers are usually invited directly, not through an open CFP. It covers software architecture with high-level production."
+  pt-BR: "GOTO Copenhagen é uma das conferências da marca GOTO (Trifork), com curadoria por convite -- palestrantes normalmente são convidados diretamente, não via CFP aberto. Cobre arquitetura de software com produção de alto nível."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-09-28"
+  end: "2026-10-02"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Copenhague"
+  countryCode: "DK"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "55.68"
+  lng: "12.57"
+  precision: "CITY"
+links:
+  website: "https://gotocph.com/2026"
+topics:
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:41Z"

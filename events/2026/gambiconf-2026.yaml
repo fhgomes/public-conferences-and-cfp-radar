@@ -1,0 +1,62 @@
+id: "a73ac7cc-3305-4f8e-bb8b-62617d0e0f5c"
+slug: "gambiconf-2026"
+name: "GambiConf 2026"
+organizer:
+  en: "Comunidade GambiConf"
+  pt-BR: "Comunidade GambiConf"
+summary:
+  en: "GambiConf ('The Blow Your Mind Conference') is an independent computing conference created by IME-USP students in partnership with the SymComp community, focused on 'out-of-the-box'/curious technical projects. It reaches its 6th edition in 2026 (28-29/11, IME-USP Butantã): 28/11 talks (GambiConf + TYPED tracks) and 29/11 workshops."
+  pt-BR: "GambiConf ('The Blow Your Mind Conference') é uma conferência independente de computação criada por estudantes do IME-USP em parceria com a comunidade SymComp, com foco em projetos 'fora da caixa'/técnicos curiosos. Chega à 6ª edição em 2026 (28-29/11, IME-USP Butantã): 28/11 palestras (trilhas GambiConf + TYPED) e 29/11 workshops."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-28"
+  end: "2026-11-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://gambiconf.dev/"
+topics:
+  - "ai-ml"
+  - "security"
+talkLanguages:
+  - "pt"
+cfp:
+  closesOn: "2026-06-21"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://gambiconf.dev/cfp"
+  platform: "gambiconf.dev"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "agenda-tech-brasil"
+    name: "agenda-tech-brasil"
+    url: "https://github.com/agenda-tech-brasil/agenda-tech-brasil"
+    licence: "unknown"
+    role: "discovered_via"
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:40Z"

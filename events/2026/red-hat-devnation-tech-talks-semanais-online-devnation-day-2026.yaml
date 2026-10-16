@@ -1,0 +1,36 @@
+id: "671e66c5-548d-4df1-82d2-b518983a59ad"
+slug: "red-hat-devnation-tech-talks-semanais-online-devnation-day-2026"
+name: "Red Hat DevNation (Tech Talks semanais online / DevNation Day)"
+organizer:
+  en: "Red Hat Developer"
+  pt-BR: "Red Hat Developer"
+summary:
+  pt-BR: "Programa contínuo da Red Hat Developer com tech talks semanais e o 'DevNation Day' sobre cloud native, Java (Quarkus) e DevOps; sem edição única fixa, funciona como calendário recorrente."
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://developers.redhat.com/devnation"
+topics:
+  - "cloud"
+  - "devops"
+  - "java"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

@@ -1,0 +1,37 @@
+id: "260e0861-b087-45dc-854e-28b4ac9e9dcb"
+slug: "observabilidade-de-agentes-em-escala-o-caso-do-ifood-com-langfuse-2026"
+name: "Observabilidade de Agentes em Escala: o Caso do iFood com Langfuse"
+organizer:
+  en: "Langfuse / iFood (a confirmar)"
+  pt-BR: "Langfuse / iFood (a confirmar)"
+summary:
+  pt-BR: "'Observabilidade de Agentes em Escala: o Caso do iFood com Langfuse' é um meetup técnico pontual sobre observabilidade de agentes de IA em produção, com participação (a confirmar) da Langfuse (ferramenta de observabilidade de LLM) e do time do iFood, às 18h em São Paulo."
+dates:
+  start: "2026-10-08"
+  end: "2026-10-08"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

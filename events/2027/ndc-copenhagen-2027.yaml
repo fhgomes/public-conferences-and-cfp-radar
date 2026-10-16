@@ -1,0 +1,40 @@
+id: "ab953a6b-1136-4aa3-856d-e9070ec1d3c0"
+slug: "ndc-copenhagen-2027"
+name: "NDC Copenhagen 2027"
+organizer:
+  en: "NDC Conferences"
+  pt-BR: "NDC Conferences"
+summary:
+  en: "NDC Copenhagen is one of the regional editions of the NDC Conferences network (founded in Norway), focused on software development, architecture and best practices. Multi-day in-person format with broad tracks, not exclusively .NET."
+  pt-BR: "NDC Copenhagen é uma das edições regionais da rede NDC Conferences (fundada na Noruega), com foco em desenvolvimento de software, arquitetura e boas práticas. Formato presencial de vários dias com trilhas amplas, não exclusivamente .NET."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-01"
+  end: "2027-06-04"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Copenhague"
+  countryCode: "DK"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "55.68"
+  lng: "12.57"
+  precision: "CITY"
+links:
+  website: "https://ndccopenhagen.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

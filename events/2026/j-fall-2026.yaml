@@ -1,0 +1,60 @@
+id: "5ecaf11e-ccad-46cf-b746-dd71bc70602b"
+slug: "j-fall-2026"
+name: "J-Fall"
+edition: "2026"
+organizer:
+  en: "NLJUG"
+  pt-BR: "NLJUG"
+summary:
+  en: "J-Fall is the largest annual conference of NLJUG (the Dutch Java user association), held in Ede -- one of the two major Java gatherings in the Netherlands (counterpart to J-Spring). Access restricted to NLJUG members."
+  pt-BR: "J-Fall é a maior conferência anual da NLJUG (associação holandesa de usuários Java), realizada em Ede -- um dos dois grandes encontros Java da Holanda (par de J-Spring). Acesso restrito a membros da NLJUG."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-11"
+  end: "2026-11-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Ede"
+  countryCode: "NL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.03"
+  lng: "5.66"
+  precision: "CITY"
+links:
+  website: "https://jfall.nl/"
+topics:
+  - "architecture"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-09-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jfall26"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

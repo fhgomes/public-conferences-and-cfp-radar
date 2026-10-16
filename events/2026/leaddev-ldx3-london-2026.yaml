@@ -1,0 +1,43 @@
+id: "45c21815-9167-4cd5-bb88-d8d75c586cd2"
+slug: "leaddev-ldx3-london-2026"
+name: "LeadDev / LDX3 London"
+edition: "2026"
+summary:
+  en: "LDX3 is LeadDev's combined multi-conference event in London, focused on engineering leadership and management. In-person 2-day format with parallel tracks."
+  pt-BR: "LDX3 é o evento combinado de múltiplas conferências da LeadDev em Londres, voltado a liderança e gestão de engenharia. Formato presencial de 2 dias com trilhas simultâneas."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-06-02"
+  end: "2026-06-03"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Londres"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.51"
+  lng: "-0.13"
+  precision: "CITY"
+topics:
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-01-04"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://leaddev.com/get-involved"
+  platform: "leaddev.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

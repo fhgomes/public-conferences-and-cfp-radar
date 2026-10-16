@@ -1,0 +1,46 @@
+id: "19ad2590-3138-4e53-8441-1aa091ae2868"
+slug: "that-conference-texas-2027"
+name: "THAT Conference Texas 2027"
+organizer:
+  en: "THAT Conference"
+  pt-BR: "THAT Conference"
+summary:
+  en: "THAT Conference Texas is the Texas edition (Round Rock, Kalahari resort) of THAT Conference, a community-driven, family-friendly tech event born in Wisconsin. In-person multi-day format with broad technical tracks, activities for families/kids and open-format sessions beyond traditional talks."
+  pt-BR: "THAT Conference Texas é a edição texana (Round Rock, resort Kalahari) da THAT Conference, evento comunitário e family-friendly de tecnologia nascido no Wisconsin. Formato presencial de vários dias com trilhas técnicas amplas, atividades para famílias/crianças e sessões em formato aberto além das palestras tradicionais."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-01-18"
+  end: "2027-01-21"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Round Rock (Austin), TX"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "30.51"
+  lng: "-97.68"
+  precision: "CITY"
+links:
+  website: "https://thatconference.com/events/tx/2027/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "UTC"
+  url: "https://thatconference.com/call-for-speakers"
+  platform: "thatconference.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

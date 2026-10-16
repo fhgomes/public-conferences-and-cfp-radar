@@ -1,0 +1,50 @@
+id: "c01a2930-c936-402f-81fe-ed6598d16d5b"
+slug: "aicamp-sao-paulo-encontro-ia-mensal-na-oracle-sao-paulo-ai-developer-group-2026"
+name: "AICamp São Paulo — Encontro IA mensal na Oracle (São Paulo AI Developer Group)"
+organizer:
+  en: "AICamp + São Paulo AI Developer Group (Meetup aidev-saopaulo) + Oracle"
+  pt-BR: "AICamp + São Paulo AI Developer Group (Meetup aidev-saopaulo) + Oracle"
+summary:
+  en: "Monthly meetup of the São Paulo AI Developer Group (AICamp global network) at the Oracle Innovation Center, with technical talks on GenAI, LLMs and agents followed by networking."
+  pt-BR: "Encontro mensal do São Paulo AI Developer Group (rede global AICamp) no Oracle Innovation Center, com talks técnicas sobre GenAI, LLMs e agentes seguidas de networking."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-29"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/aidev-saopaulo/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://forms.gle/JkMt91CZRtoJBSFUA"
+  platform: "forms.gle"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

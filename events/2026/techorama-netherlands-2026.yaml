@@ -1,0 +1,58 @@
+id: "51c877e4-b6b5-4ab4-9721-34f6652fa899"
+slug: "techorama-netherlands-2026"
+name: "Techorama Netherlands 2026"
+organizer:
+  en: "Techorama"
+  pt-BR: "Techorama"
+summary:
+  en: "Techorama Netherlands is the Dutch edition (Utrecht) of the same Techorama franchise, a generalist conference with a strong Microsoft/.NET bias. In-person format, 3 days."
+  pt-BR: "Techorama Netherlands é a edição holandesa (Utrecht) da mesma franquia Techorama, conferência generalista com forte viés Microsoft/.NET. Formato presencial de 3 dias."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-26"
+  end: "2026-10-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Utrecht"
+  countryCode: "NL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.09"
+  lng: "5.12"
+  precision: "CITY"
+links:
+  website: "https://techorama.nl/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-08-24"
+  closesOn: "2026-08-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/techorama-2026-netherlands/"
+  platform: "Sessionize"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T20:15:39Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-15T20:15:39Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:57Z"

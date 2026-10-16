@@ -1,0 +1,58 @@
+id: "6576fb95-626d-4343-a652-56d34250b8ae"
+slug: "devopsdays-recife-2026"
+name: "DevOpsDays Recife 2026"
+organizer:
+  en: "devopsdays Recife Community"
+  pt-BR: "Comunidade devopsdays Recife"
+summary:
+  en: "DevOpsDays Recife is the local chapter of DevOpsDays, a global non-profit community conference format about DevOps/culture/cloud/automation, in its 6th edition in 2026, with the theme 'Rios, Pontes e Tecnologia', at UNINASSAU Graças. 1-day format: short talks + open space; tickets via Even3. CFP is not visible on the page consulted."
+  pt-BR: "DevOpsDays Recife é o capítulo local do DevOpsDays, formato global de conferência comunitária sem fins lucrativos sobre DevOps/cultura/cloud/automação, em sua 6ª edição em 2026, com o tema 'Rios, Pontes e Tecnologia', na UNINASSAU Graças. Formato de 1 dia: palestras curtas + open space; ingressos via Even3. CFP não está visível na página consultada."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-12-12"
+  end: "2026-12-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Recife"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-8.05"
+  lng: "-34.88"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.org/events/2026-recife"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-04-01"
+  closesOn: "2026-10-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://talks.devopsdays.org/devopsdays-recife-2026/cfp"
+  platform: "talks.devopsdays.org"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:38Z"

@@ -1,0 +1,56 @@
+id: "ad67c40e-ef80-4776-933b-c6c2d68c05b0"
+slug: "jnation-2027-coimbra-2027"
+name: "JNation 2027 (Coimbra)"
+edition: "2027"
+organizer:
+  en: "Coimbra JUG / JNation"
+  pt-BR: "Coimbra JUG / JNation"
+summary:
+  en: "JNation is the Portuguese Java/tech conference organized by Coimbra JUG, with editions in Coimbra and Porto -- a traditional event of the Lusophone Java community, with tickets that usually sell out."
+  pt-BR: "JNation é a conferência Java/tech portuguesa organizada pela Coimbra JUG, com edições em Coimbra e Porto -- evento tradicional da comunidade Java lusófona, com ingressos que costumam esgotar."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-25"
+  end: "2027-05-26"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Coimbra"
+  countryCode: "PT"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.21"
+  lng: "-8.42"
+  precision: "CITY"
+links:
+  website: "https://jnation.pt/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  opensOn: "2026-09-30"
+  closesOn: "2027-01-08"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jnation-2027/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

@@ -1,0 +1,63 @@
+id: "16174361-11f4-43d2-b945-921e36d15007"
+slug: "devoxx-belgium-2026"
+name: "Devoxx Belgium"
+edition: "2026"
+organizer:
+  en: "Devoxx / Stephan Janssen"
+  pt-BR: "Devoxx / Stephan Janssen"
+summary:
+  en: "Devoxx Belgium is the world's most traditional Java conference, held in Antuérpia since 2001 (as JavaPolis) under the leadership of Stephan Janssen. One-week format: deep-dive technical days (long/hands-on sessions) and conference days with dozens of simultaneous tracks."
+  pt-BR: "Devoxx Belgium é a conferência Java mais tradicional do mundo, realizada em Antuérpia desde 2001 (como JavaPolis) sob liderança de Stephan Janssen. Formato de uma semana: dias de aprofundamento técnico (sessões longas/hands-on) e dias de conferência com dezenas de trilhas simultâneas."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-05"
+  end: "2026-10-09"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Antuerpia"
+  countryCode: "BE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.22"
+  lng: "4.4"
+  precision: "CITY"
+links:
+  website: "https://devoxx.be/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-07-17"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://dvbe26.cfp.dev/"
+  platform: "cfp.dev"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

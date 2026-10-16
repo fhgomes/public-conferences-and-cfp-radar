@@ -1,0 +1,53 @@
+id: "44c1eb87-0e98-45da-b7e1-ab39b344025e"
+slug: "tdc-recife-2026"
+name: "TDC Recife"
+edition: "2026"
+organizer:
+  en: "Globalcode / TDC + Porto Digital (Rec'n'Play)"
+  pt-BR: "Globalcode / TDC + Porto Digital (Rec'n'Play)"
+summary:
+  en: "TDC (The Developers Conference, iMasters, since 2004) is the largest circuit of developer events in Brazil; this is one of the regional editions, a multi-track format of one to two days with an open CFP."
+  pt-BR: "TDC (The Developers Conference, iMasters, desde 2004) é o maior circuito de eventos de devs do Brasil; esta é uma das edições regionais, formato multi-trilha de um a dois dias com CFP aberto."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-11"
+  end: "2026-11-12"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Recife"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-8.05"
+  lng: "-34.88"
+  precision: "CITY"
+links:
+  website: "https://thedevconf.com/tdc/2026/datas-e-locais"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-05-11"
+  closesOn: "2026-08-28"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:55Z"

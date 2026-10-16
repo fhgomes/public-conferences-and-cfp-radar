@@ -1,0 +1,51 @@
+id: "1ccad41f-76e3-460a-8ec3-72fb01e0a5c2"
+slug: "java-forum-stuttgart-2027"
+name: "Java Forum Stuttgart 2027"
+organizer:
+  en: "JUG Stuttgart"
+  pt-BR: "JUG Stuttgart"
+summary:
+  en: "Java Forum Stuttgart is one of the largest community Java forums in Germany, organized by JUG Stuttgart, with affordable tickets and large scale (1000-3000) -- a traditional reference among German Java forums."
+  pt-BR: "Java Forum Stuttgart é um dos maiores foruns Java comunitários da Alemanha, organizado pela JUG Stuttgart, com ingresso barato e grande porte (1000-3000) -- referência tradicional entre os foruns Java alemaes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-15"
+  end: "2027-07-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Stuttgart"
+  countryCode: "DE"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "48.78"
+  lng: "9.18"
+  precision: "CITY"
+links:
+  website: "https://www.java-forum-stuttgart.de/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+cfp:
+  opensOn: "2027-02-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "dev-events"
+    name: "dev.events"
+    url: "https://dev.events"
+    licence: "unknown"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:42Z"

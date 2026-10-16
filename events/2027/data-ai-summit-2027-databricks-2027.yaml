@@ -1,0 +1,45 @@
+id: "48011cdf-9dc0-4287-bac2-175727a63cc8"
+slug: "data-ai-summit-2027-databricks-2027"
+name: "Data + AI Summit 2027 (Databricks)"
+organizer:
+  en: "Databricks"
+  pt-BR: "Databricks"
+summary:
+  en: "Data + AI Summit is Databricks' annual global event, one of the largest data/AI gatherings in the world, held in San Francisco (Moscone Center), with a strong presence of enterprise use cases for data, ML and generative AI, and a free virtual option."
+  pt-BR: "Data + AI Summit é o evento anual global da Databricks, um dos maiores encontros de dados/IA do mundo, realizado em San Francisco (Moscone Center), com forte presença de casos de uso empresariais de dados, ML e IA generativa, e opção virtual gratuita."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-21"
+  end: "2027-06-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "San Francisco, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "37.77"
+  lng: "-122.42"
+  precision: "CITY"
+links:
+  website: "https://www.databricks.com/dataaisummit"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-12-15"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

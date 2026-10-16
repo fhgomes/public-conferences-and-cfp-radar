@@ -1,0 +1,42 @@
+id: "137b8ae3-cada-4e6c-9c14-f13020125694"
+slug: "devfest-2026-ciudad-de-mexico-2026"
+name: "DevFest 2026: Ciudad de México"
+organizer:
+  en: "GDG CDMX"
+  pt-BR: "GDG CDMX"
+summary:
+  en: "DevFest 2026 Ciudad de México is GDG CDMX's annual flagship event, a day of community talks on the Google portfolio (Cloud, Android, Web, Firebase) and generative AI/Gemini. Free, volunteer-organized, at Tec de Monterrey Campus CDMX."
+  pt-BR: "DevFest 2026 Ciudad de México é o evento-bandeira anual do GDG CDMX, um dia de talks comunitárias sobre o portfólio Google (Cloud, Android, Web, Firebase) e IA generativa/Gemini. Gratuito, organizado por voluntários, no Tec de Monterrey Campus CDMX."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-12-07"
+  end: "2026-12-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade do México"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "19.43"
+  lng: "-99.13"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-devfest-2026-ciudad-de-mexico/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "en"
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:36Z"

@@ -1,0 +1,41 @@
+id: "a4880d5d-9b2e-4999-ba56-fae875d99055"
+slug: "devfest-belo-horizonte-2026"
+name: "DevFest Belo Horizonte 2026"
+organizer:
+  en: "GDG Belo Horizonte"
+  pt-BR: "GDG Belo Horizonte"
+summary:
+  en: "DevFest is the annual flagship event of GDGs (Google Developer Groups) around the world; the local edition is organized by volunteers from the city's GDG chapter, in a one-day format with multiple tracks (cloud, AI, web, mobile, Android)."
+  pt-BR: "DevFest é o evento anual-flagship dos GDGs (Google Developer Groups) ao redor do mundo; a edição local é organizada por voluntários do capítulo GDG da cidade, formato de um dia com múltiplas trilhas (cloud, IA, web, mobile, Android)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-31"
+  end: "2026-10-31"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Belo Horizonte"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-19.92"
+  lng: "-43.94"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-devfest-belo-horizonte-2/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

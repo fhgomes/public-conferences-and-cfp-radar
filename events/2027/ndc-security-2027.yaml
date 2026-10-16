@@ -1,0 +1,52 @@
+id: "f87f9cf9-b73a-476b-9a35-1a5788f0ec87"
+slug: "ndc-security-2027"
+name: "NDC Security 2027"
+organizer:
+  en: "NDC Conferences"
+  pt-BR: "NDC Conferences"
+summary:
+  pt-BR: "NDC Security é a vertical especializada em segurança da rede NDC Conferences, realizada em Oslo. Formato presencial multi-dia, com talks de 60min, lightning de 10min e workshops."
+dates:
+  start: "2027-02-15"
+  end: "2027-02-18"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Oslo"
+  countryCode: "NO"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "59.91"
+  lng: "10.75"
+  precision: "CITY"
+links:
+  website: "https://ndcsecurity.com/"
+topics:
+  - "ai-ml"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-10-18"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://ndcsecurity.com/call-for-papers"
+  platform: "ndcsecurity.com"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-13T05:15:51Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-13T05:15:51Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

@@ -1,0 +1,56 @@
+id: "c44eafc2-ba00-4f57-a8d2-169b9c409900"
+slug: "javaone-2027"
+name: "JavaOne"
+edition: "2027"
+organizer:
+  en: "Oracle"
+  pt-BR: "Oracle"
+summary:
+  en: "Same JavaOne conference (Oracle, Redwood Shores), next edition. Date not yet officially published (historical pattern: March)."
+  pt-BR: "Mesma conferência JavaOne (Oracle, Redwood Shores), próxima edição. Data ainda não publicada oficialmente (padrão histórico: março)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-23"
+  end: "2027-03-25"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Redwood Shores, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "37.53"
+  lng: "-122.25"
+  precision: "CITY"
+links:
+  website: "https://www.oracle.com/javaone/"
+topics:
+  - "ai-ml"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://reg.rf.oracle.com/flow/oracle/javaone27/cfpwelcome/page/page"
+  platform: "reg.rf.oracle.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

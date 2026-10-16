@@ -1,0 +1,49 @@
+id: "d5617bc9-d14f-4071-9ff5-9e1941e0a612"
+slug: "devfest-panama-2026"
+name: "DevFest Panamá 2026"
+organizer:
+  en: "GDG Panamá"
+  pt-BR: "GDG Panamá"
+summary:
+  en: "DevFest Panamá 2026 is GDG Panamá's flagship event, a one-day program of talks on Google Cloud, AI and general development. Small scale, no venue published."
+  pt-BR: "DevFest Panamá 2026 é o evento-bandeira do GDG Panamá, um dia de talks sobre Google Cloud, IA e desenvolvimento geral. Porte pequeno, sem venue publicado."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-24"
+  end: "2026-10-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade do Panamá"
+  countryCode: "PA"
+  region: "LATAM"
+  modality: "IN_PERSON"
+links:
+  website: "https://gdg.community.dev/gdg-panama/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "es"
+cfp:
+  closesOn: "2026-09-06"
+  timezone: "America/Panama"
+  closeTimeKnown: false
+  url: "https://sessionize.com/devfest-panama-2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:37Z"

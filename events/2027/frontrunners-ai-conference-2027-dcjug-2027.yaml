@@ -1,0 +1,41 @@
+id: "968b1123-0dbe-4853-b298-e353d3cd5447"
+slug: "frontrunners-ai-conference-2027-dcjug-2027"
+name: "Frontrunners AI Conference 2027 (DCJUG)"
+organizer:
+  en: "Frontrunners / DCJUG"
+  pt-BR: "Frontrunners / DCJUG"
+summary:
+  en: "Frontrunners AI Conference is a one-day AI event organized by Frontrunners/DCJUG in Arlington, VA -- a larger extension of the local JUG focused specifically on applied AI, with no previous editions publicly confirmed yet."
+  pt-BR: "Frontrunners AI Conference é um evento de um dia sobre IA organizado pelo Frontrunners/DCJUG em Arlington, VA -- uma extensão maior do JUG local voltada especificamente a IA aplicada, ainda sem histórico de edições anteriores confirmado publicamente."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-26"
+  end: "2027-03-26"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Arlington, VA"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "38.88"
+  lng: "-77.1"
+  precision: "CITY"
+links:
+  website: "https://www.meetup.com/dc-jug/"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:40Z"

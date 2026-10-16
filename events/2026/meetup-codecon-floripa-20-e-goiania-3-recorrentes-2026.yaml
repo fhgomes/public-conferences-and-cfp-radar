@@ -1,0 +1,47 @@
+id: "5a3d217f-cb03-47f3-8d74-fc39b8d9e8b0"
+slug: "meetup-codecon-floripa-20-e-goiania-3-recorrentes-2026"
+name: "Codecon Meetups — Florianópolis #20 & Goiânia #3"
+organizer:
+  en: "Codecon"
+  pt-BR: "Codecon"
+summary:
+  en: "Recurring local Codecon meetups in Florianópolis (edition #20) and Goiânia (edition #3), a community meetup format within the Codecon event network."
+  pt-BR: "Meetups locais recorrentes da Codecon em Florianópolis (edição #20) e Goiânia (edição #3), formato de encontro comunitário dentro da rede de eventos Codecon."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-09-28"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Florianópolis / Goiânia"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-27.6"
+  lng: "-48.55"
+  precision: "CITY"
+links:
+  website: "https://eventos.codecon.dev/"
+topics:
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://tally.so/r/mVJ0ea"
+  platform: "tally.so"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

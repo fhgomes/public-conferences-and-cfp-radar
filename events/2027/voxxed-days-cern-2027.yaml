@@ -1,0 +1,61 @@
+id: "c48ae2f2-eada-4463-9950-28485b9f7834"
+slug: "voxxed-days-cern-2027"
+name: "Voxxed Days CERN"
+edition: "2027"
+organizer:
+  en: "Voxxed Days CERN"
+  pt-BR: "Voxxed Days CERN"
+summary:
+  en: "Voxxed Days is the one-day event brand tied to Devoxx; the CERN (Genebra) edition brings the format inside the laboratory, with Java, AI, architecture and security tracks. Tied to the Voxxed Days Suíça franchise. Compact, one-day format, no pre-recorded talks."
+  pt-BR: "Voxxed Days é a marca de eventos de um dia ligada a Devoxx; a edição no CERN (Genebra) leva o formato para dentro do laboratório, com trilhas de Java, IA, arquitetura e segurança. Ligada a franquia Voxxed Days Suíça. Formato compacto, um dia, sem pré-gravados."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-05"
+  end: "2027-03-05"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Genebra"
+  countryCode: "CH"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "46.2"
+  lng: "6.15"
+  precision: "CITY"
+links:
+  website: "https://vdc27.voxxeddays.ch/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-10-23"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://vdcern27.cfp.dev"
+  platform: "vdcern27.cfp.dev"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

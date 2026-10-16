@@ -1,0 +1,40 @@
+id: "7342e08c-47d9-4f57-b90c-af271002aea5"
+slug: "aws-re-invent-2026"
+name: "AWS re:Invent 2026"
+organizer:
+  en: "AWS"
+  pt-BR: "AWS"
+summary:
+  en: "AWS re:Invent is AWS's annual global cloud computing conference, held in Las Vegas since 2012, with tens of thousands of attendees, hundreds of technical sessions, major keynotes and a strong presence of product launches. It is the largest event in the AWS ecosystem in the world."
+  pt-BR: "AWS re:Invent é a conferência anual global da AWS sobre cloud computing, realizada em Las Vegas desde 2012, com dezenas de milhares de participantes, centenas de sessões técnicas, keynotes de peso e forte presença de lancamentos de produto. E o maior evento do ecossistema AWS no mundo."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-30"
+  end: "2026-12-04"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Las Vegas, NV"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "36.17"
+  lng: "-115.14"
+  precision: "CITY"
+links:
+  website: "https://aws.amazon.com/events/reinvent/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

@@ -1,0 +1,60 @@
+id: "80ceda65-af3d-44ba-b940-8f4b0dcc3c62"
+slug: "dev2next-2026"
+name: "dev2next 2026"
+organizer:
+  en: "dev2next (Venkat Subramaniam)"
+  pt-BR: "dev2next (Venkat Subramaniam)"
+summary:
+  en: "dev2next is a mid-sized technical conference in Colorado Springs, created by Venkat Subramaniam, a well-known technical reference in the Java community. Multi-day in-person format with dense, advanced content on Java/JVM and software architecture."
+  pt-BR: "dev2next é uma conferência técnica de médio porte em Colorado Springs, criada por Venkat Subramaniam, referência técnica bem conhecida na comunidade Java. Formato presencial de vários dias com conteúdo denso e avançado sobre Java/JVM e arquitetura de software."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-12"
+  end: "2026-10-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Colorado Springs, CO"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "38.83"
+  lng: "-104.82"
+  precision: "CITY"
+links:
+  website: "https://dev2next.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2025-04-11"
+  timezone: "America/New_York"
+  closeTimeKnown: false
+  url: "https://www.dev2next.com/cfp"
+  platform: "dev2next.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

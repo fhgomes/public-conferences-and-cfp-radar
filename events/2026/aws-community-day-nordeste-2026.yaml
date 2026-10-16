@@ -1,0 +1,53 @@
+id: "0704c9f1-280c-483b-834d-4d04236a9fb4"
+slug: "aws-community-day-nordeste-2026"
+name: "AWS Community Day Nordeste 2026"
+organizer:
+  en: "AWS User Groups Nordeste"
+  pt-BR: "AWS User Groups Nordeste"
+summary:
+  en: "Regional edition of AWS Community Day in Salvador, a day of AWS cloud programming organized by the AWS User Groups Nordeste. Found only via the dev.events aggregator, with no confirmation on the official website."
+  pt-BR: "Edição regional do AWS Community Day em Salvador, um dia de programação sobre nuvem AWS organizado pelos User Groups AWS do Nordeste. Encontrado apenas via agregador dev.events, sem confirmação no site oficial."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-10"
+  end: "2026-10-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Salvador"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.98"
+  lng: "-38.49"
+  precision: "CITY"
+links:
+  website: "https://dev.events/conferences/aws-community-day-nordeste-aqfb9uju"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-09-01"
+  closesOn: "2026-09-14"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/aws-community-day-salvador/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

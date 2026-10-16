@@ -1,0 +1,35 @@
+id: "c3acf648-5787-4b14-8c02-7850f851a942"
+slug: "rio-innovation-week-2027"
+name: "Rio Innovation Week"
+edition: "2027"
+organizer:
+  en: "Rio Innovation Week"
+  pt-BR: "Rio Innovation Week"
+summary:
+  pt-BR: "Rio Innovation Week é o maior festival de inovação e tecnologia da América Latina em porte, realizado nos armazéns do Pier Mauá (Rio de Janeiro). A 6ª edição (2026) ocorreu em 04-07/08, reunindo 3.200 palestrantes de 22 países, ~2.000 startups, 60 conferências, ~40 palcos simultâneos e público estimado em 180 mil pessoas — formato de festival de inovação com palco executivo/geral, não uma conferência técnica de nicho."
+dates:
+  start: "2027-08-24"
+  end: "2027-08-27"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Pier Maua, Rio de Janeiro"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+links:
+  website: "https://www.rioinnovationweek.com.br/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "en"
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

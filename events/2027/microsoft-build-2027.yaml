@@ -1,0 +1,39 @@
+id: "6491990b-a6b2-4314-9cbb-6bbb78959668"
+slug: "microsoft-build-2027"
+name: "Microsoft Build 2027"
+organizer:
+  en: "Microsoft"
+  pt-BR: "Microsoft"
+summary:
+  en: "Microsoft Build is Microsoft's annual developer conference, held in Seattle, covering the entire Microsoft ecosystem (Azure, AI/Copilot, .NET, development tools). Large-scale hybrid format, with a free online option."
+  pt-BR: "Microsoft Build é a conferência anual de desenvolvedores da Microsoft, realizada em Seattle, cobrindo todo o ecossistema Microsoft (Azure, IA/Copilot, .NET, ferramentas de desenvolvimento). Formato híbrido de grande porte, com opção online gratuita."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-18"
+  end: "2027-05-20"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Seattle, WA"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "47.61"
+  lng: "-122.33"
+  precision: "CITY"
+links:
+  website: "https://build.microsoft.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

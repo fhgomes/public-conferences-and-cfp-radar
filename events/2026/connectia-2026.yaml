@@ -1,0 +1,49 @@
+id: "7c2ebaf6-b156-4502-abf5-621105235b1f"
+slug: "connectia-2026"
+name: "ConnectIA 2026"
+organizer:
+  en: "unknown"
+  pt-BR: "desconhecido"
+summary:
+  en: "ConnectIA is a free one-day event on artificial intelligence and data science in Montevidéu, held at the Auditório do LATU on 31/10/2026 (date confirmed on the official website connectia.uy). It features 30-minute talks + 10 minutes of questions about real AI cases in production, with no commercial content; it has had previous edition(s) according to the CFP history on Sessionize."
+  pt-BR: "ConnectIA é um evento gratuito de um dia sobre inteligência artificial e ciência de dados em Montevidéu, realizado no Auditório do LATU em 31/10/2026 (data confirmada no site oficial connectia.uy). Reúne palestras de 30 minutos + 10 de perguntas sobre casos reais de IA em produção, sem conteúdo comercial; já teve edição(oes) anterior(es) segundo o histórico do CFP no Sessionize."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2026-10-31"
+  end: "2026-10-31"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Montevidéu"
+  countryCode: "UY"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-34.9"
+  lng: "-56.19"
+  precision: "CITY"
+links:
+  website: "https://dev.events/conferences/connect-ia-2026-3mfnfk4x"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-08-12"
+  closesOn: "2026-09-20"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/connectia2026/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

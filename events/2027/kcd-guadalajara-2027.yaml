@@ -1,0 +1,44 @@
+id: "66518455-20da-4069-bb10-3a50433b87aa"
+slug: "kcd-guadalajara-2027"
+name: "KCD Guadalajara 2027"
+organizer:
+  en: "CNCF / KCD Guadalajara"
+  pt-BR: "CNCF / KCD Guadalajara"
+summary:
+  en: "KCD Guadalajara is the Mexican edition of the CNCF Kubernetes Community Days program, with a community of 446 members. The 2026 edition was on 18 Apr; the month of April is confirmed in the CNCF H1 2027 announcement, day estimated."
+  pt-BR: "KCD Guadalajara é a edição mexicana do programa CNCF de Kubernetes Community Days, com comunidade de 446 membros. A edição 2026 foi em 18/abr; o mês de abril está confirmado no anúncio CNCF H1 2027, dia estimado."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-17"
+  end: "2027-04-17"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Guadalajara"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "20.68"
+  lng: "-103.35"
+  precision: "CITY"
+links:
+  website: "https://community2.cncf.io/kcd-guadalajara/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2026-11-03"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

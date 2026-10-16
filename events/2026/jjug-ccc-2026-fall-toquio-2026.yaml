@@ -1,0 +1,59 @@
+id: "7a65b575-943d-463d-aafb-6e26314be0ed"
+slug: "jjug-ccc-2026-fall-toquio-2026"
+name: "JJUG CCC 2026 Fall (Tóquio)"
+organizer:
+  en: "Japan Java User Group (JJUG)"
+  pt-BR: "Japan Java User Group (JJUG)"
+summary:
+  en: "Biannual conference of the Japan Java User Group (JJUG), the largest Java community event in Japan, held in person in Tokyo; the Fall 2026 edition takes place at Bellesalle Shinjuku Grand, with a CFP via Sessionize accepting sessions in English."
+  pt-BR: "Conferência semestral do Japan Java User Group (JJUG), o maior evento de comunidade Java do Japão, presencial em Tóquio; a edição Fall 2026 é no Bellesalle Shinjuku Grand, com CFP via Sessionize aceitando sessões em inglês."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-28"
+  end: "2026-11-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Tokyo"
+  countryCode: "JP"
+  region: "OTHER"
+  modality: "IN_PERSON"
+geo:
+  lat: "35.69"
+  lng: "139.69"
+  precision: "CITY"
+links:
+  website: "https://jjug.doorkeeper.jp/"
+topics:
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-07-22"
+  closesOn: "2026-08-31"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jjug-ccc-2026-fall/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

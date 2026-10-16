@@ -1,0 +1,51 @@
+id: "832807b9-2e84-4092-98f5-1b6bb5dd9ccf"
+slug: "tdc-sao-paulo-2027"
+name: "TDC Sao Paulo"
+edition: "2027"
+organizer:
+  en: "Globalcode / TDC"
+  pt-BR: "Globalcode / TDC"
+summary:
+  en: "TDC São Paulo is the flagship, original edition of TDC (The Developers Conference, iMasters, since 2004 in SP), the largest developer event in Brazil, multi-day and multi-track (Java, architecture, IA, data, front-end, DevOps), held at Pro Magno."
+  pt-BR: "TDC São Paulo é a edição-mãe e principal do TDC (The Developers Conference, iMasters, desde 2004 em SP), o maior evento de desenvolvedores do Brasil, multi-dia e multi-trilha (Java, arquitetura, IA, dados, front-end, DevOps), realizado no Pro Magno."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-22"
+  end: "2027-09-24"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Sao Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://thedevconf.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "security"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  opensOn: "2027-04-27"
+  timezone: "America/Sao_Paulo"
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

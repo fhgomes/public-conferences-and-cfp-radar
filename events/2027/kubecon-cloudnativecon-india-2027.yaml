@@ -1,0 +1,42 @@
+id: "235ba4e4-5328-42b5-9717-9f0f87476ee5"
+slug: "kubecon-cloudnativecon-india-2027"
+name: "KubeCon + CloudNativeCon India 2027"
+organizer:
+  en: "CNCF / Linux Foundation"
+  pt-BR: "CNCF / Linux Foundation"
+summary:
+  en: "Indian edition of the KubeCon + CloudNativeCon franchise (CNCF/Linux Foundation); the 2026 edition took place on June 18-19 in Mumbai (CFP closed in February/2026); the 2027 edition is not yet on the Linux Foundation's official calendar according to this research."
+  pt-BR: "Edição indiana da franquia KubeCon + CloudNativeCon (CNCF/Linux Foundation); 2026 ocorreu em 18-19 de junho em Mumbai (CFP fechou em fevereiro/2026); a edição 2027 ainda não está no calendário oficial da Linux Foundation segundo esta pesquisa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-17"
+  end: "2027-06-18"
+  tba: false
+  status: "ESTIMATED"
+location:
+  countryCode: "IN"
+  region: "OTHER"
+  modality: "IN_PERSON"
+links:
+  website: "https://events.linuxfoundation.org/kubecon-cloudnativecon-india/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://events.linuxfoundation.org/kubecon-cloudnativecon-india/program/cfp/"
+  platform: "events.linuxfoundation.org"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

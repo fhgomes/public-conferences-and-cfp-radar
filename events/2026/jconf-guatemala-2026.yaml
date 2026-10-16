@@ -1,0 +1,49 @@
+id: "0e552202-7cf5-4fc2-9dee-f83aada22eec"
+slug: "jconf-guatemala-2026"
+name: "JConf Guatemala 2026"
+organizer:
+  en: "Guate-JUG (Guatemala Java User Group)"
+  pt-BR: "Guate-JUG (Guatemala Java User Group)"
+summary:
+  pt-BR: "JConf Guatemala é a conferência anual do Guate-JUG dedicada ao ecossistema Java/JVM, com 7 trilhas (Java Platform, Linguagens Alternativas, Server-side, Client-side, Embedded/IoT, Big Data, Tools/Arquitetura). Roda desde 2011 no Centro TICS do Intecap, com site bilíngue (EN/ES) e listagem oficial no dev.java da Oracle."
+dates:
+  start: "2026-11-07"
+  end: "2026-11-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade da Guatemala"
+  countryCode: "GT"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "14.64"
+  lng: "-90.51"
+  precision: "CITY"
+links:
+  website: "https://2026.jconf.gt/en/"
+topics:
+  - "architecture"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2026-09-28"
+  closesOn: "2026-09-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/jconf-2026-guatemala/"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:44Z"

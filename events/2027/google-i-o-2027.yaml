@@ -1,0 +1,40 @@
+id: "6a2ca3de-94b4-435f-9897-9fc075e4bebb"
+slug: "google-i-o-2027"
+name: "Google I/O 2027"
+organizer:
+  en: "Google"
+  pt-BR: "Google"
+summary:
+  en: "Google I/O is Google's annual developer conference, focused on product launches (Android, AI/Gemini, Web), held in Mountain View. Access is mostly by invitation/lottery, with free online streaming."
+  pt-BR: "Google I/O é a conferência anual de desenvolvedores do Google, focada em lancamentos de produto (Android, IA/Gemini, Web), realizada em Mountain View. Acesso é majoritariamente por convite/loteria, com transmissão online gratuita."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-11"
+  end: "2027-05-13"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Mountain View, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "37.39"
+  lng: "-122.08"
+  precision: "CITY"
+links:
+  website: "https://io.google/"
+topics:
+  - "ai-ml"
+  - "community"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

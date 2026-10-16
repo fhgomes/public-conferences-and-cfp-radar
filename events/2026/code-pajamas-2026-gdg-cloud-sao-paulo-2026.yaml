@@ -1,0 +1,40 @@
+id: "969a58d5-ca08-4127-af5e-7c5785fc72d2"
+slug: "code-pajamas-2026-gdg-cloud-sao-paulo-2026"
+name: "Code & Pajamas 2026 (GDG Cloud São Paulo)"
+organizer:
+  en: "GDG Cloud São Paulo"
+  pt-BR: "GDG Cloud São Paulo"
+summary:
+  en: "'Code & Pajamas' is a relaxed, themed meetup by GDG Cloud São Paulo, in an evening/casual format, smaller than the same chapter's DevFest."
+  pt-BR: "'Code & Pajamas' é um meetup temático e descontraído do GDG Cloud São Paulo, formato noturno/casual, menor que o DevFest do mesmo capítulo."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-17"
+  end: "2026-10-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-sao-paulo/"
+topics:
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"

@@ -1,0 +1,49 @@
+id: "a4eb6895-6074-4ada-8322-2194108368f2"
+slug: "kcd-panama-2027"
+name: "KCD Panamá 2027"
+organizer:
+  en: "CNCF / Cloud Native Community Group Panamá"
+  pt-BR: "CNCF / Cloud Native Community Group Panamá"
+summary:
+  en: "KCD Panamá is the Panamanian edition of the CNCF Kubernetes Community Days program. The CNCF H1 2027 calendar lists Panamá in January; the 2026 event page already shows 'Jan 22, 2027' in the header, suggesting the date was reused for 2027. No travel reimbursement for speakers."
+  pt-BR: "KCD Panamá é a edição panamenha do programa CNCF de Kubernetes Community Days. O calendário CNCF H1 2027 lista Panamá em janeiro; a página do evento 2026 já mostra 'Jan 22, 2027' no cabeçalho, sugerindo reaproveitamento de data para 2027. Sem reembolso de viagem para palestrantes."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-01-22"
+  end: "2027-04-22"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cidade do Panamá"
+  countryCode: "PA"
+  region: "LATAM"
+  modality: "IN_PERSON"
+links:
+  website: "https://community2.cncf.io/kcd-panama/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "es"
+cfp:
+  opensOn: "2027-01-03"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:48Z"

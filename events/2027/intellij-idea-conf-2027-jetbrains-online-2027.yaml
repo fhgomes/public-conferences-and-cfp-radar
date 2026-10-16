@@ -1,0 +1,38 @@
+id: "e8d0748d-ca27-4715-84f1-878aed01bcf4"
+slug: "intellij-idea-conf-2027-jetbrains-online-2027"
+name: "IntelliJ IDEA Conf 2027 (JetBrains, online)"
+organizer:
+  en: "JetBrains"
+  pt-BR: "JetBrains"
+summary:
+  en: "Free online conference by JetBrains about IntelliJ IDEA and the Java/Kotlin ecosystem, streamed live on YouTube; the 2026 edition took place on September 8-9, and the 2027 one is an estimate (same window of the year)."
+  pt-BR: "Conferência online e gratuita da JetBrains sobre IntelliJ IDEA e o ecossistema Java/Kotlin, transmitida ao vivo no YouTube; a edição 2026 ocorreu em 8-9 de setembro, a de 2027 é estimativa (mesma janela do ano)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-07"
+  end: "2027-09-08"
+  tba: false
+  status: "ESTIMATED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://lp.jetbrains.com/intellij-idea-conf-2026/"
+topics:
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

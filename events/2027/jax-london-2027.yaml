@@ -1,0 +1,38 @@
+id: "65e82a4a-3ea7-4e27-98d6-d4b0c1bf6464"
+slug: "jax-london-2027"
+name: "JAX London"
+edition: "2027"
+summary:
+  en: "JAX London is the British extension of the JAX brand (S&S Media), a traditional commercial enterprise Java conference in Londres, with more than a decade of history."
+  pt-BR: "JAX London é a extensão britânica da marca JAX (S&S Media), conferência Java enterprise comercial tradicional em Londres, com mais de uma década de história."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-01"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Londres"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "51.51"
+  lng: "-0.13"
+  precision: "CITY"
+topics:
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://jaxlondon.com/call-for-papers/"
+  platform: "jaxlondon.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

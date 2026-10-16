@@ -1,0 +1,46 @@
+id: "ceae9a6a-8482-4ad4-aa3b-2742545bc660"
+slug: "infoshare-2027"
+name: "Infoshare 2027"
+organizer:
+  en: "Infoshare"
+  pt-BR: "Infoshare"
+summary:
+  en: "Infoshare is one of the largest technology/business conferences in Poland and the Baltic region, held in Gdansk (AmberExpo), covering AI, career, fintech and general development -- a format closer to a business/startup conference than a purely technical one."
+  pt-BR: "Infoshare é uma das maiores conferências de tecnologia/negócios da Polônia e região báltica, realizada em Gdansk (AmberExpo), cobrindo IA, carreira, fintech e desenvolvimento geral -- formato mais próximo de conferência de negócios/startups do que de conferência técnica pura."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-19"
+  end: "2027-05-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Gdańsk (AmberExpo)"
+  countryCode: "PL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "54.35"
+  lng: "18.65"
+  precision: "CITY"
+links:
+  website: "https://infoshare.pl/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://infoshare.pl/conference/call-for-speakers/"
+  platform: "infoshare.pl"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

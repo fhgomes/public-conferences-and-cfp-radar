@@ -1,0 +1,70 @@
+id: "5358b09e-a34b-4ca8-9161-30f856abf075"
+slug: "confoo-montreal-2027"
+name: "ConFoo Montreal"
+edition: "2027"
+organizer:
+  en: "ConFoo / Yanick Rochon et al."
+  pt-BR: "ConFoo / Yanick Rochon et al."
+summary:
+  en: "ConFoo is a polyglot tech conference held in Montreal since 2009, covering multiple languages and stacks (not just Java) with tracks on architecture, AI, security and cloud. In-person, multi-day, bilingual (English/French) format."
+  pt-BR: "ConFoo é uma conferência poliglota de tecnologia realizada em Montreal desde 2009, cobrindo múltiplas linguagens e stacks (não só Java) com trilhas de arquitetura, IA, segurança e cloud. Formato presencial multi-dia, bilíngue (inglês/francês)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-02-24"
+  end: "2027-02-26"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Montreal"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "45.51"
+  lng: "-73.59"
+  precision: "CITY"
+links:
+  website: "https://confoo.ca/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "security"
+talkLanguages:
+  - "en"
+  - "fr"
+cfp:
+  closesOn: "2026-09-20"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://confoo.ca/en/2027/call-for-papers"
+  platform: "confoo.ca"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

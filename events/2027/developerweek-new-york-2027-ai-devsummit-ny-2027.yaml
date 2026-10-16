@@ -1,0 +1,46 @@
+id: "1978bb32-69cd-428a-9d8c-a2941cc2ceb5"
+slug: "developerweek-new-york-2027-ai-devsummit-ny-2027"
+name: "DeveloperWeek New York 2027 + AI DevSummit NY"
+organizer:
+  en: "DevNetwork"
+  pt-BR: "DevNetwork"
+summary:
+  en: "DeveloperWeek New York is the New York extension of DeveloperWeek, running alongside AI DevSummit NY under the DevNetwork umbrella, during the same period as other sister conferences in the network (API World, AI DevSummit SF)."
+  pt-BR: "DeveloperWeek New York é a extensão nova-iorquina da DeveloperWeek, rodando junto com o AI DevSummit NY sob o guarda-chuva DevNetwork, no mesmo período de outras conferências-irmãs da rede (API World, AI DevSummit SF)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-15"
+  end: "2027-06-17"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "New York, NY"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.71"
+  lng: "-74.01"
+  precision: "CITY"
+links:
+  website: "https://www.developerweek.com/newyork/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-29"
+  timezone: "America/Sao_Paulo"
+  url: "https://www.developerweek.com/newyork/speakers/apply-to-speak/"
+  platform: "developerweek.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

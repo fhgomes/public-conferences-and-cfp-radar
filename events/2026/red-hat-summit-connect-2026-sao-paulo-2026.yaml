@@ -1,0 +1,41 @@
+id: "32999dd9-281f-425d-9f84-ccbc88963a45"
+slug: "red-hat-summit-connect-2026-sao-paulo-2026"
+name: "Red Hat Summit: Connect 2026 São Paulo"
+organizer:
+  en: "Red Hat"
+  pt-BR: "Red Hat"
+summary:
+  en: "Red Hat Summit: Connect is the regional/roadshow version of Red Hat Summit (Red Hat's global event), with stops in several cities — the São Paulo edition takes place on 10/11/2026 (Tuesday, 08:00), a free institutional format with a strong presence of the Quarkus/Java enterprise community."
+  pt-BR: "Red Hat Summit: Connect é a versão regional/roadshow do Red Hat Summit (evento global da Red Hat), com paradas em várias cidades — a edição de São Paulo ocorre em 10/11/2026 (terça, 08:00), formato institucional gratuito com forte presença da comunidade Quarkus/Java enterprise."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-10"
+  end: "2026-11-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

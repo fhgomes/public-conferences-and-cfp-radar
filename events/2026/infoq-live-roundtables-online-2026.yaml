@@ -1,0 +1,43 @@
+id: "70dc5124-0bd2-4e84-911b-48c76bf7f321"
+slug: "infoq-live-roundtables-online-2026"
+name: "InfoQ Live (roundtables online)"
+organizer:
+  en: "InfoQ / C4Media"
+  pt-BR: "InfoQ / C4Media"
+summary:
+  pt-BR: "Série de roundtables/webinars pagos da InfoQ (C4Media), com sessões a cada 1-2 meses sobre arquitetura e IA em produção (ex.: 'Production Ops + AI' em set/2026); a renda é doada a ONGs. Não é uma edição única, mas programação contínua 2026-2027."
+dates:
+  start: "2026-11-10"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://live.infoq.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  timezone: "UTC"
+  url: "https://docs.google.com/forms/d/e/1FAIpQLSeagtEnnQhXve5TbubBrFgpxSMJa_wosPutqEdQOkNN9TAanQ/viewform"
+  platform: "docs.google.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

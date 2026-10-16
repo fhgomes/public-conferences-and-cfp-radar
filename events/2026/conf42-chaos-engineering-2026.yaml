@@ -1,0 +1,53 @@
+id: "19e0ce7c-3db1-4d18-865b-2084a12e00c5"
+slug: "conf42-chaos-engineering-2026"
+name: "Conf42 Chaos Engineering 2026"
+organizer:
+  en: "Conf42"
+  pt-BR: "Conf42"
+summary:
+  pt-BR: "Conf42 Chaos Engineering 2026 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical dedicada a chaos engineering e resiliência de sistemas."
+dates:
+  start: "2026-12-03"
+  end: "2026-12-03"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/chaos2026"
+topics:
+  - "architecture"
+  - "devops"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-02-01"
+  closesOn: "2026-11-18"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-ce-2026"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:34Z"

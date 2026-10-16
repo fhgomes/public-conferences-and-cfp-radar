@@ -1,0 +1,61 @@
+id: "4e2ac9e3-4d3e-490a-b010-1d14ff859f6c"
+slug: "platformcon-live-day-sao-paulo-2026"
+name: "PlatformCon Live Day São Paulo 2026"
+organizer:
+  en: "PlatformCon / Humanitec (LATAM debut)"
+  pt-BR: "PlatformCon / Humanitec (LATAM debut)"
+summary:
+  en: "PlatformCon is the world's largest platform engineering conference; 'Live Day São Paulo' (07/11/2026, Nubank Spark) is the debut of the PlatformCon World Tour in Latin America, after stops in Paris, London and New York. 25-minute talk format, focused on the intersection of platform engineering and AI (agentic AI, ML workloads, AI agents in production) and enterprise case studies."
+  pt-BR: "PlatformCon é a maior conferência mundial de platform engineering; o 'Live Day São Paulo' (07/11/2026, Nubank Spark) é a estreia da World Tour da PlatformCon na América Latina, após passagens por Paris, Londres e Nova York. Formato de talks de 25 minutos, com foco na interseção entre platform engineering e IA (IA agêntica, workloads de ML, agentes de IA em produção) e estudos de caso enterprise."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-07"
+  end: "2026-11-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://saopaulo.platformcon.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "pt"
+cfp:
+  opensOn: "2026-07-03"
+  closesOn: "2026-09-15"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/platformcon-live-sao-paulo/"
+  platform: "Sessionize"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:52Z"

@@ -1,0 +1,49 @@
+id: "a111e583-d3f2-4c72-81e0-471593e84832"
+slug: "tdc-porto-alegre-2027"
+name: "TDC Porto Alegre"
+edition: "2027"
+organizer:
+  en: "TDC X POA"
+  pt-BR: "TDC X POA"
+summary:
+  en: "TDC (The Developers Conference, iMasters, since 2004) is the largest circuit of developer events in Brazil; this is one of the regional editions, a multi-track format of one to two days with an open CFP."
+  pt-BR: "TDC (The Developers Conference, iMasters, desde 2004) é o maior circuito de eventos de devs do Brasil; esta é uma das edições regionais, formato multi-trilha de um a dois dias com CFP aberto."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-12-01"
+  end: "2027-12-09"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Porto Alegre"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-30.03"
+  lng: "-51.23"
+  precision: "CITY"
+links:
+  website: "https://tdcxpoa.com.br/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-08-10"
+  timezone: "America/Sao_Paulo"
+  url: "https://cfp-poa.thedevconf.com.br/"
+  platform: "cfp-poa.thedevconf.com.br"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:55Z"

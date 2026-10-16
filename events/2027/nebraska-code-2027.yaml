@@ -1,0 +1,45 @@
+id: "d39f119d-2426-461d-b218-b0ce980618fa"
+slug: "nebraska-code-2027"
+name: "Nebraska.Code() 2027"
+organizer:
+  en: "Amegala"
+  pt-BR: "Amegala"
+summary:
+  en: "Nebraska.Code() is a regional software development conference in Lincoln (Nebraska), founded in 2011 and organized by Amegala (which also organizes sister events in Indianapolis, Detroit and Des Moines). In-person multi-day format with hands-on workshops and 80+ sessions."
+  pt-BR: "Nebraska.Code() é uma conferência regional de desenvolvimento de software em Lincoln (Nebraska), fundada em 2011 e organizada pela Amegala (que também organiza eventos irmãos em Indianapolis, Detroit e Des Moines). Formato presencial multi-dia com workshops práticos e 80+ sessões."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-07-21"
+  end: "2027-07-23"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Lincoln, NE"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "40.8"
+  lng: "-96.67"
+  precision: "CITY"
+links:
+  website: "https://www.nebraska-code.com/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-10-01"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

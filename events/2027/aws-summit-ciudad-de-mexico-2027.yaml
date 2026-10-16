@@ -1,0 +1,41 @@
+id: "86d8659b-0008-4439-90ba-2959adc97c04"
+slug: "aws-summit-ciudad-de-mexico-2027"
+name: "AWS Summit Ciudad de México 2027"
+organizer:
+  en: "AWS"
+  pt-BR: "AWS"
+summary:
+  en: "AWS Summit is a free event organized directly by AWS, with corporate keynotes, technical tracks and an exhibitor floor, replicated in dozens of cities globally. The CDMX 2026 edition was on 12 Aug at Centro Banamex; 2027 is an estimate."
+  pt-BR: "AWS Summit é um evento gratuito organizado diretamente pela AWS, com keynotes corporativos, trilhas técnicas e piso de expositores, replicado em dezenas de cidades globalmente. A edição CDMX 2026 foi em 12/ago no Centro Banamex; 2027 é estimativa."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-11"
+  end: "2027-08-11"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Cidade do México"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "19.43"
+  lng: "-99.13"
+  precision: "CITY"
+links:
+  website: "https://aws.amazon.com/es/events/summits/mexico-city/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "en"
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

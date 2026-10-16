@@ -1,0 +1,41 @@
+id: "92f9fda7-db7e-478c-adff-0ea7acc3f7f1"
+slug: "lovable-meetup-devin-meetup-sao-paulo-mensais-oracle-sp-2026"
+name: "Lovable Meetup / Devin Meetup São Paulo (mensais, Oracle SP)"
+organizer:
+  en: "Comunidades Lovable / Cognition (Devin)"
+  pt-BR: "Comunidades Lovable / Cognition (Devin)"
+summary:
+  en: "Themed meetups at Oracle SP about AI coding tools (Lovable, an AI app builder; Devin, an AI software engineering agent), organized via cafebugado, tied to the recent wave of coding agents."
+  pt-BR: "Meetups temáticos no Oracle SP sobre ferramentas de IA para codificação (Lovable, app builder com IA; Devin, agente de engenharia de software com IA), organizados via cafebugado, ligados a onda recente de coding agents."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-26"
+  end: "2026-11-25"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://eventos.cafebugado.com.br/eventos"
+topics:
+  - "ai-ml"
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:49Z"

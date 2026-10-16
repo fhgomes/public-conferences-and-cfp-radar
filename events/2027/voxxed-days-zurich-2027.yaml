@@ -1,0 +1,66 @@
+id: "fda725f2-e4dd-4a81-aa58-4760f441c171"
+slug: "voxxed-days-zurich-2027"
+name: "Voxxed Days Zurich"
+edition: "2027"
+organizer:
+  en: "Voxxed Days Zürich / JUG Switzerland"
+  pt-BR: "Voxxed Days Zürich / JUG Switzerland"
+summary:
+  en: "Voxxed Days Zurich is the one-day event of the Swiss Java community, linked to JUG Switzerland, with a strong presence of the financial sector (Zurich banks/insurers) in the Java, AI, cloud, architecture and fintech tracks."
+  pt-BR: "Voxxed Days Zurich é o evento de um dia da comunidade Java suíça, ligado a JUG Switzerland, com forte presença do setor financeiro (bancos/seguradoras de Zurique) nas trilhas de Java, IA, cloud, arquitetura e fintech."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-03-09"
+  end: "2027-03-09"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Zurique"
+  countryCode: "CH"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "47.37"
+  lng: "8.55"
+  precision: "CITY"
+links:
+  website: "https://vdz27.voxxeddays.ch/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "cloud"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-10-23"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://vdz27.cfp.dev"
+  platform: "vdz27.cfp.dev"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "confs-tech"
+    name: "confs.tech"
+    url: "https://confs.tech"
+    licence: "MIT"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

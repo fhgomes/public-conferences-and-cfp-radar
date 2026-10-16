@@ -1,0 +1,59 @@
+id: "b7f2b89e-bf68-453e-9042-c4149e026ac8"
+slug: "baselone-2026"
+name: "BaselOne 2026"
+organizer:
+  en: "BaselOne (comunidade)"
+  pt-BR: "BaselOne (comunidade)"
+summary:
+  en: "Same BaselOne conference (non-profit community from Basileia), confirmed for 14-15/10/2026 at Markthalle Basel. It became a two-day event (previously one day) with a separate workshop day; 2026 keynote on 'sustainable vibe-coding', a topic that strongly resonates with Fernando's focus on vibe-coding/Spec-Driven Dev."
+  pt-BR: "Mesma conferência BaselOne (comunidade de Basileia, sem fins lucrativos), confirmada para 14-15/10/2026 no Markthalle Basel. Virou evento de dois dias (antes um dia) com dia de workshop separado; keynote 2026 sobre 'vibe-coding sustentável', tema com forte ressonância no eixo de vibe-coding/Spec-Driven Dev do Fernando."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-14"
+  end: "2026-10-15"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Basileia"
+  countryCode: "CH"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "47.56"
+  lng: "7.57"
+  precision: "CITY"
+links:
+  website: "https://baselone.org/"
+topics:
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "de"
+  - "en"
+cfp:
+  closesOn: "2026-04-30"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/baselone-2026"
+  platform: "Sessionize"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:31Z"

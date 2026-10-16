@@ -1,0 +1,46 @@
+id: "0a019edd-28ba-40c3-87de-58fff461b812"
+slug: "hacktown-2027"
+name: "HackTown 2027"
+organizer:
+  en: "HackTown"
+  pt-BR: "HackTown"
+summary:
+  en: "HackTown is a Brazilian festival of technology, innovation, creativity and business held in Santa Rita do Sapucaí (MG), the 'Vale da Eletrônica' of Minas Gerais. The 2026 edition (03-07/09) celebrated 10 years of the festival, bringing together ~15 thousand participants, 500 companies and 100 startups, with executives from Nvidia, Google, Meta, AWS, Microsoft and IBM, across 21 content tracks; the 2027 edition has not yet been announced."
+  pt-BR: "HackTown é um festival brasileiro de tecnologia, inovação, criatividade e negócios realizado em Santa Rita do Sapucaí (MG), o 'Vale da Eletrônica' mineiro. A edição 2026 (03-07/09) celebrou 10 anos do festival, reunindo ~15 mil participantes, 500 empresas e 100 startups, com executivos de Nvidia, Google, Meta, AWS, Microsoft e IBM, em 21 trilhas de conteúdo; a de 2027 ainda não foi anunciada."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-02"
+  end: "2027-09-06"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Santa Rita do Sapucaí"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.25"
+  lng: "-45.7"
+  precision: "CITY"
+links:
+  website: "https://hacktown.com.br/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://hacktown.com.br/speakersht/"
+  platform: "hacktown.com.br"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

@@ -1,0 +1,56 @@
+id: "5be6005a-15c0-401a-9e84-37caaaebdf6c"
+slug: "open-source-summit-north-america-2027"
+name: "Open Source Summit North America 2027"
+organizer:
+  en: "Linux Foundation"
+  pt-BR: "Linux Foundation"
+summary:
+  en: "Open Source Summit North America is KubeCon's sister event organized by the Linux Foundation, covering open source broadly (not just cloud native): security, AI, infrastructure, project governance."
+  pt-BR: "Open Source Summit North América e o evento-irmão do KubeCon organizado pela Linux Foundation, cobrindo open source de forma ampla (não só cloud native): segurança, IA, infraestrutura, governança de projetos."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-05-17"
+  end: "2027-05-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Vancouver, BC"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "49.25"
+  lng: "-123.12"
+  precision: "CITY"
+links:
+  website: "https://events.linuxfoundation.org/open-source-summit-north-america/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "security"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-02-09"
+  timezone: "America/New_York"
+  closeTimeKnown: false
+  url: "https://sessionize.com/open-source-summit-north-america-2026/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:52Z"

@@ -1,0 +1,47 @@
+id: "f08e237e-3273-4953-851f-97f6174e65da"
+slug: "ai-summit-money-2026-ia-no-mercado-financeiro-2026"
+name: "AI Summit Money 2026 (IA no mercado financeiro)"
+organizer:
+  en: "Instituto Valor + AINEWS"
+  pt-BR: "Instituto Valor + AINEWS"
+summary:
+  en: "Themed edition of the AI Summit (Instituto Valor) focused on AI in the financial market, with the same executive/C-level approach as AI Summit Brasil, but centered on FinTech and financial services."
+  pt-BR: "Edição temática do AI Summit (Instituto Valor) focada em IA no mercado financeiro, mesma linha executiva/C-level do AI Summit Brasil, mas com recorte em FinTech e serviços financeiros."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-28"
+  end: "2026-10-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://aisummit.ia.br/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "pt"
+cfp:
+  timezone: "UTC"
+  url: "https://aisummit.ia.br/palestrantes"
+  platform: "aisummit.ia.br"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:30Z"

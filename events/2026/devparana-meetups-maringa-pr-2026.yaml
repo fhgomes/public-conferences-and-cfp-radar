@@ -1,0 +1,40 @@
+id: "ba777860-d738-45c0-936b-738d5bf6d579"
+slug: "devparana-meetups-maringa-pr-2026"
+name: "DevParaná — meetups (Maringá/PR)"
+organizer:
+  en: "DevParaná"
+  pt-BR: "DevParaná"
+summary:
+  en: "DevParaná is the developer community of the state of Paraná (also the organizer of DevPR Conf), with regular meetups in Maringá and the surrounding region, without a fully consolidated public calendar; active since the mid-2010s, with a presence on GitHub and social media."
+  pt-BR: "DevParaná é a comunidade de desenvolvedores do estado do Paraná (também organizadora da DevPR Conf), com encontros/meetups regulares em Maringá e região, sem calendário público totalmente consolidado; ativa desde meados dos anos 2010, com presença no GitHub e redes sociais."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-01"
+  end: "2027-09-30"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Maringá"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+geo:
+  lat: "-23.43"
+  lng: "-51.94"
+  precision: "CITY"
+links:
+  website: "https://devpr.org/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:39Z"

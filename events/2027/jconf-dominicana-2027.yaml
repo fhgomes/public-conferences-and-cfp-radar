@@ -1,0 +1,43 @@
+id: "181b84ff-4a78-4627-abc3-2819d067c11d"
+slug: "jconf-dominicana-2027"
+name: "JConf Dominicana 2027"
+organizer:
+  en: "Dominican Republic JUG (JavaDominicano)"
+  pt-BR: "Dominican Republic JUG (JavaDominicano)"
+summary:
+  pt-BR: "JConf Dominicana é a conferência do JUG dominicano (JavaDominicano), com 1,5 dia de programação, workshops e um meetup JakartaOne na véspera. A edição 2026 foi 17-18/jul na PUCMM (Santiago dos Cavaleiros); ainda não há edição 2027 anunciada — as datas do painel são estimativa."
+dates:
+  start: "2027-07-16"
+  end: "2027-07-17"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Santiago de los Caballeros (ou Santo Domingo)"
+  countryCode: "DO"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "19.45"
+  lng: "-70.69"
+  precision: "CITY"
+links:
+  website: "https://jconfdominicana.org/"
+topics:
+  - "cloud"
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-01-15"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

@@ -1,0 +1,46 @@
+id: "f1eb2ed9-1104-4d6b-ba86-3e3c65bee220"
+slug: "devopsdays-buenos-aires-2027"
+name: "DevOpsDays Buenos Aires 2027"
+organizer:
+  en: "DevOpsDays BA"
+  pt-BR: "DevOpsDays BA"
+summary:
+  en: "Buenos Aires edition of the DevOpsDays series -- same global community format (single track + Open Space). The official website (devopsdaysba.com) still shows the 2026 edition at the time of research; the 2027 date (08-09/abr) is not confirmed on the official page."
+  pt-BR: "Edição de Buenos Aires da série DevOpsDays -- mesmo formato comunitário global (trilha única + Open Space). O site oficial (devopsdaysba.com) ainda mostra a edição 2026 no momento da pesquisa; a data de 2027 (08-09/abr) não está confirmada na página oficial."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-09"
+  end: "2027-04-09"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Buenos Aires"
+  countryCode: "AR"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-34.61"
+  lng: "-58.38"
+  precision: "CITY"
+links:
+  website: "https://devopsdaysba.com"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2026-10-01"
+  timezone: "America/Sao_Paulo"
+  url: "https://devopsdaysba.com/#/cfp"
+  platform: "devopsdaysba.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

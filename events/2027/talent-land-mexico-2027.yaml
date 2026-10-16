@@ -1,0 +1,37 @@
+id: "b9657f37-91f0-4e72-8682-b44caec84495"
+slug: "talent-land-mexico-2027"
+name: "Talent Land México 2027"
+organizer:
+  en: "Talent Network"
+  pt-BR: "Talent Network"
+summary:
+  pt-BR: "Talent Land é o maior evento de inovação e tecnologia do México, criado em 2018 pela Talent Network (mesma organização por trás da antiga Campus Party México) como sucessor da Campus Party. Dura 5 dias, com 14 palcos temáticos e ~1.500h de conteúdo, reunindo dezenas de milhares de pessoas. A partir de 2026 deixa Guadalajara/Jalisco (sede desde 2018) e passa a ser na Cidade do México."
+dates:
+  start: "2027-04-27"
+  end: "2027-04-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Cidade do México"
+  countryCode: "MX"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "19.43"
+  lng: "-99.13"
+  precision: "CITY"
+links:
+  website: "https://2026.talent-land.mx/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "es"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

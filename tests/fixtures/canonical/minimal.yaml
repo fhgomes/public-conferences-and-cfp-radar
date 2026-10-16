@@ -1,0 +1,19 @@
+id: "5a0d9a4e-7f43-4c1b-8a55-0c2d3e4f5a6b"
+slug: "tba-meetup-x"
+name: "TBA Meetup X"
+dates:
+  tba: true
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://example.org/x"
+verification:
+  status: "human_verified"
+  checkedAt: "2026-10-13T09:00:00Z"
+  by: "curator"
+sources:
+  - code: "cfp-radar"
+    name: "cfp-radar"
+    licence: "CC-BY-4.0"
+    role: "origin"

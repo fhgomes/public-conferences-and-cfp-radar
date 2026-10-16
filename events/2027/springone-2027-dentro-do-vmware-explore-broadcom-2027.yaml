@@ -1,0 +1,44 @@
+id: "8f32660b-fbda-4853-8661-2fb5d5b19da8"
+slug: "springone-2027-dentro-do-vmware-explore-broadcom-2027"
+name: "SpringOne 2027 (dentro do VMware Explore, Broadcom)"
+organizer:
+  en: "Broadcom (Tanzu / Spring)"
+  pt-BR: "Broadcom (Tanzu / Spring)"
+summary:
+  pt-BR: "SpringOne é a conferência de Spring/Tanzu da Broadcom (ex-VMware/Pivotal), hoje realizada como track dentro do VMware Explore. Formato presencial de vários dias com sessões técnicas, workshops e keynotes de produto dentro do mega-evento de infraestrutura da Broadcom. Existe desde a era Pivotal (SpringOne Platform) e migrou para dentro do VMware Explore por volta de 2022."
+dates:
+  start: "2027-05-03"
+  end: "2027-05-06"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Las Vegas, NV"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "36.17"
+  lng: "-115.14"
+  precision: "CITY"
+links:
+  website: "https://www.vmware.com/explore/us/springone"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-11-03"
+  timezone: "UTC"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

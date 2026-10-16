@@ -1,0 +1,47 @@
+id: "f39e0e63-843f-43c6-8b0e-b88be5b45d98"
+slug: "tdc-stage-hacktown-2027"
+name: "TDC Stage @ HackTown 2027"
+organizer:
+  en: "Globalcode / TDC + HackTown"
+  pt-BR: "Globalcode / TDC + HackTown"
+summary:
+  en: "TDC Stage is a TDC track/stage co-located within HackTown, a large innovation and technology festival in Santa Rita do Sapucaí ('Vale da Eletrônica'), bringing together tens of thousands of people over several days."
+  pt-BR: "TDC Stage é uma trilha/palco do TDC co-localizado dentro do HackTown, grande festival de inovação e tecnologia em Santa Rita do Sapucaí ('Vale da Eletrônica'), que reúne dezenas de milhares de pessoas em vários dias."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-02"
+  end: "2027-09-06"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Santa Rita do Sapucaí"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.25"
+  lng: "-45.7"
+  precision: "CITY"
+links:
+  website: "https://thedevconf.com/"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2027-05-11"
+  timezone: "America/Sao_Paulo"
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:57Z"

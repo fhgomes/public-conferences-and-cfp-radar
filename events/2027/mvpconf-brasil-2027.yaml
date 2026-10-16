@@ -1,0 +1,39 @@
+id: "0738f9c9-583e-44ff-967a-313d6169d9c3"
+slug: "mvpconf-brasil-2027"
+name: "MVPConf Brasil 2027"
+organizer:
+  en: "MVP Conference (volunteer MVPs: André Ruschel, Heber Lopes, João Benito)"
+  pt-BR: "MVP Conference (voluntários MVPs: André Ruschel, Heber Lopes, João Benito)"
+summary:
+  pt-BR: "MVP Conf é o maior encontro da comunidade Microsoft MVP (Most Valuable Professional) da América Latina, organizado por voluntários MVPs. A edição 2026 (25-27/09, UNIP Vergueiro) teve 'Executive Day' (25/09, liderança/IA/Cyber/Quantum/negócios), 'Tech Day' e 'Hands-on Labs'; toda a renda é revertida a ONGs. A de 2027 ainda não tem data oficial (estimativa: set/out de 2027)."
+machineTranslated:
+  - "organizer.en"
+dates:
+  start: "2027-09-24"
+  end: "2027-09-26"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://mvpconf.com.br/"
+topics:
+  - "ai-ml"
+  - "cloud"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

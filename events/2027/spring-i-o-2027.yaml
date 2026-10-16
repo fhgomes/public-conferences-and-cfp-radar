@@ -1,0 +1,52 @@
+id: "0bf70461-5e14-4b5a-9bae-0c34afd71a2a"
+slug: "spring-i-o-2027"
+name: "Spring I/O"
+edition: "2027"
+organizer:
+  en: "Sergi Almar / Spring I/O"
+  pt-BR: "Sergi Almar / Spring I/O"
+summary:
+  en: "2027 edition of Spring I/O in Barcelona, same proposal as the previous edition (Spring/Java, 3-day in-person format). Exact date not yet published; historical pattern is late April/May."
+  pt-BR: "Edição 2027 do Spring I/O em Barcelona, mesma proposta da edição anterior (Spring/Java, formato presencial de 3 dias). Data exata ainda não publicada; padrão histórico e final de abril/maio."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-28"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Barcelona"
+  countryCode: "ES"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "41.39"
+  lng: "2.16"
+  precision: "CITY"
+links:
+  website: "https://springio.net/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-10-07"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

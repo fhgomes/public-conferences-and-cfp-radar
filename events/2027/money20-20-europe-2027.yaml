@@ -1,0 +1,42 @@
+id: "4077dcad-9579-4214-b65a-b2412b26f7ee"
+slug: "money20-20-europe-2027"
+name: "Money20/20 Europe"
+edition: "2027"
+organizer:
+  en: "Money20/20 (Ascential)"
+  pt-BR: "Money20/20 (Ascential)"
+summary:
+  en: "Money20/20 Europe is the continent's largest FinTech trade show, bringing together banks, payments, regulators and startups. In-person format over 3 days, with an executive stage, a giant showfloor and mostly business-focused content."
+  pt-BR: "Money20/20 Europe é a maior feira de FinTech do continente, reunindo bancos, pagamentos, reguladores e startups. Formato presencial de 3 dias, com palco executivo, showfloor gigante e conteúdo majoritariamente de negócios."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-06-08"
+  end: "2027-06-10"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Amsterda"
+  countryCode: "NL"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "52.37"
+  lng: "4.89"
+  precision: "CITY"
+links:
+  website: "https://europe.money2020.com/"
+talkLanguages:
+  - "en"
+cfp:
+  timezone: "America/Sao_Paulo"
+  url: "https://europe.money2020.com/agenda/call-for-content"
+  platform: "europe.money2020.com"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:51Z"

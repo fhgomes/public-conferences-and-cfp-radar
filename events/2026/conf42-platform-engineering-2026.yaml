@@ -1,0 +1,56 @@
+id: "06c0535d-ac66-49fa-95d6-f695efe65efe"
+slug: "conf42-platform-engineering-2026"
+name: "Conf42 Platform Engineering 2026"
+organizer:
+  en: "Conf42"
+  pt-BR: "Conf42"
+summary:
+  en: "Conf42 Platform Engineering 2026 is one of the themed verticals of the Conf42 series: a 100% online, free conference with pre-recorded talks that premiere on YouTube at a scheduled time (usually 17h GMT) and remain available on demand. A vertical dedicated to platform engineering and developer experience."
+  pt-BR: "Conf42 Platform Engineering 2026 é uma das verticais temáticas da série Conf42: conferência 100% online e gratuita, com talks pré-gravadas que estreiam no YouTube num horário marcado (geralmente 17h GMT) e ficam disponíveis sob demanda. Vertical dedicada a platform engineering e developer experience."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-05"
+  end: "2026-11-05"
+  tba: false
+  status: "CONFIRMED"
+location:
+  region: "ONLINE"
+  modality: "ONLINE"
+links:
+  website: "https://www.conf42.com/platform2026"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+remoteSpeaking:
+  value: "YES"
+  mode: "LIVE"
+  basis: "ONLINE_EVENT"
+cfp:
+  opensOn: "2026-01-31"
+  closesOn: "2026-10-21"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://cfp.ninja/e/conf42-platform-2026"
+  platform: "cfp.ninja"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:34Z"

@@ -1,0 +1,44 @@
+id: "451ab16a-c217-43e4-a4cf-1cbbf01d7525"
+slug: "devopsdays-lima-2027"
+name: "DevOpsDays Lima 2027"
+organizer:
+  en: "DevOpsDays Lima"
+  pt-BR: "DevOpsDays Lima"
+summary:
+  en: "Lima edition of the DevOpsDays series -- same global community format (single track + Open Space). The 2027 date and CFP are estimated; the provided CFP link still points to the 2026 edition slug, so it needs to be reconfirmed when the 2027 page is published."
+  pt-BR: "Edição de Lima da série DevOpsDays -- mesmo formato comunitário global (trilha única + Open Space). Data e CFP de 2027 são estimados; o link de CFP fornecido ainda aponta para o slug da edição 2026, então precisa reconfirmar quando a página de 2027 for publicada."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-08-26"
+  end: "2027-08-27"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Lima"
+  countryCode: "PE"
+  region: "LATAM"
+  modality: "IN_PERSON"
+geo:
+  lat: "-12.04"
+  lng: "-77.03"
+  precision: "CITY"
+links:
+  website: "https://devopsdays.pe/"
+topics:
+  - "cloud"
+  - "devops"
+talkLanguages:
+  - "en"
+  - "es"
+cfp:
+  opensOn: "2027-03-06"
+  timezone: "America/Sao_Paulo"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:38Z"

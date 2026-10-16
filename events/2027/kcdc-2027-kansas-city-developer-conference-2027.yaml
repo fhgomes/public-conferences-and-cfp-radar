@@ -1,0 +1,47 @@
+id: "9b9a6dc7-9fe6-4783-bb8e-bce58f751e8a"
+slug: "kcdc-2027-kansas-city-developer-conference-2027"
+name: "KCDC 2027 (Kansas City Developer Conference)"
+organizer:
+  en: "KCDC (community non-profit)"
+  pt-BR: "KCDC (organização comunitária sem fins lucrativos)"
+summary:
+  en: "KCDC (Kansas City Developer Conference) is one of the largest community-driven tech conferences in the US, in its 18th edition in 2026, with workshops, multiple tracks and hundreds of submissions (1,650+ from 450+ speakers from 30+ countries in 2026). It covers software development, architecture and agile management, including Java content (e.g. Virtual Threads)."
+  pt-BR: "KCDC (Kansas City Developer Conference) é uma das maiores conferências de tecnologia guiadas pela comunidade nos EUA, na sua 18a edição em 2026, com workshops, trilhas múltiplas e centenas de submissões (1.650+ de 450+ palestrantes de 30+ países em 2026). Cobre desenvolvimento de software, arquitetura e gestão ágil, incluindo conteúdo Java (ex. Virtual Threads)."
+machineTranslated:
+  - "organizer.pt-BR"
+  - "summary.en"
+dates:
+  start: "2027-08-04"
+  end: "2027-08-07"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Kansas City, MO"
+  countryCode: "US"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "39.1"
+  lng: "-94.58"
+  precision: "CITY"
+links:
+  website: "https://www.kcdc.info/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-01-15"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    ticket: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:48Z"

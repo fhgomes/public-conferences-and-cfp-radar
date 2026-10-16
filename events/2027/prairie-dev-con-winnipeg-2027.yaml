@@ -1,0 +1,46 @@
+id: "71cae7c9-acfb-469f-b531-5574ffba6bd2"
+slug: "prairie-dev-con-winnipeg-2027"
+name: "Prairie Dev Con Winnipeg 2027"
+organizer:
+  en: "Prairie Dev Con (D'Arcy Lussier)"
+  pt-BR: "Prairie Dev Con (D'Arcy Lussier)"
+summary:
+  en: "Prairie Dev Con is the leading software development conference in Canada's prairie provinces, founded by D'Arcy Lussier in 2010 (first edition in Regina), focused on delivering quality content without the travel costs of the big centers. In-person format over 2 days, growing to 6 parallel rooms in the 2026 edition."
+  pt-BR: "Prairie Dev Con é a principal conferência de desenvolvimento de software das províncias pradeiras do Canadá, fundada por D'Arcy Lussier em 2010 (primeira edição em Regina), com foco em oferecer conteúdo de qualidade sem os custos de viagem dos grandes centros. Formato presencial de 2 dias, crescendo para 6 salas paralelas na edição de 2026."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-09-20"
+  end: "2027-09-21"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Winnipeg, MB"
+  countryCode: "CA"
+  region: "NA"
+  modality: "IN_PERSON"
+geo:
+  lat: "49.88"
+  lng: "-97.15"
+  precision: "CITY"
+links:
+  website: "https://www.prairiedevcon.com/"
+topics:
+  - "ai-ml"
+  - "architecture"
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2027-02-27"
+  timezone: "America/Sao_Paulo"
+  benefits:
+    hotel: "YES"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:54Z"

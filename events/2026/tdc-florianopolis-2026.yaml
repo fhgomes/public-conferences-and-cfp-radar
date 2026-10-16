@@ -1,0 +1,44 @@
+id: "30fd163e-8346-489c-bd9e-159a020ded65"
+slug: "tdc-florianopolis-2026"
+name: "TDC Florianopolis"
+edition: "2026"
+summary:
+  en: "TDC (The Developers Conference, iMasters, since 2004) is the largest circuit of developer events in Brazil; this is one of the regional editions, a multi-track format of one to two days with an open CFP."
+  pt-BR: "TDC (The Developers Conference, iMasters, desde 2004) é o maior circuito de eventos de devs do Brasil; esta é uma das edições regionais, formato multi-trilha de um a dois dias com CFP aberto."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-07-22"
+  end: "2026-07-24"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Florianopolis"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-27.6"
+  lng: "-48.55"
+  precision: "CITY"
+topics:
+  - "java"
+talkLanguages:
+  - "pt"
+cfp:
+  opensOn: "2026-02-12"
+  closesOn: "2026-04-12"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://thedevconf.com/call4papers"
+  platform: "thedevconf.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:55Z"

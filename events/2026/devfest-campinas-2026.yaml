@@ -1,0 +1,41 @@
+id: "d0f906a2-7bf9-419b-9bf0-e24403a0dce7"
+slug: "devfest-campinas-2026"
+name: "DevFest Campinas 2026"
+organizer:
+  en: "GDG Campinas"
+  pt-BR: "GDG Campinas"
+summary:
+  en: "DevFest is the annual flagship event of GDGs (Google Developer Groups) around the world; the local edition is organized by volunteers from the city's GDG chapter, in a one-day format with multiple tracks (cloud, AI, web, mobile, Android)."
+  pt-BR: "DevFest é o evento anual-flagship dos GDGs (Google Developer Groups) ao redor do mundo; a edição local é organizada por voluntários do capítulo GDG da cidade, formato de um dia com múltiplas trilhas (cloud, IA, web, mobile, Android)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-11-28"
+  end: "2026-11-28"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Campinas"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-22.91"
+  lng: "-47.06"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-campinas/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

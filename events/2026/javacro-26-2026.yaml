@@ -1,0 +1,65 @@
+id: "ebc15b62-e6ae-49a0-a9ef-ba714d103633"
+slug: "javacro-26-2026"
+name: "JavaCro'26"
+organizer:
+  en: "HUJAK (Croatian JUG)"
+  pt-BR: "HUJAK (Croatian JUG)"
+summary:
+  en: "JavaCro is Croatia's traditional Java conference, organized by HUJAK (Croatian JUG) in Rovinj, with a dedicated 'AI & Java' track and sessions preferably in English."
+  pt-BR: "JavaCro é a conferência Java tradicional da Croácia, organizada pela HUJAK (JUG croata) em Rovinj, com trilha dedicada a 'AI & Java' e sessões preferencialmente em inglês."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-11"
+  end: "2026-10-14"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Rovinj"
+  countryCode: "HR"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "45.08"
+  lng: "13.63"
+  precision: "CITY"
+links:
+  website: "https://2026.javacro.hr/eng/"
+topics:
+  - "community"
+  - "java"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-03-01"
+  closesOn: "2026-06-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/javacro26/"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "official_source_checked"
+    checkedAt: "2026-10-15T19:15:08Z"
+    by: "official-page-check"
+verification:
+  status: "official_source_checked"
+  checkedAt: "2026-10-15T19:15:08Z"
+  by: "official-page-check"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:42Z"

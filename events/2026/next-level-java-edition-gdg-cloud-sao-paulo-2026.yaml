@@ -1,0 +1,42 @@
+id: "e972f5cc-2976-4049-a19a-7faf7b00a63e"
+slug: "next-level-java-edition-gdg-cloud-sao-paulo-2026"
+name: "Next Level: Java Edition (GDG Cloud São Paulo)"
+organizer:
+  en: "GDG Cloud São Paulo"
+  pt-BR: "GDG Cloud São Paulo"
+summary:
+  en: "'Next Level: Java Edition' is a themed edition of GDG Cloud São Paulo dedicated specifically to Java, within the chapter's regular meetup schedule."
+  pt-BR: "'Next Level: Java Edition' é uma edição temática do GDG Cloud São Paulo dedicada especificamente a Java, dentro da agenda regular de meetups do capítulo."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-20"
+  end: "2026-10-20"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "São Paulo"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-23.55"
+  lng: "-46.64"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-cloud-sao-paulo/"
+topics:
+  - "architecture"
+  - "career"
+  - "community"
+  - "java"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:40Z"

@@ -1,0 +1,57 @@
+id: "46d88e5e-462a-45b0-aad5-4f5512b95141"
+slug: "github-universe-2026"
+name: "GitHub Universe 2026"
+organizer:
+  en: "GitHub (Microsoft)"
+  pt-BR: "GitHub (Microsoft)"
+summary:
+  en: "GitHub Universe is the annual conference of GitHub (Microsoft), held in San Francisco, with a strong focus on AI applied to development (Copilot) and product launches. Hybrid format: a main day by invitation/curation plus an open learning day, with a free virtual option."
+  pt-BR: "GitHub Universe é a conferência anual do GitHub (Microsoft), realizada em San Francisco, com forte foco em IA aplicada ao desenvolvimento (Copilot) e lancamentos de produto. Formato híbrido: dia principal por convite/curadoria mais dia aberto de aprendizado, com opção virtual gratuita."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-10-28"
+  end: "2026-10-29"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "San Francisco, CA"
+  countryCode: "US"
+  region: "NA"
+  modality: "HYBRID"
+geo:
+  lat: "37.77"
+  lng: "-122.42"
+  precision: "CITY"
+links:
+  website: "https://githubuniverse.com/"
+topics:
+  - "ai-ml"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-04-08"
+  closesOn: "2026-05-01"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://reg.githubuniverse.com/flow/github/universe26/cfs/page/cfs-landing"
+  platform: "reg.githubuniverse.com"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:41Z"

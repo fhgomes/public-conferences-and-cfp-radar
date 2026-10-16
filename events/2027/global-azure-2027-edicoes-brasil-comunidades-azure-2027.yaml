@@ -1,0 +1,36 @@
+id: "db1c126b-fdb9-45de-8f41-1d2ecabc2052"
+slug: "global-azure-2027-edicoes-brasil-comunidades-azure-2027"
+name: "Global Azure 2027 — edições Brasil (comunidades Azure)"
+organizer:
+  en: "Comunidades Azure BR (Global Azure)"
+  pt-BR: "Comunidades Azure BR (Global Azure)"
+summary:
+  en: "Global Azure is a worldwide community event with simultaneous local editions, organized in Brazil by groups such as .NET São Paulo, Azure na Prática, Azure Talks and DevOps Professionals, in partnership with Microsoft Reactor; free, focused on Azure/Microsoft cloud."
+  pt-BR: "Global Azure é um evento comunitário mundial com edições locais simultâneas, no Brasil organizado por grupos como .NET São Paulo, Azure na Prática, Azure Talks e DevOps Professionals, em parceria com o Microsoft Reactor; gratuito, focado em Azure/cloud Microsoft."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-04-17"
+  end: "2027-04-17"
+  tba: false
+  status: "ESTIMATED"
+location:
+  cityStatus: "MULTIPLE"
+  countryCode: "BR"
+  region: "BR"
+  modality: "HYBRID"
+links:
+  website: "https://globalazure.net/"
+topics:
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

@@ -1,0 +1,53 @@
+id: "b34bd95a-e277-4eca-8278-c1b16e420ca5"
+slug: "devfest-brasilia-2026"
+name: "DevFest Brasília 2026"
+organizer:
+  en: "GDG Brasília"
+  pt-BR: "GDG Brasília"
+summary:
+  en: "DevFest is the annual flagship event of GDGs (Google Developer Groups) around the world; the local edition is organized by volunteers from the city's GDG chapter, a one-day format with multiple tracks (cloud, AI, web, mobile, Android)."
+  pt-BR: "DevFest é o evento anual-flagship dos GDGs (Google Developer Groups) ao redor do mundo; a edição local é organizada por voluntários do capítulo GDG da cidade, formato de um dia com múltiplas trilhas (cloud, IA, web, mobile, Android)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-12-05"
+  end: "2026-12-05"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Brasília"
+  countryCode: "BR"
+  region: "BR"
+  modality: "IN_PERSON"
+geo:
+  lat: "-15.78"
+  lng: "-47.93"
+  precision: "CITY"
+links:
+  website: "https://gdg.community.dev/gdg-brasilia/"
+topics:
+  - "ai-ml"
+  - "cloud"
+  - "community"
+talkLanguages:
+  - "pt"
+cfp:
+  closesOn: "2026-10-20"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://forms.gle/fyXPfCQTzCy474ULA"
+  platform: "forms.gle"
+  benefits:
+    travel: "NO"
+    hotel: "NO"
+    ticket: "NO"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:35Z"

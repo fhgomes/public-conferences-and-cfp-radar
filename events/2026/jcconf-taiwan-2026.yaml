@@ -1,0 +1,54 @@
+id: "4686e45e-c48e-4136-9069-205d06136a1f"
+slug: "jcconf-taiwan-2026"
+name: "JCConf Taiwan 2026"
+organizer:
+  en: "Taiwan Java Community (TWJUG)"
+  pt-BR: "Taiwan Java Community (TWJUG)"
+summary:
+  en: "Annual conference of the Taiwan Java community (JCConf), jointly organized by TWJUG and TKUG. The 2026 edition was found scheduled for September 11, 2026 at the National Taiwan University International Convention Center — data that fills the panel's open date (not a conflict, just new information)."
+  pt-BR: "Conferência anual da comunidade Java de Taiwan (JCConf), organizada conjuntamente por TWJUG e TKUG. A edição 2026 foi encontrada marcada para 11 de setembro de 2026 no National Taiwan University International Convention Center — dado que preenche a data em aberto do painel (não é conflito, apenas informação nova)."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2026-09-11"
+  end: "2026-09-11"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Taipei"
+  countryCode: "TW"
+  region: "OTHER"
+  modality: "IN_PERSON"
+geo:
+  lat: "25.05"
+  lng: "121.53"
+  precision: "CITY"
+links:
+  website: "https://jcconf.tw/2026/"
+topics:
+  - "community"
+  - "java"
+  - "jvm"
+talkLanguages:
+  - "en"
+cfp:
+  closesOn: "2026-06-14"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://pretalx.com/jcconf-2026/cfp"
+  platform: "pretalx.com"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "javaconferences"
+    name: "javaconferences.org"
+    url: "https://javaconferences.org/"
+    licence: "CC0-1.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:43Z"

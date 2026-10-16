@@ -1,0 +1,40 @@
+id: "58462d8f-b628-427e-89ea-bf3e6a50c389"
+slug: "j-on-the-beach-2027"
+name: "J On The Beach 2027"
+organizer:
+  en: "YeyYey Events"
+  pt-BR: "YeyYey Events"
+summary:
+  en: "Same J On The Beach conference (Torremolinos, co-located with Lambda World and Wey Wey Web); the 2027 edition falls outside the panel's window of interest (28-29/10/2027), but the CFP (~31/03/2027) falls within it."
+  pt-BR: "Mesma conferência J On The Beach (Torremolinos, co-localizada com Lambda World e Wey Wey Web); edição 2027 fica fora da janela de interesse do painel (28-29/10/2027), mas o CFP (~31/03/2027) cai dentro dela."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-10-28"
+  end: "2027-10-29"
+  tba: false
+  status: "ESTIMATED"
+location:
+  city: "Torremolinos"
+  countryCode: "ES"
+  region: "EU"
+  modality: "HYBRID"
+geo:
+  lat: "36.62"
+  lng: "-4.5"
+  precision: "CITY"
+links:
+  website: "https://www.jonthebeach.com/"
+topics:
+  - "ai-ml"
+  - "java"
+talkLanguages:
+  - "en"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:41Z"

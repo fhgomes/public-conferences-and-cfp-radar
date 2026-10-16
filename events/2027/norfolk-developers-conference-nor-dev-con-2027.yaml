@@ -1,0 +1,53 @@
+id: "b25bdc10-987a-4bc5-8310-303f6ff657a6"
+slug: "norfolk-developers-conference-nor-dev-con-2027"
+name: "Norfolk Developers Conference (nor(DEV):con) 2027"
+organizer:
+  en: "Norfolk Developers"
+  pt-BR: "Norfolk Developers"
+summary:
+  en: "nor(DEV):con is the largest software development conference in East Anglia (Norwich, United Kingdom), organized by the Norfolk Developers community. In-person format over 3 days (1 of workshops + 2 of talks/panels) across 3 tracks."
+  pt-BR: "nor(DEV):con é a maior conferência de desenvolvimento de software de East Anglia (Norwich, Reino Unido), organizada pela comunidade Norfolk Developers. Formato presencial de 3 dias (1 de workshops + 2 de talks/painéis) em 3 trilhas."
+machineTranslated:
+  - "summary.en"
+dates:
+  start: "2027-02-24"
+  end: "2027-02-26"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Kings Centre, Norwich"
+  countryCode: "GB"
+  region: "EU"
+  modality: "IN_PERSON"
+links:
+  website: "https://nordevcon.com"
+topics:
+  - "ai-ml"
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-04-23"
+  closesOn: "2026-10-07"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/nordevcon-2027"
+  platform: "Sessionize"
+  benefits:
+    travel: "YES"
+    hotel: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+  - code: "developers-events"
+    name: "developers.events"
+    url: "https://developers.events/"
+    licence: "CC-BY-NC-4.0"
+    role: "discovered_via"
+firstPublishedAt: "2026-10-12T03:16:51Z"

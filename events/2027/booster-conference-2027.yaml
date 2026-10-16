@@ -1,0 +1,52 @@
+id: "93421f61-3e36-4d01-91d7-ba503bd30e00"
+slug: "booster-conference-2027"
+name: "Booster Conference 2027"
+organizer:
+  en: "Booster (community)"
+  pt-BR: "Booster (comunidade)"
+summary:
+  en: "Booster Conference is a software conference in Bergen, Norway, focused on architecture, career and general development -- not Java-specific. Organized by the local community, with a tradition of bringing in international names for keynotes."
+  pt-BR: "Booster Conference é uma conferência de software em Bergen, Noruega, com foco em arquitetura, carreira e desenvolvimento geral -- não específica de Java. Organizada pela comunidade local, com tradição de trazer nomes internacionais para keynotes."
+machineTranslated:
+  - "organizer.en"
+  - "summary.en"
+dates:
+  start: "2027-03-17"
+  end: "2027-03-19"
+  tba: false
+  status: "CONFIRMED"
+location:
+  city: "Bergen"
+  countryCode: "NO"
+  region: "EU"
+  modality: "IN_PERSON"
+geo:
+  lat: "60.39"
+  lng: "5.32"
+  precision: "CITY"
+links:
+  website: "https://www.boosterconf.no/"
+topics:
+  - "architecture"
+  - "career"
+talkLanguages:
+  - "en"
+cfp:
+  opensOn: "2026-05-01"
+  closesOn: "2026-10-09"
+  timezone: "America/Sao_Paulo"
+  closeTimeKnown: false
+  url: "https://sessionize.com/booster-conference-2027"
+  platform: "Sessionize"
+  benefits:
+    ticket: "YES"
+  verification:
+    status: "unverified"
+verification:
+  status: "unverified"
+sources:
+  - code: "cfp-radar"
+    name: "CFP Radar data"
+    licence: "CC-BY-4.0"
+    role: "origin"
+firstPublishedAt: "2026-10-12T03:16:32Z"
